@@ -8,7 +8,7 @@ Authors are required to register all their conflicts when sumbtting a paper, inc
 ### Export coauthors
 
 ```
-./export-coauthors.sh author_dblp_url start_year [file_name]"
+./export-coauthors.sh author_dblp_url start_year [file_name]
 ```
 
 
