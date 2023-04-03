@@ -25,7 +25,7 @@ replace_str=".xml"
 result=${author_dblp_url//$find_str/$replace_str}
 
 rm -f bib.xml
-wget -q -O bib.xml $result
+wget -q -O bib.xml $result && mv bib.xml bib.xml.gz; gunzip bib.xml.gz
 
 # Extract author name from paper records (frm specified year to now)
 line=$(grep -rin "year>$start_year" bib.xml |tail -n 1|cut -d ":" -f 2)
