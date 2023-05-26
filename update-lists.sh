@@ -15,7 +15,7 @@ generate_coauthors() {
     local start_year=$2
     local num_years=$3
 
-    local filename="Prof-${lastname}-last-${num_years}-"
+    local filename="Prof-${lastname}-past-${num_years}-"
     if [ "$num_years" -gt 1 ]; then
         filename+="years.txt"
     else
