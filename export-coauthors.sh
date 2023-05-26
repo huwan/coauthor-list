@@ -24,7 +24,6 @@ replace_str=".xml"
 # notice the the str isn't prefixed with $
 result=${author_dblp_url//$find_str/$replace_str}
 
-rm -f bib.xml
 wget -q -O bib.xml $result
 if file bib.xml | grep -q "gzip compressed"; then mv bib.xml bib.xml.gz; gunzip bib.xml.gz; fi
 
@@ -43,6 +42,7 @@ then
     echo "No co-authors found."
 else
     head -n $line bib.xml | grep author | cut -d ">" -f 2 | cut -d "<" -f 1 | perl -n -mHTML::Entities -mutf8 -e 'binmode(STDOUT, ":utf8"); print HTML::Entities::decode_entities($_) ;' | awk '{sub(/[0-9]+$/,"")}1' | awk '{$1=$1};1' |sort -u > $file_name
-    echo "Saved co-authors to $file_name."
+    # echo "Saved co-authors to $file_name."
 fi
 
+rm -f bib.xml

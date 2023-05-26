@@ -1,36 +1,18 @@
-# Export coauthors
-A bash script for exporting the coauthors of the given author from DBLP to help declare the conflicts of interest.
+# Coauthor lists for M Lab professors
 
-Authors are required to register all their conflicts when sumbtting a paper, including a conflict of interest with the people they have collaborated in writing a joint paper for the past several years. This script can export all coauthors of the papers published from the specified year.
+Authors are required to register all their conflicts when sumbtting a paper, including a conflict of interest with the people they have collaborated in writing a joint paper for the past several years. This repo contains coauthor list based on the papers published for each professor in M Lab to help declare the conflicts of interest.
 
-## Usage
+## Download
 
-### Export coauthors
+The duration for authors to disclose any conflicts may differ based on the conference, usually ranging from two to five years. Kindly download the relevant file that suits your requirements.
 
-```
-./export-coauthors.sh author_dblp_url start_year [file_name]
-```
+| Name | Last 1 year | Last 2 years | Last 3 years | Last 4 years | Last 5 years |
+|------|---------------|---------------|---------------|---------------|---------------|
+| Prof Guan | [Download](./Prof-Guan-last-1-year.txt) |[Download](./Prof-Guan-last-2-years.txt) |[Download](./Prof-Guan-last-3-years.txt) |[Download](./Prof-Guan-last-4-years.txt) |[Download](./Prof-Guan-last-5-years.txt) |
+| Prof Kuo | [Download](./Prof-Kuo-last-1-year.txt) |[Download](./Prof-Kuo-last-2-years.txt) |[Download](./Prof-Kuo-last-3-years.txt) |[Download](./Prof-Kuo-last-4-years.txt) |[Download](./Prof-Kuo-last-5-years.txt) |
+| Prof Xue | [Download](./Prof-Xue-last-1-year.txt) |[Download](./Prof-Xue-last-2-years.txt) |[Download](./Prof-Xue-last-3-years.txt) |[Download](./Prof-Xue-last-4-years.txt) |[Download](./Prof-Xue-last-5-years.txt) |
 
-
-Arguments:
-- `author_dblp_url`: The url of the author's dblp homepage.
-- `start_year`: Export coauthors for papers published between this specified year and the current year (both included).
-- `file_name` (optional): Export coauthors to this file.
-
-
-For example, to export Prof. Kuo's coauthors from year 2020 (to now) and save the coauthors to `coauthors-kuo.txt` file:
-
-```
-./export-coauthors.sh https://dblp.org/pid/07/3181.html 2020 coauthors-kuo.txt
-```
-
-**Note:** This script exports coauthors for one author at a time. You may run this script for each author of your paper and get all coauthors. Put all coauthors in a file (e.g., `cat author1.txt author2.txt >> all-coauthors.txt`), and remove duplicate coauthors (e.g., `sort -u all-coauthors.txt`).
-
-
-### List potential conflict people
-Put all the program committee members and reviewers from the paper submission site in a text file, for example, `pc.txt`. Then use the following command to compare them with your coauthors and list all potential conflict people.
-
-```
-grep -o -f pc.txt all-coauthors.txt
-```
+**Tips:**
+1. Download the necessary files and compile all coauthors into a single file using the command `cat author1.txt author2.txt >> all-coauthors.txt`. Then, remove any duplicate coauthors by running the command `sort -u all-coauthors.txt`.
+2. To obtain a list of individuals who may have conflicts of interest, compile all program committee members and paper reviewers from the submission site into a text file (e.g., `pc.txt`). Next, use the `grep -o -f pc.txt all-coauthors.txt` command to compare this list with your co-authors and generate a roster of potential conflict cases.
 
