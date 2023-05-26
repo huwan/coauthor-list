@@ -3,10 +3,11 @@ Bo-Rong Lin
 Changlong Li
 Changsheng Xie
 Chao Wu
+Che-Wei Tsao
 Chenchen Fu
 Cheng Ji
 Cheng Yu
-Che-Wei Tsao
+Chi-Yin Chow
 Chia-Chun Hung
 Chia-Lin Yang
 Chia-Ming Hu
@@ -16,13 +17,12 @@ Chih-Chuan Cheng
 Chih-Hsuan Yen
 Chih-Yuan Lu
 Chin-Chiang Pan
-Chi-Yin Chow
 Chong-Ying Lee
 Christian Hakert
-Chun-Feng Wu
-Chung Kuang Chen
-Chun-Hsiung Hung
 Chun Jason Xue
+Chun-Feng Wu
+Chun-Hsiung Hung
+Chung Kuang Chen
 Chunjiang Zhu
 Congming Gao
 David H. C. Du
@@ -36,14 +36,14 @@ Harinath Garudadri
 Hasan Alhasan
 Hashan R. Mendis
 Hashan Roshantha Mendis
-Hongchao Du
 Hong Xu
+Hongchao Du
 Hsiang-Pang Li
 Hsiang-Yun Cheng
+Hu Wan
 Huai-Mu Wang
 Hung-Chih Hsieh
 Hung-Sheng Chang
-Hu Wan
 Jian-Jia Chen
 Jianqiang Nie
 Jinghuan Yu
@@ -55,12 +55,12 @@ Kuan-Hsun Chen
 Kun-Cheng Hsu
 Kuo-Hsuan Hung
 Leandro Soares Indrusiak
-Liang Shi
 Li-Pin Chang
+Liang Shi
 Meng-Fan Chang
-Ming-Chang Yang
-Min Ye
 Mi-Yen Yeh
+Min Ye
+Ming-Chang Yang
 Nan Guan
 Pi-Cheng Hsiu
 Ping-Hsien Lin
@@ -69,10 +69,10 @@ Rachata Ausavarungnirun
 Riwei Pan
 Shangyu Wu
 Sheng-Wei Cheng
-Shuhan Bai
 Shu-Hsien Liao
-Shun Deng
 Shu-Yin Ho
+Shuhan Bai
+Shun Deng
 Siyu Chen
 Szu-Wei Fu
 Tei-Wei Kuo
@@ -83,41 +83,41 @@ Tse-Yuan Wang
 Tsun-An Hsieh
 Tsung-Han Kuo
 Tzu-Hsiang Su
-Wei-Chen Wang
 Wei-Che Tsai
+Wei-Chen Wang
 Wei-Ming Chen
 Wuguannan Yao
 Xianzhang Chen
 Xiaofei Zhao
 Xiaoqiang Li
 Xuan Sun
-Xue Liu
 Xue (Steve) Liu
+Xue Liu
 Yajuan Du
 Yao-Wen Kang
 Yen-Po Lin
 Yen-Yu Lin
-Yin-Chiuan Chen
 Yi-Shen Chen
 Yi-Te Hsu
 Yi-Ting Chen
 Yi-Ting Lai
-Yuan-Hao Chang
+Yin-Chiuan Chen
+Yu Liang
+Yu Mao
+Yu Tsao
 Yu-Chao Lin
 Yu-Chen Lin
 Yu-Chen Wu
 Yu-Chuan Chang
-Yueh-Han Wu
-Yufei Cui
-Yu Liang
-Yu Mao
 Yu-Ming Chang
 Yu-Ming Huang
+Yuan-Hao Chang
+Yueh-Han Wu
+Yufei Cui
+Yun Huang
 Yun-Chih Chen
 Yung-Chun Lee
-Yun Huang
 Yunmo Zhang
-Yu Tsao
 Zhenge Jia
 Zhu-Mu Chen
 Ziquan Liu

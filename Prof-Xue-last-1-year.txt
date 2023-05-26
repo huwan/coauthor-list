@@ -8,8 +8,8 @@ Chia-Lin Yang
 Chuanwen Wang
 Chun Jason Xue
 Chun Xue
-Congming Gao
 Cong Wang
+Congming Gao
 Dongdong Tang
 Dongsu Han
 Duo Liu
@@ -18,11 +18,11 @@ Fei Wu
 Hai (Helen) Li
 Hai Li
 Haopeng Yan
-Hongchao Du
 Hong Xu
+Hongchao Du
+Hu Wan
 Huazhong Yang
 Hung-Chih Hsieh
-Hu Wan
 Jason Xue
 Jiacheng Huang
 Jiamin Li
@@ -37,14 +37,14 @@ Kaisheng Ma
 Keith Winstein
 Kun Lu
 Liang Shi
-Libing Wu
 Libin Liu
+Libing Wu
 Longfei Luo
-Mahathir Almashor
 M. Ejaz Ahmed
-Ming Ma
+Mahathir Almashor
 Min Peng
 Min Ye
+Ming Ma
 Muhammad Shafique
 Nan Guan
 Peng Cheng
@@ -73,15 +73,15 @@ Theocharis Theocharides
 Tianyu Ren
 Tongda Wu
 Wei Wang
-Weiwei Wu
 Wei Zhang
+Weiwei Wu
 Wuguannan Yao
 Xianzhang Chen
 Xiaoliu Feng
 Xiaoxing Qiu
 Xin Gao
-Xinhang Lu
 Xin Shi
+Xinhang Lu
 Xuan Sun
 Xue Han
 Xueyong Xu
@@ -91,9 +91,9 @@ Yongpan Liu
 Yongqiang Xiong
 Young-ri Choi
 Youtao Zhang
-Yufei Cui
 Yu Liang
 Yu Mao
+Yufei Cui
 Yun Huang
 Yunmo Zhang
 Zhixiong Niu

@@ -5,8 +5,8 @@ Benjamin Pick
 Bo Zhou
 Changlong Li
 Changsheng Xie
-Chaoran Li
 Chao Wu
+Chaoran Li
 Chen Chen
 Chenchen Fu
 Cheng Ji
@@ -18,8 +18,8 @@ Chuanwen Wang
 Chun Jason Xue
 Chun Xue
 Clay Patterson
-Congming Gao
 Cong Wang
+Congming Gao
 Dongdong Tang
 Dongsu Han
 Duo Liu
@@ -32,12 +32,12 @@ Hai Li
 Han Wang
 Haopeng Yan
 Heejin Yoon
-Hongchao Du
 Hong Xu
+Hongchao Du
+Hu Wan
 Huanghe Liu
 Huazhong Yang
 Hung-Chih Hsieh
-Hu Wan
 Jason Xue
 Jiacheng Huang
 Jiamin Li
@@ -55,26 +55,26 @@ Jun Yang
 Kai Liu
 Kaisheng Ma
 Kaiwei Mo
-Keith Winstein
 Ke Liu
+Keith Winstein
 Keni Qiu
 Kun Lu
 Laurence T. Yang
 Lei Ju
-Liang Shi
-Libing Wu
-Libin Liu
 Li-Pin Chang
+Liang Shi
+Libin Liu
+Libing Wu
 Longfei Luo
+M. Ejaz Ahmed
 Mahathir Almashor
 Marko Rukonic
-M. Ejaz Ahmed
 Mengting Yuan
 Mengying Zhao
-Ming Ma
-Minming Li
 Min Peng
 Min Ye
+Ming Ma
+Minming Li
 Muhammad Ejaz Ahmed
 Muhammad Shafique
 Nan Guan
@@ -109,12 +109,12 @@ Tianyu Ren
 Tianyu Wang
 Tongda Wu
 Vijaykrishnan Narayanan
-Weiguang Liu
-Weilan Wang
 Wei Li
 Wei Wang
-Weiwei Wu
 Wei Zhang
+Weiguang Liu
+Weilan Wang
+Weiwei Wu
 Wuguannan Yao
 Xianzhang Chen
 Xiao Chen
@@ -122,8 +122,8 @@ Xiaoliu Feng
 Xiaoqiang Li
 Xiaoxing Qiu
 Xin Gao
-Xinhang Lu
 Xin Shi
+Xinhang Lu
 Xinyi Zhang
 Xuan Sun
 Xue Han
@@ -140,9 +140,9 @@ Yongpan Liu
 Yongqiang Xiong
 Young-ri Choi
 Youtao Zhang
-Yufei Cui
 Yu Liang
 Yu Mao
+Yufei Cui
 Yun Huang
 Yunmo Zhang
 Zelin Yun

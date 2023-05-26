@@ -6,15 +6,15 @@ Benjamin Pick
 Bo Zhou
 Changlong Li
 Changsheng Xie
-Chaoran Li
-Chaoshu Yang
 Chao Wu
 Chao Zhang
+Chaoran Li
+Chaoshu Yang
 Chen Chen
+Chen Pan
 Chenchen Fu
 Cheng Ji
 Chengmo Yang
-Chen Pan
 Chenyun Yu
 Chia-Lin Yang
 Christopher Lesner
@@ -24,8 +24,8 @@ Chuanwen Wang
 Chun Jason Xue
 Chun Xue
 Clay Patterson
-Congming Gao
 Cong Wang
+Congming Gao
 Dongdong Tang
 Dongsu Han
 Donkyu Baek
@@ -44,14 +44,14 @@ Han Wang
 Haopeng Yan
 Heejin Yoon
 Hehe Li
-Hongchao Du
 Hong Xu
+Hongchao Du
+Hu Wan
 Huafeng Yu
 Huanghe Liu
 Huazhong Yang
 Huizhang Luo
 Hung-Chih Hsieh
-Hu Wan
 Isaac Triguero
 James She
 Jason Xue
@@ -71,40 +71,40 @@ Jinhua Cui
 Jinshan Yue
 Jinyang Li
 Jiwu Shu
-Junlong Zhou
 Jun Yang
-Kaijie Wu
+Junlong Zhou
 Kai Liu
+Kai Wang
+Kaijie Wu
 Kaisheng Ma
 Kaisheng Zeng
-Kai Wang
 Kaiwei Mo
 Kang Eun Jeon
-Keith Winstein
 Ke Liu
+Keith Winstein
 Keni Qiu
 Kun Lu
 Laurence T. Yang
 Lei Ju
-Liang Shi
-Libing Wu
-Libin Liu
-Lingxiao Wei
 Li-Pin Chang
+Liang Shi
+Libin Liu
+Libing Wu
+Lingxiao Wei
 Longfei Luo
 Lun Wang
+M. Ejaz Ahmed
 Mahathir Almashor
 Marko Rukonic
-M. Ejaz Ahmed
 Mengting Yuan
 Mengying Zhao
 Michael Hübner
 Michael M. Swift
 Mimi Xie
-Ming Ma
-Minming Li
 Min Peng
 Min Ye
+Ming Ma
+Minming Li
 Mohammad Abdullah Al Faruque
 Muhammad Ejaz Ahmed
 Muhammad Shafique
@@ -114,10 +114,10 @@ Peichen Xie
 Peng Cheng
 Peng Wang
 Peng Wu
-Qiangqiang Liu
 Qiang Su
 Qiang Sun
 Qiang Xu
+Qiangqiang Liu
 Qiao Li
 Qing'an Li
 Qingan Li
@@ -145,8 +145,8 @@ Shiqing Li
 Shouzhen Gu
 Shuhan Bai
 Shun Deng
-Shuo-Han Chen
 Shuo Wang
+Shuo-Han Chen
 Siyu Chen
 Song Han
 Soochang Park
@@ -161,15 +161,15 @@ Tongda Wu
 Tongquan Wei
 Vijaykrishnan Narayanan
 Vincent Chau
+Wei Li
+Wei Liu
+Wei Wang
+Wei Zhang
 Weiguang Liu
 Weiguo Wu
 Weilan Wang
-Wei Li
-Wei Liu
 Weining Song
-Wei Wang
 Weiwei Wu
-Wei Zhang
 Wuguannan Yao
 Xian Zhang
 Xianzhang Chen
@@ -180,9 +180,9 @@ Xiaoqiang Li
 Xiaoxing Qiu
 Xiaoyu Feng
 Xin Gao
-Xinhang Lu
 Xin Li
 Xin Shi
+Xinhang Lu
 Xinyi Zhang
 Xuan Sun
 Xue Han
@@ -204,16 +204,16 @@ Yongpan Liu
 Yongqiang Xiong
 Young-ri Choi
 Youtao Zhang
+Yu Liang
+Yu Mao
 Yuanchao Xu
 Yufei Cui
 Yujie Zhu
-Yu Liang
-Yu Mao
 Yun Huang
 Yunmo Zhang
 Zelin Yun
-Zhenge Jia
 Zhe Yuan
+Zhenge Jia
 Zhiping Jia
 Zhixiong Niu
 Zili Shao
