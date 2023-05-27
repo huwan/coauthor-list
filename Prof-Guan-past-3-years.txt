@@ -67,6 +67,7 @@ Onur Mutlu
 Pan Dong
 Peng Chen
 Peng Zeng
+Qianling Zhang
 Qingqiang He
 Qingxu Deng
 Qinming Zhang
@@ -141,4 +142,5 @@ Zhishan Guo
 Zhiwei Feng
 Zhixiong Hao
 Zili Shao
+Zimeng Zhou
 Zimu Zheng

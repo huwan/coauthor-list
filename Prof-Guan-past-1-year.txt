@@ -19,6 +19,7 @@ Jinghao Sun
 Jinkyu Lee
 Jinrong Liu
 Jun Zhou
+Lei Ju
 Lei Qiao
 Liwei Zhang
 Maolin Yang
@@ -31,10 +32,12 @@ Neil C. Audsley
 Neiwen Ling
 Pan Dong
 Peng Chen
+Qianling Zhang
 Qingqiang He
 Qingxu Deng
 Qinming Zhang
 Qiong Chen
+Qiulin Chen
 Quan Zhou
 Ran Bi
 Ran Wei
@@ -44,6 +47,7 @@ Ruoxiang Li
 Seongtae Lee
 Shuai Zhao
 Shuangshuang Chang
+Songran Liu
 Tao Jin
 Tei-Wei Kuo
 Tingtao Li
@@ -80,4 +84,5 @@ Zhenyu Yan
 Zhihe Zhao
 Zhishan Guo
 Zhixiong Hao
+Zimeng Zhou
 Zimu Zheng

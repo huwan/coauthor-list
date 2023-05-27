@@ -36,6 +36,7 @@ Jun Zhou
 Junjie Yang
 Kai Huang
 Kecheng Yang
+Lei Ju
 Lei Qiao
 Lei Yang
 Liwei Zhang
@@ -52,6 +53,7 @@ Neiwen Ling
 Pan Dong
 Peng Chen
 Peng Zeng
+Qianling Zhang
 Qingqiang He
 Qingxu Deng
 Qinming Zhang
@@ -114,4 +116,5 @@ Zhihe Zhao
 Zhishan Guo
 Zhiwei Feng
 Zhixiong Hao
+Zimeng Zhou
 Zimu Zheng
