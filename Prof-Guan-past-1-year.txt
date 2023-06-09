@@ -1,6 +1,7 @@
 Arun Vishwanath
 Cheng Fan
 Cheng Zhuo
+Chuancai Gu
 Chun Jason Xue
 Chunhua Xiao
 Dan Wang
@@ -45,10 +46,13 @@ Richard Paterson
 Rong Su
 Ruoxiang Li
 Seongtae Lee
+Shaoshan Liu
 Shuai Zhao
 Shuangshuang Chang
+Shuhan Bai
 Songran Liu
 Tao Jin
+Tao Yang
 Tei-Wei Kuo
 Tingtao Li
 Wang Yi
@@ -75,6 +79,7 @@ Yiyuan Xie
 Yue Tang
 Yufei Chen
 Yulong Wu
+Yun Huang
 Yuze He
 Zewei Chen
 Zhe Jiang
@@ -86,3 +91,4 @@ Zhishan Guo
 Zhixiong Hao
 Zimeng Zhou
 Zimu Zheng
+Zonghua Gu

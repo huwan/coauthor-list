@@ -68,9 +68,11 @@ Rongxiao Shi
 Ruoxiang Li
 Samsil Arefin
 Seongtae Lee
+Shaoshan Liu
 Shiqing Li
 Shuai Zhao
 Shuangshuang Chang
+Shuhan Bai
 Songran Liu
 Tao Jin
 Tao Yang
@@ -106,6 +108,7 @@ Yue Tang
 Yufei Chen
 Yuhan Lin
 Yulong Wu
+Yun Huang
 Yuze He
 Zewei Chen
 Zhe Jiang
@@ -118,3 +121,4 @@ Zhiwei Feng
 Zhixiong Hao
 Zimeng Zhou
 Zimu Zheng
+Zonghua Gu
