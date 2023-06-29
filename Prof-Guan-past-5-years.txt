@@ -53,9 +53,11 @@ Juan Gómez-Luna
 Jun Zhou
 Junjie Yang
 Kai Huang
+Kailu Duan
 Kankan Wang
 Kecheng Yang
 Kexuan Wang
+Laiwen Li
 Lei Cao
 Lei Jiang
 Lei Ju
@@ -111,6 +113,7 @@ Shuai Zhao
 Shuangshuang Chang
 Shuhan Bai
 Songran Liu
+Tao Hu
 Tao Jin
 Tao Yang
 Tei-Wei Kuo
@@ -130,6 +133,7 @@ Weizhe Zhang
 Wenchen Liu
 Wenjing Xie
 Wentao Zhu
+Wenxuan Xing
 Xi Jin
 Xi Zhang
 Xian Shuai
@@ -137,6 +141,7 @@ Xiang Long
 Xiantong Luo
 Xiaoqing Wang
 Xiaotian Dai
+Xisheng Li
 Xu Jiang
 Xuan Huang
 Xuan Sun

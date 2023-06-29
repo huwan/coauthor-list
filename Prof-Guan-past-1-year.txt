@@ -20,6 +20,8 @@ Jinghao Sun
 Jinkyu Lee
 Jinrong Liu
 Jun Zhou
+Kailu Duan
+Laiwen Li
 Lei Ju
 Lei Qiao
 Liwei Zhang
@@ -51,6 +53,7 @@ Shuai Zhao
 Shuangshuang Chang
 Shuhan Bai
 Songran Liu
+Tao Hu
 Tao Jin
 Tao Yang
 Tei-Wei Kuo
@@ -62,9 +65,11 @@ Wei Zhang
 Weichen Liu
 Weizhe Zhang
 Wenjing Xie
+Wenxuan Xing
 Xian Shuai
 Xiantong Luo
 Xiaotian Dai
+Xisheng Li
 Xu Jiang
 Xuan Huang
 Xuan Sun
