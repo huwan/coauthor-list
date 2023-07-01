@@ -21,6 +21,7 @@ Chun-Feng Wu
 Chun-Hsiung Hung
 Chung Kuang Chen
 Chunjiang Zhu
+Cong Wang
 Congming Gao
 Dongdong Tang
 Fei Wu
@@ -69,6 +70,7 @@ Tzu-Hsiang Su
 Wei-Che Tsai
 Wei-Chen Wang
 Wei-Ming Chen
+Xiangyu Liu
 Xianzhang Chen
 Xiaofei Zhao
 Xuan Sun
@@ -95,3 +97,4 @@ Yung-Chun Lee
 Yunmo Zhang
 Zhenge Jia
 Zhu-Mu Chen
+Ziquan Liu
