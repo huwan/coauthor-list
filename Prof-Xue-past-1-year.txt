@@ -24,6 +24,7 @@ Hu Wan
 Huazhong Yang
 Hung-Chih Hsieh
 Jason Xue
+Jen-Ming Wu
 Jiacheng Huang
 Jiamin Li
 Jinghuan Yu
@@ -58,6 +59,7 @@ Rachata Ausavarungnirun
 Raj Gaire
 Ran Shu
 Riwei Pan
+Ruoxiang Li
 Sam H. Noh
 Seyit Camtepe
 Shangyu Wu
@@ -99,6 +101,7 @@ Yu Mao
 Yufei Cui
 Yun Huang
 Yunmo Zhang
+Zheng Dong
 Zhixiong Niu
 Ziquan Liu
 Zongwei Zhu

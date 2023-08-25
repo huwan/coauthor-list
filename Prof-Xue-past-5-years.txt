@@ -55,6 +55,7 @@ Hung-Chih Hsieh
 Isaac Triguero
 James She
 Jason Xue
+Jen-Ming Wu
 Jiacheng Huang
 Jiamin Li
 Jianhua Li
@@ -131,6 +132,7 @@ Ran Shu
 Riwei Pan
 Rui Wang
 Ruoxi Sun
+Ruoxiang Li
 Sam H. Noh
 Sang-Ha Kim
 Sangwook Shane Hahn
@@ -215,6 +217,7 @@ Yun Huang
 Yunmo Zhang
 Zelin Yun
 Zhe Yuan
+Zheng Dong
 Zhenge Jia
 Zhiping Jia
 Zhixiong Niu
