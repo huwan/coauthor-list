@@ -45,6 +45,7 @@ Kaisheng Ma
 Kaiwei Mo
 Keith Winstein
 Kun Lu
+Lei Ju
 Li-Pin Chang
 Liang Shi
 Libin Liu
@@ -124,5 +125,6 @@ Yunmo Zhang
 Zelin Yun
 Zheng Dong
 Zhixiong Niu
+Zimeng Zhou
 Ziquan Liu
 Zongwei Zhu

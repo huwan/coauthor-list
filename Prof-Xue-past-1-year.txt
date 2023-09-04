@@ -37,6 +37,7 @@ Jun Yang
 Kaisheng Ma
 Keith Winstein
 Kun Lu
+Lei Ju
 Liang Shi
 Libin Liu
 Libing Wu
@@ -103,5 +104,6 @@ Yun Huang
 Yunmo Zhang
 Zheng Dong
 Zhixiong Niu
+Zimeng Zhou
 Ziquan Liu
 Zongwei Zhu
