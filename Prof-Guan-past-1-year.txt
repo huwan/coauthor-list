@@ -9,6 +9,7 @@ Dawei Yang
 Dong Ji
 Dongdong Tang
 Fangming Liu
+Gang Chen
 Guoliang Xing
 Guozhen Tan
 Hao Yu
@@ -21,6 +22,7 @@ Jinghao Sun
 Jinkyu Lee
 Jinrong Liu
 Jun Zhou
+Kai Huang
 Kailu Duan
 Laiwen Li
 Lei Ju
@@ -82,7 +84,9 @@ Yang Bai
 Yang Wang
 Ye Ma
 Yekai Xue
+Yibo Zhang
 Yiyuan Xie
+Yuanhai Zhang
 Yue Tang
 Yufei Chen
 Yulong Wu
@@ -96,6 +100,7 @@ Zhenyu Yan
 Zhihe Zhao
 Zhishan Guo
 Zhixiong Hao
+Zijin Xu
 Zimeng Zhou
 Zimu Zheng
 Zonghua Gu
