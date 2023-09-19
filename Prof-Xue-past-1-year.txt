@@ -65,6 +65,7 @@ Ruoxiang Li
 Sam H. Noh
 Seyit Camtepe
 Shangyu Wu
+Shaofeng Wu
 Sharif Abuadbba
 Shudeng Wu
 Shuhan Bai
@@ -104,6 +105,7 @@ Yu Mao
 Yufei Cui
 Yun Huang
 Yunmo Zhang
+Zaoxing Liu
 Zheng Dong
 Zhixiong Niu
 Zimeng Zhou
