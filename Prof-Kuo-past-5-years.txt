@@ -11,8 +11,11 @@ Chi-Yin Chow
 Chia-Chun Hung
 Chia-Lin Yang
 Chia-Ming Hu
+Chia-Yin Liu
+Chieh-Lin Tsai
 Chien-Chung Ho
 Chih-Chang Hsieh
+Chih-Chia Lin
 Chih-Chuan Cheng
 Chih-Hsuan Yen
 Chih-Yuan Lu
@@ -30,6 +33,7 @@ David H. C. Du
 Dongdong Tang
 Fei Wu
 Fenggang Wu
+Georg von der Brüggen
 Han-Sung Chen
 Han-Wen Hu
 Han-Yi Lin
@@ -58,11 +62,13 @@ Kuo-Hsuan Hung
 Leandro Soares Indrusiak
 Li-Pin Chang
 Liang Shi
+Mario Günzel
 Meng-Fan Chang
 Mi-Yen Yeh
 Min Ye
 Ming-Chang Yang
 Nan Guan
+Niklas Ueter
 Pi-Cheng Hsiu
 Ping-Hsien Lin
 Qiao Li
@@ -120,6 +126,7 @@ Yun Huang
 Yun-Chih Chen
 Yung-Chun Lee
 Yunmo Zhang
+Zheng-Wei Wu
 Zhenge Jia
 Zhu-Mu Chen
 Ziquan Liu

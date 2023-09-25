@@ -27,6 +27,7 @@ Feng Li
 Gang Chen
 Guangyi Xu
 Guoliang Xing
+Guoqi Xie
 Guozhen Tan
 Han Wan
 Hancong Duan
@@ -72,6 +73,7 @@ Mingsong Lv
 Minjie Xiang
 Nan Guan
 Nan Zhang
+Nathan Fisher
 Neil C. Audsley
 Neiwen Ling
 Nenggan Zheng
@@ -125,6 +127,7 @@ Weichen Liu
 Weihe Wang
 Weizhe Zhang
 Wenchen Liu
+Wenhong Ma
 Wenjing Xie
 Wentao Zhu
 Wenxuan Xing
@@ -132,6 +135,7 @@ Xi Jin
 Xi Zhang
 Xian Shuai
 Xiang Long
+Xiangzhen Xiao
 Xiantong Luo
 Xiaoqing Wang
 Xiaotian Dai
@@ -152,6 +156,7 @@ Yekai Xue
 Yi Zhang
 Yibo Zhang
 Yiyuan Xie
+Yu Jiang
 Yuanhai Zhang
 Yue Tang
 Yue Yin
