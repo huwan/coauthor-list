@@ -34,7 +34,9 @@ Jason Xue
 Jen-Ming Wu
 Jiacheng Huang
 Jiamin Li
+Jifeng Wu
 Jinghuan Yu
+Jingling Xue
 Jingtong Hu
 Jingxian Liao
 Jingzong Li
@@ -55,6 +57,7 @@ Ling Lin
 Longfei Luo
 M. Ejaz Ahmed
 Mahathir Almashor
+Mengting Yuan
 Min Peng
 Min Ye
 Ming Ma
@@ -96,6 +99,7 @@ Theocharis Theocharides
 Tianyu Ren
 Tianyu Wang
 Tongda Wu
+Wei Li
 Wei Wang
 Wei Zhang
 Weiwei Wu
