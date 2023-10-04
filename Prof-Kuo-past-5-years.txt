@@ -71,11 +71,13 @@ Nan Guan
 Niklas Ueter
 Pi-Cheng Hsiu
 Ping-Hsien Lin
+Ping-Xiang Chen
 Qiao Li
 Rachata Ausavarungnirun
 Riwei Pan
 Shangyu Wu
 Sheng-Wei Cheng
+Shih-Chun Chou
 Shu-Hsien Liao
 Shu-Yin Ho
 Shuhan Bai
@@ -118,6 +120,7 @@ Yu-Chao Lin
 Yu-Chen Lin
 Yu-Chen Wu
 Yu-Chuan Chang
+Yu-Fang Chen
 Yu-Ming Chang
 Yu-Ming Huang
 Yuan-Hao Chang

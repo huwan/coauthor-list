@@ -45,13 +45,16 @@ Kuo-Hsuan Hung
 Mario Günzel
 Meng-Fan Chang
 Min Ye
+Ming-Chang Yang
 Nan Guan
 Niklas Ueter
 Pi-Cheng Hsiu
+Ping-Xiang Chen
 Qiao Li
 Rachata Ausavarungnirun
 Riwei Pan
 Shangyu Wu
+Shih-Chun Chou
 Shu-Hsien Liao
 Shuhan Bai
 Shun Deng
@@ -82,6 +85,7 @@ Yu Mao
 Yu Tsao
 Yu-Chao Lin
 Yu-Chen Lin
+Yu-Fang Chen
 Yu-Ming Chang
 Yu-Ming Huang
 Yuan-Hao Chang
