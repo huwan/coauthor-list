@@ -62,6 +62,7 @@ Meiling Han
 Menglong Cui
 Mengquan Li
 Mingsong Lv
+Mingsong Lyu
 Minjie Xiang
 Nan Guan
 Nan Zhang
@@ -94,7 +95,9 @@ Shuai Li
 Shuai Zhao
 Shuangshuang Chang
 Shuhan Bai
+Song Han
 Songran Liu
+Tao Gong
 Tao Hu
 Tao Jin
 Tao Yang
@@ -119,6 +122,7 @@ Xian Shuai
 Xiang Long
 Xiangzhen Xiao
 Xiantong Luo
+Xiaobo Sharon Hu
 Xiaotian Dai
 Xisheng Li
 Xu Jiang

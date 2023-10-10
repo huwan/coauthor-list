@@ -50,6 +50,7 @@ Meiling Han
 Menglong Cui
 Mengquan Li
 Mingsong Lv
+Mingsong Lyu
 Nan Guan
 Nan Zhang
 Nathan Fisher
@@ -78,7 +79,9 @@ Shiqing Li
 Shuai Zhao
 Shuangshuang Chang
 Shuhan Bai
+Song Han
 Songran Liu
+Tao Gong
 Tao Hu
 Tao Jin
 Tao Yang
@@ -99,6 +102,7 @@ Xi Zhang
 Xian Shuai
 Xiangzhen Xiao
 Xiantong Luo
+Xiaobo Sharon Hu
 Xiaotian Dai
 Xisheng Li
 Xu Jiang

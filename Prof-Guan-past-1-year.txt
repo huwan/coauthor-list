@@ -34,6 +34,7 @@ Mei Tian
 Menglong Cui
 Mengquan Li
 Mingsong Lv
+Mingsong Lyu
 Nan Guan
 Nan Zhang
 Nathan Fisher
@@ -58,11 +59,14 @@ Shaoshan Liu
 Shuai Zhao
 Shuangshuang Chang
 Shuhan Bai
+Song Han
 Songran Liu
+Tao Gong
 Tao Hu
 Tao Jin
 Tao Yang
 Tei-Wei Kuo
+Tianyu Zhang
 Tingtao Li
 Wang Yi
 Wanli Chang
@@ -76,6 +80,7 @@ Wenxuan Xing
 Xian Shuai
 Xiangzhen Xiao
 Xiantong Luo
+Xiaobo Sharon Hu
 Xiaotian Dai
 Xisheng Li
 Xu Jiang
