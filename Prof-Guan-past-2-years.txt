@@ -26,6 +26,8 @@ Hao Yu
 Haochun Liang
 He Du
 Heming Fu
+Hiroshi Yamada
+Hiroyuki Tomiyama
 Hui Chen
 Jen-Ming Wu
 Jiangshan Yu
@@ -73,6 +75,7 @@ Rong Su
 Rongxiao Shi
 Ruoxiang Li
 Samsil Arefin
+Sebastian Steinhorst
 Seongtae Lee
 Shaoshan Liu
 Shiqing Li
@@ -87,6 +90,7 @@ Tao Jin
 Tao Yang
 Tei-Wei Kuo
 Tianyu Zhang
+Ting He
 Tingtao Li
 Wang Yi
 Wanli Chang

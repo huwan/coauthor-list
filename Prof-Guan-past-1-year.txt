@@ -16,6 +16,8 @@ Guozhen Tan
 Hao Yu
 Haochun Liang
 Heming Fu
+Hiroshi Yamada
+Hiroyuki Tomiyama
 Hui Chen
 Jen-Ming Wu
 Jiangshan Yu
@@ -54,6 +56,7 @@ Ran Wei
 Richard Paterson
 Rong Su
 Ruoxiang Li
+Sebastian Steinhorst
 Seongtae Lee
 Shaoshan Liu
 Shuai Zhao
@@ -67,6 +70,7 @@ Tao Jin
 Tao Yang
 Tei-Wei Kuo
 Tianyu Zhang
+Ting He
 Tingtao Li
 Wang Yi
 Wanli Chang

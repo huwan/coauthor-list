@@ -38,6 +38,8 @@ Haochun Liang
 Haoyi Xiong
 He Du
 Heming Fu
+Hiroshi Yamada
+Hiroyuki Tomiyama
 Hui Chen
 Huimin Gao
 Jelena Spasic
@@ -106,6 +108,7 @@ Rong Su
 Rongxiao Shi
 Ruoxiang Li
 Samsil Arefin
+Sebastian Steinhorst
 Seongtae Lee
 Shaomin Zhang
 Shaoshan Liu
@@ -126,6 +129,7 @@ Tei-Wei Kuo
 Thidapat Chantem
 Tianfei Xu
 Tianyu Zhang
+Ting He
 Tingtao Li
 Todor P. Stefanov
 Wang Yi
