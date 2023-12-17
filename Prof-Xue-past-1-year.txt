@@ -3,6 +3,7 @@ Antoni B. Chan
 Benjamin Pick
 Changlong Li
 Changsheng Xie
+Chao Wang
 Chenchen Fu
 Chia-Lin Yang
 Chuanwen Wang
@@ -100,6 +101,7 @@ Xuan Sun
 Xue (Steve) Liu
 Xue Han
 Xue Liu
+Xuehai Zhou
 Xueyong Xu
 Yik Hong Cai
 Yina Lv

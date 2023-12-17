@@ -5,6 +5,7 @@ Benjamin Pick
 Bo Zhou
 Changlong Li
 Changsheng Xie
+Chao Wang
 Chao Wu
 Chaoran Li
 Chaoshu Yang
@@ -169,6 +170,7 @@ Xuan Sun
 Xue (Steve) Liu
 Xue Han
 Xue Liu
+Xuehai Zhou
 Xueqing Li
 Xueyong Xu
 Yajuan Du
