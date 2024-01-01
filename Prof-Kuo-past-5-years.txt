@@ -8,7 +8,6 @@ Chenchen Fu
 Cheng Ji
 Cheng Yu
 Chi-Yin Chow
-Chia-Chun Hung
 Chia-Lin Yang
 Chia-Ming Hu
 Chia-Yin Liu
@@ -16,10 +15,8 @@ Chieh-Lin Tsai
 Chien-Chung Ho
 Chih-Chang Hsieh
 Chih-Chia Lin
-Chih-Chuan Cheng
 Chih-Hsuan Yen
 Chih-Yuan Lu
-Chin-Chiang Pan
 Chong-Ying Lee
 Christian Hakert
 Chun Jason Xue
@@ -39,7 +36,6 @@ Han-Wen Hu
 Han-Yi Lin
 Harinath Garudadri
 Hasan Alhasan
-Hashan R. Mendis
 Hashan Roshantha Mendis
 Hong Xu
 Hongchao Du
@@ -57,9 +53,7 @@ Jinheng Li
 Kam-yiu Lam
 Keh-Chung Wang
 Kuan-Hsun Chen
-Kun-Cheng Hsu
 Kuo-Hsuan Hung
-Leandro Soares Indrusiak
 Li-Pin Chang
 Liang Shi
 Mario Günzel
@@ -70,7 +64,6 @@ Ming-Chang Yang
 Nan Guan
 Niklas Ueter
 Pi-Cheng Hsiu
-Ping-Hsien Lin
 Ping-Xiang Chen
 Qiao Li
 Rachata Ausavarungnirun
@@ -86,7 +79,6 @@ Siyu Chen
 Szu-Wei Fu
 Tei-Wei Kuo
 Tianyu Ren
-Ting-Kuei Hu
 Ting-Shan Lo
 Tse-Yuan Wang
 Tsun-An Hsieh

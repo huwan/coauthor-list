@@ -1,4 +1,3 @@
-Alexander Ran
 Anthony Lei
 Antoni B. Chan
 Benjamin Pick
@@ -11,39 +10,31 @@ Chaoran Li
 Chen Chen
 Chenchen Fu
 Cheng Ji
-Chengmo Yang
 Chia-Lin Yang
-Christopher Lesner
 Chuanming Ding
 Chuanwen Wang
 Chun Jason Xue
 Chun Xue
-Clay Patterson
 Cong Wang
 Congming Gao
 Dongdong Tang
 Dongsu Han
 Duo Liu
 Edwin H.-M. Sha
-Eric Shiu
-Fan Wu
 Fei Wu
 Hai (Helen) Li
 Hai Li
 Han Wang
 Haopeng Yan
-Heejin Yoon
 Hong Xu
 Hongchao Du
 Hu Wan
-Huanghe Liu
 Huazhong Yang
 Hung-Chih Hsieh
 Jason Xue
 Jen-Ming Wu
 Jiacheng Huang
 Jiamin Li
-Jianqiang Nie
 Jifeng Wu
 Jinghuan Yu
 Jingling Xue
@@ -51,19 +42,14 @@ Jingtong Hu
 Jingxian Liao
 Jingzong Li
 Jinheng Li
-Jinhua Cui
 Jinyang Li
 Jiwu Shu
 Jun Yang
-Kai Liu
 Kaisheng Ma
 Kaiwei Mo
 Kaiwen Xue
-Ke Liu
 Keith Winstein
-Keni Qiu
 Kun Lu
-Laurence T. Yang
 Lei Ju
 Li-Pin Chang
 Liang Shi
@@ -73,9 +59,7 @@ Ling Lin
 Longfei Luo
 M. Ejaz Ahmed
 Mahathir Almashor
-Marko Rukonic
 Mengting Yuan
-Mengying Zhao
 Min Peng
 Min Ye
 Ming Ma
@@ -117,34 +101,27 @@ Theocharis Theocharides
 Tianyu Ren
 Tianyu Wang
 Tongda Wu
-Vijaykrishnan Narayanan
 Wei Li
 Wei Wang
 Wei Zhang
-Weiguang Liu
-Weilan Wang
 Weiwei Wu
 Wuguannan Yao
 Xiangyu Liu
 Xianzhang Chen
 Xiao Chen
 Xiaoliu Feng
-Xiaoqiang Li
 Xiaoxing Qiu
 Xin Gao
 Xin Shi
 Xinhang Lu
-Xinyi Zhang
 Xuan Sun
 Xue (Steve) Liu
 Xue Han
 Xue Liu
 Xuehai Zhou
-Xueqing Li
 Xueyong Xu
 Yajuan Du
 Yang Xiang
-Yejia Di
 Yik Hong Cai
 Yina Lv
 Yingchao Zhao
@@ -161,8 +138,6 @@ Yunpeng Song
 Zaoxing Liu
 Zelin Yun
 Zheng Dong
-Zhenge Jia
-Zhiping Jia
 Zhixiong Niu
 Zimeng Zhou
 Ziquan Liu

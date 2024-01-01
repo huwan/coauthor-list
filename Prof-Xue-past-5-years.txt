@@ -1,14 +1,12 @@
 Alexander Ran
 Anthony Lei
 Antoni B. Chan
-Aosong Deng
 Benjamin Pick
 Bo Zhou
 Changlong Li
 Changsheng Xie
 Chao Wang
 Chao Wu
-Chao Zhang
 Chaoran Li
 Chaoshu Yang
 Chen Chen
@@ -19,7 +17,6 @@ Chengmo Yang
 Chenyun Yu
 Chia-Lin Yang
 Christopher Lesner
-Chuanbo Chen
 Chuanming Ding
 Chuanwen Wang
 Chun Jason Xue
@@ -29,7 +26,6 @@ Cong Wang
 Congming Gao
 Dongdong Tang
 Dongsu Han
-Donkyu Baek
 Duo Liu
 Edwin H.-M. Sha
 Edwin Hsing-Mean Sha
@@ -37,21 +33,17 @@ Eric Shiu
 Fan Wu
 Fei Wu
 Fuyang Li
-Gruia Calinescu
-Guangyu Sun
 Hai (Helen) Li
 Hai Li
 Han Wang
 Haopeng Yan
 Heejin Yoon
-Hehe Li
 Hong Xu
 Hongchao Du
 Hu Wan
 Huafeng Yu
 Huanghe Liu
 Huazhong Yang
-Huizhang Luo
 Hung-Chih Hsieh
 Isaac Triguero
 James She
@@ -59,9 +51,7 @@ Jason Xue
 Jen-Ming Wu
 Jiacheng Huang
 Jiamin Li
-Jianhua Li
 Jianqiang Nie
-Jianzhong Sheng
 Jifeng Wu
 Jihong Kim
 Jinghuan Yu
@@ -71,16 +61,13 @@ Jingxian Liao
 Jingzong Li
 Jinheng Li
 Jinhua Cui
-Jinshan Yue
 Jinyang Li
 Jiwu Shu
 Jun Yang
 Junlong Zhou
 Kai Liu
-Kai Wang
 Kaijie Wu
 Kaisheng Ma
-Kaisheng Zeng
 Kaiwei Mo
 Kaiwen Xue
 Kang Eun Jeon
@@ -95,7 +82,6 @@ Liang Shi
 Libin Liu
 Libing Wu
 Ling Lin
-Lingxiao Wei
 Longfei Luo
 Lun Wang
 M. Ejaz Ahmed
@@ -103,26 +89,20 @@ Mahathir Almashor
 Marko Rukonic
 Mengting Yuan
 Mengying Zhao
-Michael Hübner
-Michael M. Swift
 Mimi Xie
 Min Peng
 Min Ye
 Ming Ma
 Mingliang Zhou
 Minming Li
-Mohammad Abdullah Al Faruque
 Muhammad Ejaz Ahmed
 Muhammad Shafique
-Naehyuck Chang
 Nan Guan
-Peichen Xie
 Peng Cheng
 Peng Wang
 Peng Wu
 Qiang Su
 Qiang Sun
-Qiang Xu
 Qiangqiang Liu
 Qiao Li
 Qing'an Li
@@ -141,7 +121,6 @@ Ruoxiang Li
 Sam H. Noh
 Sang-Ha Kim
 Sangwook Shane Hahn
-Saraju P. Mohanty
 Sarana Nutanong
 Schahram Dustdar
 Seyit Camtepe
@@ -149,7 +128,6 @@ Shangyu Wu
 Shaofeng Wu
 Sharif Abuadbba
 Sheng Wen
-Shiqing Li
 Shouzhen Gu
 Shudeng Wu
 Shuhan Bai
@@ -169,28 +147,22 @@ Tianyu Wang
 Tongda Wu
 Tongquan Wei
 Vijaykrishnan Narayanan
-Vincent Chau
 Wei Li
 Wei Liu
 Wei Wang
 Wei Zhang
 Weiguang Liu
-Weiguo Wu
 Weilan Wang
 Weining Song
 Weiwei Wu
 Wuguannan Yao
-Xian Zhang
 Xiangyu Liu
 Xianzhang Chen
 Xiao Chen
-Xiaojin Sui
 Xiaoliu Feng
 Xiaoqiang Li
 Xiaoxing Qiu
-Xiaoyu Feng
 Xin Gao
-Xin Li
 Xin Shi
 Xinhang Lu
 Xinyi Zhang
@@ -204,13 +176,11 @@ Xueyong Xu
 Yajuan Du
 Yang Xiang
 Yang Zhou
-Yannan Liu
 Yao Zhou
 Yejia Di
 Yik Hong Cai
 Yina Lv
 Yingchao Zhao
-Yiran Chen
 Yong Guan
 Yongpan Liu
 Yongqiang Xiong
@@ -226,12 +196,10 @@ Yunmo Zhang
 Yunpeng Song
 Zaoxing Liu
 Zelin Yun
-Zhe Yuan
 Zheng Dong
 Zhenge Jia
 Zhiping Jia
 Zhixiong Niu
-Zili Shao
 Zimeng Zhou
 Ziqi Shuai
 Ziquan Liu

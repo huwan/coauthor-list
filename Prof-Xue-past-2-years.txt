@@ -1,17 +1,11 @@
 Anthony Lei
 Antoni B. Chan
 Benjamin Pick
-Bo Zhou
 Changlong Li
 Changsheng Xie
 Chao Wang
-Chao Wu
-Chaoran Li
-Chen Chen
 Chenchen Fu
-Cheng Ji
 Chia-Lin Yang
-Chuanming Ding
 Chuanwen Wang
 Chun Jason Xue
 Chun Xue
@@ -24,7 +18,6 @@ Edwin H.-M. Sha
 Fei Wu
 Hai (Helen) Li
 Hai Li
-Han Wang
 Haopeng Yan
 Hong Xu
 Hongchao Du
@@ -46,12 +39,10 @@ Jinyang Li
 Jiwu Shu
 Jun Yang
 Kaisheng Ma
-Kaiwei Mo
 Kaiwen Xue
 Keith Winstein
 Kun Lu
 Lei Ju
-Li-Pin Chang
 Liang Shi
 Libin Liu
 Libing Wu
@@ -64,13 +55,10 @@ Min Peng
 Min Ye
 Ming Ma
 Mingliang Zhou
-Minming Li
-Muhammad Ejaz Ahmed
 Muhammad Shafique
 Nan Guan
 Peng Cheng
 Peng Wang
-Peng Wu
 Qiang Su
 Qiao Li
 Qingan Li
@@ -80,26 +68,22 @@ Rachata Ausavarungnirun
 Raj Gaire
 Ran Shu
 Riwei Pan
-Ruoxi Sun
 Ruoxiang Li
 Sam H. Noh
 Seyit Camtepe
 Shangyu Wu
 Shaofeng Wu
 Sharif Abuadbba
-Sheng Wen
 Shudeng Wu
 Shuhan Bai
 Shun Deng
 Shuo Wang
-Siyu Chen
 Song Han
 Sujunjie Sun
 Surya Nepal
 Tei-Wei Kuo
 Theocharis Theocharides
 Tianyu Ren
-Tianyu Wang
 Tongda Wu
 Wei Li
 Wei Wang
@@ -108,7 +92,6 @@ Weiwei Wu
 Wuguannan Yao
 Xiangyu Liu
 Xianzhang Chen
-Xiao Chen
 Xiaoliu Feng
 Xiaoxing Qiu
 Xin Gao
@@ -120,11 +103,8 @@ Xue Han
 Xue Liu
 Xuehai Zhou
 Xueyong Xu
-Yajuan Du
-Yang Xiang
 Yik Hong Cai
 Yina Lv
-Yingchao Zhao
 Yongpan Liu
 Yongqiang Xiong
 Young-ri Choi
@@ -136,7 +116,6 @@ Yun Huang
 Yunmo Zhang
 Yunpeng Song
 Zaoxing Liu
-Zelin Yun
 Zheng Dong
 Zhixiong Niu
 Zimeng Zhou

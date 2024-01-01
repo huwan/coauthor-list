@@ -2,10 +2,7 @@ Antoni B. Chan
 Bo-Rong Lin
 Changlong Li
 Changsheng Xie
-Chao Wu
 Che-Wei Tsao
-Chenchen Fu
-Cheng Ji
 Cheng Yu
 Chi-Yin Chow
 Chia-Lin Yang
@@ -18,7 +15,6 @@ Chih-Chia Lin
 Chih-Hsuan Yen
 Chih-Yuan Lu
 Chong-Ying Lee
-Christian Hakert
 Chun Jason Xue
 Chun-Feng Wu
 Chun-Hsiung Hung
@@ -37,7 +33,6 @@ Hashan Roshantha Mendis
 Hong Xu
 Hongchao Du
 Hsiang-Pang Li
-Hsiang-Yun Cheng
 Hu Wan
 Huai-Mu Wang
 Hung-Chih Hsieh
@@ -46,13 +41,9 @@ Jinghuan Yu
 Jingtong Hu
 Kam-yiu Lam
 Keh-Chung Wang
-Kuan-Hsun Chen
 Kuo-Hsuan Hung
-Li-Pin Chang
-Liang Shi
 Mario Günzel
 Meng-Fan Chang
-Mi-Yen Yeh
 Min Ye
 Ming-Chang Yang
 Nan Guan
@@ -67,11 +58,9 @@ Shih-Chun Chou
 Shu-Hsien Liao
 Shuhan Bai
 Shun Deng
-Siyu Chen
 Szu-Wei Fu
 Tei-Wei Kuo
 Tianyu Ren
-Ting-Shan Lo
 Tse-Yuan Wang
 Tsun-An Hsieh
 Tsung-Han Kuo
@@ -86,7 +75,6 @@ Xiaofei Zhao
 Xuan Sun
 Xue (Steve) Liu
 Xue Liu
-Yajuan Du
 Yen-Po Lin
 Yi-Shen Chen
 Yi-Te Hsu
@@ -108,5 +96,4 @@ Yung-Chun Lee
 Yunmo Zhang
 Zheng-Wei Wu
 Zhenge Jia
-Zhu-Mu Chen
 Ziquan Liu

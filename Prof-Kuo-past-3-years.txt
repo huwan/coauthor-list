@@ -31,7 +31,6 @@ Fei Wu
 Georg von der Brüggen
 Han-Sung Chen
 Han-Wen Hu
-Han-Yi Lin
 Harinath Garudadri
 Hasan Alhasan
 Hashan Roshantha Mendis
@@ -42,12 +41,9 @@ Hsiang-Yun Cheng
 Hu Wan
 Huai-Mu Wang
 Hung-Chih Hsieh
-Hung-Sheng Chang
 Jian-Jia Chen
-Jianqiang Nie
 Jinghuan Yu
 Jingtong Hu
-Jinheng Li
 Kam-yiu Lam
 Keh-Chung Wang
 Kuan-Hsun Chen
@@ -69,7 +65,6 @@ Riwei Pan
 Shangyu Wu
 Shih-Chun Chou
 Shu-Hsien Liao
-Shu-Yin Ho
 Shuhan Bai
 Shun Deng
 Siyu Chen
@@ -85,18 +80,14 @@ Tzu-Hsiang Su
 Wei-Che Tsai
 Wei-Chen Wang
 Wei-Ming Chen
-Wuguannan Yao
 Xiangyu Liu
 Xianzhang Chen
 Xiaofei Zhao
-Xiaoqiang Li
 Xuan Sun
 Xue (Steve) Liu
 Xue Liu
 Yajuan Du
-Yao-Wen Kang
 Yen-Po Lin
-Yen-Yu Lin
 Yi-Shen Chen
 Yi-Te Hsu
 Yi-Ting Lai
@@ -110,7 +101,6 @@ Yu-Fang Chen
 Yu-Ming Chang
 Yu-Ming Huang
 Yuan-Hao Chang
-Yueh-Han Wu
 Yufei Cui
 Yun Huang
 Yun-Chih Chen
@@ -120,4 +110,3 @@ Zheng-Wei Wu
 Zhenge Jia
 Zhu-Mu Chen
 Ziquan Liu
-Zongwei Zhu

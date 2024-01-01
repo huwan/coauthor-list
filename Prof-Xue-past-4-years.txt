@@ -8,13 +8,10 @@ Changsheng Xie
 Chao Wang
 Chao Wu
 Chaoran Li
-Chaoshu Yang
 Chen Chen
-Chen Pan
 Chenchen Fu
 Cheng Ji
 Chengmo Yang
-Chenyun Yu
 Chia-Lin Yang
 Christopher Lesner
 Chuanming Ding
@@ -28,11 +25,9 @@ Dongdong Tang
 Dongsu Han
 Duo Liu
 Edwin H.-M. Sha
-Edwin Hsing-Mean Sha
 Eric Shiu
 Fan Wu
 Fei Wu
-Fuyang Li
 Hai (Helen) Li
 Hai Li
 Han Wang
@@ -41,19 +36,15 @@ Heejin Yoon
 Hong Xu
 Hongchao Du
 Hu Wan
-Huafeng Yu
 Huanghe Liu
 Huazhong Yang
 Hung-Chih Hsieh
-Isaac Triguero
-James She
 Jason Xue
 Jen-Ming Wu
 Jiacheng Huang
 Jiamin Li
 Jianqiang Nie
 Jifeng Wu
-Jihong Kim
 Jinghuan Yu
 Jingling Xue
 Jingtong Hu
@@ -64,13 +55,10 @@ Jinhua Cui
 Jinyang Li
 Jiwu Shu
 Jun Yang
-Junlong Zhou
 Kai Liu
-Kaijie Wu
 Kaisheng Ma
 Kaiwei Mo
 Kaiwen Xue
-Kang Eun Jeon
 Ke Liu
 Keith Winstein
 Keni Qiu
@@ -83,13 +71,11 @@ Libin Liu
 Libing Wu
 Ling Lin
 Longfei Luo
-Lun Wang
 M. Ejaz Ahmed
 Mahathir Almashor
 Marko Rukonic
 Mengting Yuan
 Mengying Zhao
-Mimi Xie
 Min Peng
 Min Ye
 Ming Ma
@@ -102,58 +88,41 @@ Peng Cheng
 Peng Wang
 Peng Wu
 Qiang Su
-Qiang Sun
-Qiangqiang Liu
 Qiao Li
-Qing'an Li
 Qingan Li
 Qingfeng Zhuge
 Qingxu Deng
-Qirun Huo
 Rachata Ausavarungnirun
 Raj Gaire
-Rajiv Ranjan
 Ran Shu
 Riwei Pan
-Rui Wang
 Ruoxi Sun
 Ruoxiang Li
 Sam H. Noh
-Sang-Ha Kim
-Sangwook Shane Hahn
-Sarana Nutanong
-Schahram Dustdar
 Seyit Camtepe
 Shangyu Wu
 Shaofeng Wu
 Sharif Abuadbba
 Sheng Wen
-Shouzhen Gu
 Shudeng Wu
 Shuhan Bai
 Shun Deng
 Shuo Wang
-Shuo-Han Chen
 Siyu Chen
 Song Han
-Soochang Park
 Sujunjie Sun
-Sungjin Lee
 Surya Nepal
 Tei-Wei Kuo
 Theocharis Theocharides
 Tianyu Ren
 Tianyu Wang
 Tongda Wu
-Tongquan Wei
 Vijaykrishnan Narayanan
 Wei Li
-Wei Liu
 Wei Wang
 Wei Zhang
 Weiguang Liu
 Weilan Wang
-Weining Song
 Weiwei Wu
 Wuguannan Yao
 Xiangyu Liu
@@ -175,22 +144,17 @@ Xueqing Li
 Xueyong Xu
 Yajuan Du
 Yang Xiang
-Yang Zhou
-Yao Zhou
 Yejia Di
 Yik Hong Cai
 Yina Lv
 Yingchao Zhao
-Yong Guan
 Yongpan Liu
 Yongqiang Xiong
 Young-ri Choi
 Youtao Zhang
 Yu Liang
 Yu Mao
-Yuanchao Xu
 Yufei Cui
-Yujie Zhu
 Yun Huang
 Yunmo Zhang
 Yunpeng Song
@@ -201,6 +165,5 @@ Zhenge Jia
 Zhiping Jia
 Zhixiong Niu
 Zimeng Zhou
-Ziqi Shuai
 Ziquan Liu
 Zongwei Zhu

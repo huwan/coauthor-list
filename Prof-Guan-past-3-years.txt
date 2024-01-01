@@ -1,16 +1,12 @@
-Aamir Khan
 Abusayeed Saifullah
 Alan Burns
-Ameer Hamza Khan
 Andy J. Wellings
 Arun Vishwanath
 Ashikahmed Bhuiyan
 Caiqi Zhang
-Chang Shi
 Changqing Xia
 Cheng Fan
 Cheng Zhuo
-Chi Xu
 Chuancai Gu
 Chun Jason Xue
 Chunhua Xiao
@@ -18,7 +14,6 @@ Dan Wang
 Dawei Yang
 Di Liu
 Dong Ji
-Dong Li
 Dongdong Tang
 Fangming Liu
 Feng Li
@@ -27,8 +22,6 @@ Guangyi Xu
 Guoliang Xing
 Guoqi Xie
 Guozhen Tan
-Han Wan
-Hang Lei
 Hao Yu
 Haochun Liang
 He Du
@@ -36,24 +29,19 @@ Heming Fu
 Hiroshi Yamada
 Hiroyuki Tomiyama
 Hui Chen
-Huimin Gao
 Jen-Ming Wu
 Jiangshan Yu
-Jiantong Jiang
 Jing He
 Jingchang Sun
 Jinghao Sun
 Jinkyu Lee
 Jinrong Liu
-Juan Gómez-Luna
 Jun Zhou
 Junjie Yang
 Kai Huang
 Kailu Duan
 Kecheng Yang
-Kexuan Wang
 Laiwen Li
-Lei Cao
 Lei Ju
 Lei Qiao
 Lei Yang
@@ -65,13 +53,11 @@ Menglong Cui
 Mengquan Li
 Mingsong Lv
 Mingsong Lyu
-Minjie Xiang
 Nan Guan
 Nan Zhang
 Nathan Fisher
 Neil C. Audsley
 Neiwen Ling
-Onur Mutlu
 Pan Dong
 Peng Chen
 Peng Zeng
@@ -81,7 +67,6 @@ Qingxu Deng
 Qinming Zhang
 Qiong Chen
 Qiulin Chen
-Qixin Wang
 Quan Zhou
 Ran Bi
 Ran Wei
@@ -94,7 +79,6 @@ Sebastian Steinhorst
 Seongtae Lee
 Shaoshan Liu
 Shiqing Li
-Shuai Li
 Shuai Zhao
 Shuangshuang Chang
 Shuhan Bai
@@ -105,7 +89,6 @@ Tao Hu
 Tao Jin
 Tao Yang
 Tei-Wei Kuo
-Tianfei Xu
 Tianyu Zhang
 Ting He
 Tingtao Li
@@ -115,15 +98,12 @@ Wei Mao
 Wei Zhang
 Weichen Liu
 Weizhe Zhang
-Wenchen Liu
 Wenhong Ma
 Wenjing Xie
-Wentao Zhu
 Wenxuan Xing
 Xi Jin
 Xi Zhang
 Xian Shuai
-Xiang Long
 Xiangzhen Xiao
 Xiantong Luo
 Xiaobo Sharon Hu
@@ -139,7 +119,6 @@ Yan Zhuang
 Yang Bai
 Yang Wang
 Yaoyao Chi
-Yaoyao Ye
 Ye Ma
 Yehan Ma
 Yekai Xue
@@ -149,26 +128,21 @@ Yu Jiang
 Yu Li
 Yuanhai Zhang
 Yue Tang
-Yue Yin
 Yufei Chen
 Yuhan Lin
 Yulong Wu
 Yun Huang
 Yuze He
-Ze-Wei Chen
-Zeke Wang
 Zewei Chen
 Zhe Jiang
 Zheng Dong
 Zhenyu Sun
 Zhenyu Yan
 Zhihe Zhao
-Zhiping Jia
 Zhishan Guo
 Zhiwei Feng
 Zhixiong Hao
 Zijin Xu
-Zili Shao
 Zimeng Zhou
 Zimu Zheng
 Zonghua Gu

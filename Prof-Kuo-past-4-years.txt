@@ -26,10 +26,8 @@ Chung Kuang Chen
 Chunjiang Zhu
 Cong Wang
 Congming Gao
-David H. C. Du
 Dongdong Tang
 Fei Wu
-Fenggang Wu
 Georg von der Brüggen
 Han-Sung Chen
 Han-Wen Hu
@@ -69,7 +67,6 @@ Qiao Li
 Rachata Ausavarungnirun
 Riwei Pan
 Shangyu Wu
-Sheng-Wei Cheng
 Shih-Chun Chou
 Shu-Hsien Liao
 Shu-Yin Ho
@@ -102,7 +99,6 @@ Yen-Po Lin
 Yen-Yu Lin
 Yi-Shen Chen
 Yi-Te Hsu
-Yi-Ting Chen
 Yi-Ting Lai
 Yin-Chiuan Chen
 Yu Liang
@@ -110,8 +106,6 @@ Yu Mao
 Yu Tsao
 Yu-Chao Lin
 Yu-Chen Lin
-Yu-Chen Wu
-Yu-Chuan Chang
 Yu-Fang Chen
 Yu-Ming Chang
 Yu-Ming Huang
