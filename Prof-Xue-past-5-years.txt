@@ -23,7 +23,10 @@ Chun Jason Xue
 Chun Xue
 Clay Patterson
 Cong Wang
+Congcong Zhu
 Congming Gao
+Dayong Ye
+Derui Wang
 Dongdong Tang
 Dongsu Han
 Duo Liu
@@ -127,6 +130,7 @@ Seyit Camtepe
 Shangyu Wu
 Shaofeng Wu
 Sharif Abuadbba
+Sheng Shen
 Sheng Wen
 Shouzhen Gu
 Shudeng Wu
@@ -142,11 +146,13 @@ Sungjin Lee
 Surya Nepal
 Tei-Wei Kuo
 Theocharis Theocharides
+Tianqing Zhu
 Tianyu Ren
 Tianyu Wang
 Tongda Wu
 Tongquan Wei
 Vijaykrishnan Narayanan
+Wanlei Zhou
 Wei Li
 Wei Liu
 Wei Wang
