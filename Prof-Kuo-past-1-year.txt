@@ -1,4 +1,5 @@
 Antoni B. Chan
+Buzhou Tang
 Changsheng Xie
 Che-Wei Tsao
 Chia-Yin Liu
@@ -28,6 +29,7 @@ Pi-Cheng Hsiu
 Ping-Xiang Chen
 Qiao Li
 Riwei Pan
+Shangyu Wu
 Shih-Chun Chou
 Shuhan Bai
 Tei-Wei Kuo
@@ -40,6 +42,7 @@ Xuan Sun
 Xue (Steve) Liu
 Xue Liu
 Yi-Shen Chen
+Ying Xiong
 Yu Mao
 Yu-Fang Chen
 Yu-Ming Chang

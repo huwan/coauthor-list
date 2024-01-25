@@ -1,6 +1,7 @@
 Anthony Lei
 Antoni B. Chan
 Benjamin Pick
+Buzhou Tang
 Changlong Li
 Changsheng Xie
 Chao Wang
@@ -111,6 +112,7 @@ Xuehai Zhou
 Xueyong Xu
 Yik Hong Cai
 Yina Lv
+Ying Xiong
 Yongpan Liu
 Yongqiang Xiong
 Young-ri Choi

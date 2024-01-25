@@ -1,5 +1,6 @@
 Antoni B. Chan
 Benjamin Pick
+Buzhou Tang
 Changlong Li
 Changsheng Xie
 Chao Wang
@@ -52,6 +53,7 @@ Riwei Pan
 Ruoxiang Li
 Sam H. Noh
 Seyit Camtepe
+Shangyu Wu
 Shaofeng Wu
 Sharif Abuadbba
 Sheng Shen
@@ -77,6 +79,7 @@ Xue Liu
 Xuehai Zhou
 Yik Hong Cai
 Yina Lv
+Ying Xiong
 Yongpan Liu
 Yongqiang Xiong
 Young-ri Choi
