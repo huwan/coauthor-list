@@ -1,3 +1,4 @@
+Abdullah Al Arafat
 Arun Vishwanath
 Cheng Fan
 Cheng Zhuo
@@ -19,7 +20,10 @@ Heming Fu
 Hiroshi Yamada
 Hiroyuki Tomiyama
 Hui Chen
+Hyoseung Kim
+Insik Shin
 Jen-Ming Wu
+Jian-Jia Chen
 Jiangshan Yu
 Jinghao Sun
 Jinkyu Lee
@@ -54,6 +58,7 @@ Qiulin Chen
 Quan Zhou
 Ran Bi
 Ran Wei
+Renato Mancuso
 Richard Paterson
 Rong Su
 Ruoxiang Li
@@ -65,11 +70,13 @@ Shuangshuang Chang
 Shuhan Bai
 Song Han
 Songran Liu
+Sudharsan Vaidhun
 Tao Gong
 Tao Hu
 Tao Jin
 Tao Yang
 Tei-Wei Kuo
+Tianyi Wang
 Tianyu Zhang
 Ting He
 Tingtao Li
@@ -95,6 +102,7 @@ Xuemei Peng
 Yan Wang
 Yan Zhuang
 Yang Bai
+Yang Li
 Yang Wang
 Ye Ma
 Yehan Ma

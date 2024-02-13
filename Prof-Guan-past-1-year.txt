@@ -1,3 +1,4 @@
+Abdullah Al Arafat
 Chuancai Gu
 Chun Jason Xue
 Dong Ji
@@ -8,7 +9,10 @@ Guozhen Tan
 Haochun Liang
 Hiroshi Yamada
 Hiroyuki Tomiyama
+Hyoseung Kim
+Insik Shin
 Jen-Ming Wu
+Jian-Jia Chen
 Jinghao Sun
 Kai Huang
 Kailu Duan
@@ -28,6 +32,7 @@ Qianling Zhang
 Qingqiang He
 Qingxu Deng
 Qiulin Chen
+Renato Mancuso
 Rong Su
 Ruoxiang Li
 Sebastian Steinhorst
@@ -36,10 +41,12 @@ Shuai Zhao
 Shuhan Bai
 Song Han
 Songran Liu
+Sudharsan Vaidhun
 Tao Gong
 Tao Hu
 Tao Yang
 Tei-Wei Kuo
+Tianyi Wang
 Tianyu Zhang
 Ting He
 Wang Yi
@@ -57,6 +64,7 @@ Xisheng Li
 Xu Jiang
 Xuemei Peng
 Yan Wang
+Yang Li
 Yang Wang
 Ye Ma
 Yehan Ma

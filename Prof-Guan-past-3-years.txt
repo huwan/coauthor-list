@@ -1,3 +1,4 @@
+Abdullah Al Arafat
 Abusayeed Saifullah
 Alan Burns
 Andy J. Wellings
@@ -29,7 +30,10 @@ Heming Fu
 Hiroshi Yamada
 Hiroyuki Tomiyama
 Hui Chen
+Hyoseung Kim
+Insik Shin
 Jen-Ming Wu
+Jian-Jia Chen
 Jiangshan Yu
 Jing He
 Jingchang Sun
@@ -70,6 +74,7 @@ Qiulin Chen
 Quan Zhou
 Ran Bi
 Ran Wei
+Renato Mancuso
 Richard Paterson
 Rong Su
 Rongxiao Shi
@@ -84,11 +89,13 @@ Shuangshuang Chang
 Shuhan Bai
 Song Han
 Songran Liu
+Sudharsan Vaidhun
 Tao Gong
 Tao Hu
 Tao Jin
 Tao Yang
 Tei-Wei Kuo
+Tianyi Wang
 Tianyu Zhang
 Ting He
 Tingtao Li
@@ -117,6 +124,7 @@ Xuemei Peng
 Yan Wang
 Yan Zhuang
 Yang Bai
+Yang Li
 Yang Wang
 Yaoyao Chi
 Ye Ma

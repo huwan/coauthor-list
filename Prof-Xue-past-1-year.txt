@@ -11,9 +11,11 @@ Cong Wang
 Congcong Zhu
 Dayong Ye
 Derui Wang
+Dong Gong
 Duo Liu
 Edwin H.-M. Sha
 Fei Wu
+Haodong Lu
 Hong Xu
 Hongchao Du
 Hu Wan
@@ -30,10 +32,12 @@ Jinheng Li
 Jinyang Li
 Kaisheng Ma
 Kaiwen Xue
+Kristen Moore
 Lei Ju
 Liang Shi
 Libin Liu
 Libing Wu
+Lina Yao
 Ling Lin
 M. Ejaz Ahmed
 Mahathir Almashor
@@ -73,6 +77,7 @@ Xiangyu Liu
 Xianzhang Chen
 Xiaoliu Feng
 Xin Shi
+Xu Jiang
 Xuan Sun
 Xue (Steve) Liu
 Xue Liu

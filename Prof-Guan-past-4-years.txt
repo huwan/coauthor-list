@@ -1,4 +1,5 @@
 Aamir Khan
+Abdullah Al Arafat
 Abusayeed Saifullah
 Alan Burns
 Ameer Hamza Khan
@@ -37,7 +38,10 @@ Hiroshi Yamada
 Hiroyuki Tomiyama
 Hui Chen
 Huimin Gao
+Hyoseung Kim
+Insik Shin
 Jen-Ming Wu
+Jian-Jia Chen
 Jiangshan Yu
 Jiantong Jiang
 Jing He
@@ -85,6 +89,7 @@ Qixin Wang
 Quan Zhou
 Ran Bi
 Ran Wei
+Renato Mancuso
 Richard Paterson
 Rong Su
 Rongxiao Shi
@@ -100,12 +105,14 @@ Shuangshuang Chang
 Shuhan Bai
 Song Han
 Songran Liu
+Sudharsan Vaidhun
 Tao Gong
 Tao Hu
 Tao Jin
 Tao Yang
 Tei-Wei Kuo
 Tianfei Xu
+Tianyi Wang
 Tianyu Zhang
 Ting He
 Tingtao Li
@@ -137,6 +144,7 @@ Xuemei Peng
 Yan Wang
 Yan Zhuang
 Yang Bai
+Yang Li
 Yang Wang
 Yaoyao Chi
 Yaoyao Ye
