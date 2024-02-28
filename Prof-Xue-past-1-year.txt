@@ -12,6 +12,7 @@ Congcong Zhu
 Dayong Ye
 Derui Wang
 Dong Gong
+Dongxiao Yu
 Duo Liu
 Edwin H.-M. Sha
 Fei Wu
@@ -37,11 +38,13 @@ Lei Ju
 Liang Shi
 Libin Liu
 Libing Wu
+Lihao Dong
 Lina Yao
 Ling Lin
 M. Ejaz Ahmed
 Mahathir Almashor
 Mengting Yuan
+Mengying Zhao
 Min Ye
 Mingliang Zhou
 Nan Guan
@@ -64,6 +67,7 @@ Sheng Shen
 Shudeng Wu
 Shuhan Bai
 Shuo Wang
+Shuo Xu
 Song Han
 Surya Nepal
 Tei-Wei Kuo
@@ -75,6 +79,7 @@ Wei Li
 Wei Zhang
 Xiangyu Liu
 Xianzhang Chen
+Xiaojun Cai
 Xiaoliu Feng
 Xin Shi
 Xu Jiang
@@ -95,6 +100,7 @@ Yun Huang
 Yunpeng Song
 Zaoxing Liu
 Zheng Dong
+Zhiping Jia
 Zhixiong Niu
 Zimeng Zhou
 Ziquan Liu

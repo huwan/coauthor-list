@@ -24,6 +24,7 @@ Derui Wang
 Dong Gong
 Dongdong Tang
 Dongsu Han
+Dongxiao Yu
 Duo Liu
 Edwin H.-M. Sha
 Fei Wu
@@ -62,12 +63,14 @@ Li-Pin Chang
 Liang Shi
 Libin Liu
 Libing Wu
+Lihao Dong
 Lina Yao
 Ling Lin
 Longfei Luo
 M. Ejaz Ahmed
 Mahathir Almashor
 Mengting Yuan
+Mengying Zhao
 Min Peng
 Min Ye
 Ming Ma
@@ -101,6 +104,7 @@ Shudeng Wu
 Shuhan Bai
 Shun Deng
 Shuo Wang
+Shuo Xu
 Siyu Chen
 Song Han
 Sujunjie Sun
@@ -120,6 +124,7 @@ Wuguannan Yao
 Xiangyu Liu
 Xianzhang Chen
 Xiao Chen
+Xiaojun Cai
 Xiaoliu Feng
 Xiaoxing Qiu
 Xin Gao
@@ -151,6 +156,7 @@ Yunpeng Song
 Zaoxing Liu
 Zelin Yun
 Zheng Dong
+Zhiping Jia
 Zhixiong Niu
 Zimeng Zhou
 Ziquan Liu

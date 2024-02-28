@@ -31,6 +31,7 @@ Derui Wang
 Dong Gong
 Dongdong Tang
 Dongsu Han
+Dongxiao Yu
 Duo Liu
 Edwin H.-M. Sha
 Edwin Hsing-Mean Sha
@@ -88,6 +89,7 @@ Li-Pin Chang
 Liang Shi
 Libin Liu
 Libing Wu
+Lihao Dong
 Lina Yao
 Ling Lin
 Longfei Luo
@@ -142,6 +144,7 @@ Shudeng Wu
 Shuhan Bai
 Shun Deng
 Shuo Wang
+Shuo Xu
 Shuo-Han Chen
 Siyu Chen
 Song Han
@@ -170,6 +173,7 @@ Wuguannan Yao
 Xiangyu Liu
 Xianzhang Chen
 Xiao Chen
+Xiaojun Cai
 Xiaoliu Feng
 Xiaoqiang Li
 Xiaoxing Qiu
