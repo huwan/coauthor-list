@@ -23,6 +23,7 @@ Jian-Jia Chen
 Jingtong Hu
 Lee Chang
 Mario Günzel
+Miguel Rodrigues
 Ming-Chang Yang
 Nan Guan
 Niklas Ueter
@@ -39,15 +40,18 @@ Tsung-Han Kuo
 Tsung-Yen Hsu
 Wei-Chen Wang
 Xiangyu Liu
+Xinyue Yu
 Xuan Sun
 Xue (Steve) Liu
 Xue Liu
 Yi-Shen Chen
 Ying Xiong
+Yixin Chen
 Yu Mao
 Yu-Fang Chen
 Yu-Ming Chang
 Yuan-Hao Chang
+Yuchen Lu
 Yufei Cui
 Yun Huang
 Yun-Chih Chen

@@ -71,6 +71,7 @@ M. Ejaz Ahmed
 Mahathir Almashor
 Mengting Yuan
 Mengying Zhao
+Miguel Rodrigues
 Min Peng
 Min Ye
 Ming Ma
@@ -130,6 +131,7 @@ Xiaoxing Qiu
 Xin Gao
 Xin Shi
 Xinhang Lu
+Xinyue Yu
 Xu Jiang
 Xuan Sun
 Xue (Steve) Liu
@@ -143,12 +145,14 @@ Yik Hong Cai
 Yina Lv
 Ying Xiong
 Yingchao Zhao
+Yixin Chen
 Yongpan Liu
 Yongqiang Xiong
 Young-ri Choi
 Youtao Zhang
 Yu Liang
 Yu Mao
+Yuchen Lu
 Yufei Cui
 Yun Huang
 Yunmo Zhang

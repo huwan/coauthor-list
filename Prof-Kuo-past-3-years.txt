@@ -56,6 +56,7 @@ Liang Shi
 Mario Günzel
 Meng-Fan Chang
 Mi-Yen Yeh
+Miguel Rodrigues
 Min Ye
 Ming-Chang Yang
 Nan Guan
@@ -86,6 +87,7 @@ Wei-Ming Chen
 Xiangyu Liu
 Xianzhang Chen
 Xiaofei Zhao
+Xinyue Yu
 Xuan Sun
 Xue (Steve) Liu
 Xue Liu
@@ -96,6 +98,7 @@ Yi-Te Hsu
 Yi-Ting Lai
 Yin-Chiuan Chen
 Ying Xiong
+Yixin Chen
 Yu Liang
 Yu Mao
 Yu Tsao
@@ -105,6 +108,7 @@ Yu-Fang Chen
 Yu-Ming Chang
 Yu-Ming Huang
 Yuan-Hao Chang
+Yuchen Lu
 Yufei Cui
 Yun Huang
 Yun-Chih Chen

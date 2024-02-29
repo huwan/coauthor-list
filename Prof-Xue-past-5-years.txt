@@ -99,6 +99,7 @@ Mahathir Almashor
 Marko Rukonic
 Mengting Yuan
 Mengying Zhao
+Miguel Rodrigues
 Mimi Xie
 Min Peng
 Min Ye
@@ -181,6 +182,7 @@ Xin Gao
 Xin Shi
 Xinhang Lu
 Xinyi Zhang
+Xinyue Yu
 Xu Jiang
 Xuan Sun
 Xue (Steve) Liu
@@ -198,6 +200,7 @@ Yik Hong Cai
 Yina Lv
 Ying Xiong
 Yingchao Zhao
+Yixin Chen
 Yong Guan
 Yongpan Liu
 Yongqiang Xiong
@@ -206,6 +209,7 @@ Youtao Zhang
 Yu Liang
 Yu Mao
 Yuanchao Xu
+Yuchen Lu
 Yufei Cui
 Yujie Zhu
 Yun Huang
