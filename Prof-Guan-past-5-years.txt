@@ -39,6 +39,7 @@ He Du
 Heming Fu
 Hiroshi Yamada
 Hiroyuki Tomiyama
+Hongchao Du
 Hui Chen
 Huimin Gao
 Hyoseung Kim
@@ -68,6 +69,7 @@ Lei Ju
 Lei Qiao
 Lei Yang
 Lifeng Wei
+Linbo Long
 Liwei Zhang
 Maolin Yang
 Mei Tian
@@ -139,6 +141,7 @@ Wei Mao
 Wei Zhang
 Weichen Liu
 Weihe Wang
+Weilan Wang
 Weizhe Zhang
 Wenchen Liu
 Wenhong Ma
@@ -175,6 +178,7 @@ Yibo Zhang
 Yiyuan Xie
 Yu Jiang
 Yu Li
+Yu Mao
 Yuanhai Zhang
 Yue Tang
 Yue Yin

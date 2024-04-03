@@ -9,6 +9,8 @@ Guozhen Tan
 Haochun Liang
 Hiroshi Yamada
 Hiroyuki Tomiyama
+Hongchao Du
+Hui Chen
 Hyoseung Kim
 Insik Shin
 Jen-Ming Wu
@@ -20,6 +22,7 @@ Kecheng Yang
 Laiwen Li
 Lei Ju
 Lei Qiao
+Linbo Long
 Maolin Yang
 Menglong Cui
 Mingsong Lv
@@ -28,6 +31,7 @@ Nan Guan
 Nathan Fisher
 Neil C. Audsley
 Neiwen Ling
+Peng Chen
 Qianling Zhang
 Qingqiang He
 Qingxu Deng
@@ -52,6 +56,8 @@ Ting He
 Wang Yi
 Wanli Chang
 Wei Zhang
+Weichen Liu
+Weilan Wang
 Weizhe Zhang
 Wenhong Ma
 Wenjing Xie
@@ -71,6 +77,7 @@ Yehan Ma
 Yibo Zhang
 Yu Jiang
 Yu Li
+Yu Mao
 Yuanhai Zhang
 Yue Tang
 Yulong Wu

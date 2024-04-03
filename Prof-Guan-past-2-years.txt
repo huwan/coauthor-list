@@ -19,6 +19,7 @@ Haochun Liang
 Heming Fu
 Hiroshi Yamada
 Hiroyuki Tomiyama
+Hongchao Du
 Hui Chen
 Hyoseung Kim
 Insik Shin
@@ -35,6 +36,7 @@ Kecheng Yang
 Laiwen Li
 Lei Ju
 Lei Qiao
+Linbo Long
 Liwei Zhang
 Maolin Yang
 Mei Tian
@@ -85,6 +87,7 @@ Wanli Chang
 Wei Mao
 Wei Zhang
 Weichen Liu
+Weilan Wang
 Weizhe Zhang
 Wenhong Ma
 Wenjing Xie
@@ -111,6 +114,7 @@ Yibo Zhang
 Yiyuan Xie
 Yu Jiang
 Yu Li
+Yu Mao
 Yuanhai Zhang
 Yue Tang
 Yufei Chen
