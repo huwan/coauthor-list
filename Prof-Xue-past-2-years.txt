@@ -28,6 +28,7 @@ Haodong Lu
 Haopeng Yan
 Hong Xu
 Hongchao Du
+Hongyang Dang
 Hu Wan
 Huazhong Yang
 Hung-Chih Hsieh
@@ -35,6 +36,7 @@ Jason Xue
 Jen-Ming Wu
 Jiacheng Huang
 Jiamin Li
+Jie Zhang
 Jifeng Wu
 Jinghuan Yu
 Jingling Xue
@@ -140,6 +142,7 @@ Yunmo Zhang
 Yunpeng Song
 Zaoxing Liu
 Zheng Dong
+Zheng Wan
 Zhiping Jia
 Zhixiong Niu
 Zimeng Zhou

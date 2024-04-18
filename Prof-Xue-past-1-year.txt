@@ -9,6 +9,7 @@ Chun Jason Xue
 Chun Xue
 Cong Wang
 Congcong Zhu
+Congming Gao
 Dayong Ye
 Derui Wang
 Dong Gong
@@ -19,11 +20,13 @@ Fei Wu
 Haodong Lu
 Hong Xu
 Hongchao Du
+Hongyang Dang
 Hu Wan
 Huazhong Yang
 Hung-Chih Hsieh
 Jason Xue
 Jen-Ming Wu
+Jie Zhang
 Jifeng Wu
 Jinghuan Yu
 Jingling Xue
@@ -105,6 +108,7 @@ Yun Huang
 Yunpeng Song
 Zaoxing Liu
 Zheng Dong
+Zheng Wan
 Zhiping Jia
 Zhixiong Niu
 Zimeng Zhou

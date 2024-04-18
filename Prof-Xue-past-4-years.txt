@@ -42,6 +42,7 @@ Haopeng Yan
 Heejin Yoon
 Hong Xu
 Hongchao Du
+Hongyang Dang
 Hu Wan
 Huanghe Liu
 Huazhong Yang
@@ -51,6 +52,7 @@ Jen-Ming Wu
 Jiacheng Huang
 Jiamin Li
 Jianqiang Nie
+Jie Zhang
 Jifeng Wu
 Jinghuan Yu
 Jingling Xue
@@ -182,6 +184,7 @@ Yunpeng Song
 Zaoxing Liu
 Zelin Yun
 Zheng Dong
+Zheng Wan
 Zhenge Jia
 Zhiping Jia
 Zhixiong Niu

@@ -11,19 +11,23 @@ Chih-Ting Lo
 Chun Jason Xue
 Chun-Feng Wu
 Cong Wang
+Congming Gao
 Fei Wu
 Georg von der Brüggen
 Han-Wen Hu
 Hashan Roshantha Mendis
 Hongchao Du
+Hongyang Dang
 Hsiang-Pang Li
 Hu Wan
 Hung-Chih Hsieh
 Jian-Jia Chen
+Jie Zhang
 Jingtong Hu
 Lee Chang
 Mario Günzel
 Miguel Rodrigues
+Min Ye
 Ming-Chang Yang
 Nan Guan
 Niklas Ueter
@@ -56,6 +60,7 @@ Yufei Cui
 Yun Huang
 Yun-Chih Chen
 Yung-Chun Lee
+Zheng Wan
 Zheng-Wei Wu
 Zhenge Jia
 Ziquan Liu
