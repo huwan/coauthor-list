@@ -14,6 +14,7 @@ Gang Chen
 Guoliang Xing
 Guoqi Xie
 Guozhen Tan
+Hao Sun
 Hao Yu
 Haochun Liang
 Heming Fu
@@ -26,6 +27,7 @@ Insik Shin
 Jen-Ming Wu
 Jian-Jia Chen
 Jiangshan Yu
+Jianzhong Liu
 Jinghao Sun
 Jinkyu Lee
 Jinrong Liu
@@ -111,6 +113,7 @@ Ye Ma
 Yehan Ma
 Yekai Xue
 Yibo Zhang
+Yiru Xu
 Yiyuan Xie
 Yu Jiang
 Yu Li
@@ -118,6 +121,7 @@ Yu Mao
 Yuanhai Zhang
 Yue Tang
 Yufei Chen
+Yuheng Shen
 Yulong Wu
 Yun Huang
 Yuze He

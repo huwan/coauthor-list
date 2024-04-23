@@ -33,6 +33,7 @@ Guozhen Tan
 Han Wan
 Hancong Duan
 Hang Lei
+Hao Sun
 Hao Yu
 Haochun Liang
 He Du
@@ -49,6 +50,7 @@ Jian-Jia Chen
 Jiangshan Yu
 Jianhua Dai
 Jiantong Jiang
+Jianzhong Liu
 Jing He
 Jingchang Sun
 Jinghao Sun
@@ -175,6 +177,7 @@ Yehan Ma
 Yekai Xue
 Yi Zhang
 Yibo Zhang
+Yiru Xu
 Yiyuan Xie
 Yu Jiang
 Yu Li
@@ -184,6 +187,7 @@ Yue Tang
 Yue Yin
 Yufei Chen
 Yuhan Lin
+Yuheng Shen
 Yulong Wu
 Yuming Jiang
 Yun Huang

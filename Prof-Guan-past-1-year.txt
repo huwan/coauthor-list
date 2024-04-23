@@ -6,6 +6,7 @@ Gang Chen
 Guoliang Xing
 Guoqi Xie
 Guozhen Tan
+Hao Sun
 Haochun Liang
 Hiroshi Yamada
 Hiroyuki Tomiyama
@@ -15,6 +16,7 @@ Hyoseung Kim
 Insik Shin
 Jen-Ming Wu
 Jian-Jia Chen
+Jianzhong Liu
 Jinghao Sun
 Kai Huang
 Kailu Duan
@@ -75,11 +77,13 @@ Yang Wang
 Ye Ma
 Yehan Ma
 Yibo Zhang
+Yiru Xu
 Yu Jiang
 Yu Li
 Yu Mao
 Yuanhai Zhang
 Yue Tang
+Yuheng Shen
 Yulong Wu
 Yun Huang
 Zewei Chen

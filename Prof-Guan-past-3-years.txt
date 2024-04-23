@@ -23,6 +23,7 @@ Guangyi Xu
 Guoliang Xing
 Guoqi Xie
 Guozhen Tan
+Hao Sun
 Hao Yu
 Haochun Liang
 He Du
@@ -36,6 +37,7 @@ Insik Shin
 Jen-Ming Wu
 Jian-Jia Chen
 Jiangshan Yu
+Jianzhong Liu
 Jing He
 Jingchang Sun
 Jinghao Sun
@@ -134,6 +136,7 @@ Ye Ma
 Yehan Ma
 Yekai Xue
 Yibo Zhang
+Yiru Xu
 Yiyuan Xie
 Yu Jiang
 Yu Li
@@ -142,6 +145,7 @@ Yuanhai Zhang
 Yue Tang
 Yufei Chen
 Yuhan Lin
+Yuheng Shen
 Yulong Wu
 Yun Huang
 Yuze He
