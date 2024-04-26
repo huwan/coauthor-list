@@ -12,6 +12,7 @@ Chun Jason Xue
 Chun-Feng Wu
 Cong Wang
 Congming Gao
+Daniel Wen
 Fei Wu
 Georg von der Brüggen
 Han-Wen Hu
@@ -39,6 +40,7 @@ Shangyu Wu
 Shih-Chun Chou
 Shuhan Bai
 Tei-Wei Kuo
+Tianyu Ren
 Tse-Yuan Wang
 Tsung-Han Kuo
 Tsung-Yen Hsu
@@ -49,6 +51,7 @@ Xuan Sun
 Xue (Steve) Liu
 Xue Liu
 Yi-Shen Chen
+Yina Lv
 Ying Xiong
 Yixin Chen
 Yu Mao

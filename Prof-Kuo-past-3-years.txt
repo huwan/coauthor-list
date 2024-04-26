@@ -28,6 +28,7 @@ Chung Kuang Chen
 Chunjiang Zhu
 Cong Wang
 Congming Gao
+Daniel Wen
 Dongdong Tang
 Fei Wu
 Georg von der Brüggen
@@ -99,6 +100,7 @@ Yi-Shen Chen
 Yi-Te Hsu
 Yi-Ting Lai
 Yin-Chiuan Chen
+Yina Lv
 Ying Xiong
 Yixin Chen
 Yu Liang

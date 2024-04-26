@@ -1,3 +1,4 @@
+André Brinkmann
 Anthony Lei
 Antoni B. Chan
 Benjamin Pick
@@ -13,6 +14,7 @@ Chun Xue
 Cong Wang
 Congcong Zhu
 Congming Gao
+Daniel Wen
 Dayong Ye
 Derui Wang
 Dong Gong
@@ -28,6 +30,7 @@ Haodong Lu
 Haopeng Yan
 Hong Xu
 Hongchao Du
+Hongming Huang
 Hongyang Dang
 Hu Wan
 Huazhong Yang
@@ -47,6 +50,7 @@ Jinheng Li
 Jinyang Li
 Jiwu Shu
 Jun Yang
+Junqiao Qiu
 Kaisheng Ma
 Kaiwen Xue
 Keith Winstein

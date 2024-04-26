@@ -1,3 +1,4 @@
+André Brinkmann
 Antoni B. Chan
 Benjamin Pick
 Buzhou Tang
@@ -10,6 +11,7 @@ Chun Xue
 Cong Wang
 Congcong Zhu
 Congming Gao
+Daniel Wen
 Dayong Ye
 Derui Wang
 Dong Gong
@@ -20,12 +22,14 @@ Fei Wu
 Haodong Lu
 Hong Xu
 Hongchao Du
+Hongming Huang
 Hongyang Dang
 Hu Wan
 Huazhong Yang
 Hung-Chih Hsieh
 Jason Xue
 Jen-Ming Wu
+Jiacheng Huang
 Jie Zhang
 Jifeng Wu
 Jinghuan Yu
@@ -34,6 +38,7 @@ Jingtong Hu
 Jingzong Li
 Jinheng Li
 Jinyang Li
+Junqiao Qiu
 Kaisheng Ma
 Kaiwen Xue
 Kristen Moore
@@ -53,6 +58,7 @@ Min Ye
 Mingliang Zhou
 Nan Guan
 Peng Cheng
+Peng Wang
 Qiang Su
 Qiao Li
 Qingan Li
@@ -105,6 +111,7 @@ Yu Mao
 Yuchen Lu
 Yufei Cui
 Yun Huang
+Yunmo Zhang
 Yunpeng Song
 Zaoxing Liu
 Zheng Dong

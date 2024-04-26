@@ -1,4 +1,5 @@
 Alexander Ran
+André Brinkmann
 Anthony Lei
 Antoni B. Chan
 Benjamin Pick
@@ -23,6 +24,7 @@ Clay Patterson
 Cong Wang
 Congcong Zhu
 Congming Gao
+Daniel Wen
 Dayong Ye
 Derui Wang
 Dong Gong
@@ -42,6 +44,7 @@ Haopeng Yan
 Heejin Yoon
 Hong Xu
 Hongchao Du
+Hongming Huang
 Hongyang Dang
 Hu Wan
 Huanghe Liu
@@ -64,6 +67,7 @@ Jinhua Cui
 Jinyang Li
 Jiwu Shu
 Jun Yang
+Junqiao Qiu
 Kai Liu
 Kaisheng Ma
 Kaiwei Mo

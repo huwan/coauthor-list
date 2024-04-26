@@ -28,6 +28,7 @@ Chung Kuang Chen
 Chunjiang Zhu
 Cong Wang
 Congming Gao
+Daniel Wen
 David H. C. Du
 Dongdong Tang
 Fei Wu
@@ -112,6 +113,7 @@ Yi-Te Hsu
 Yi-Ting Chen
 Yi-Ting Lai
 Yin-Chiuan Chen
+Yina Lv
 Ying Xiong
 Yixin Chen
 Yu Liang
