@@ -18,6 +18,7 @@ Jen-Ming Wu
 Jian-Jia Chen
 Jianzhong Liu
 Jinghao Sun
+Jun Wang
 Kai Huang
 Kailu Duan
 Kaiwei Liu
@@ -84,6 +85,7 @@ Yu Li
 Yu Mao
 Yuanhai Zhang
 Yue Tang
+Yufei Cui
 Yuheng Shen
 Yulong Wu
 Yun Huang

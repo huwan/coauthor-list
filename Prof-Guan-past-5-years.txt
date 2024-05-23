@@ -57,6 +57,7 @@ Jinghao Sun
 Jinkyu Lee
 Jinrong Liu
 Juan Gómez-Luna
+Jun Wang
 Jun Zhou
 Junjie Yang
 Kai Huang
@@ -187,6 +188,7 @@ Yuanhai Zhang
 Yue Tang
 Yue Yin
 Yufei Chen
+Yufei Cui
 Yuhan Lin
 Yuheng Shen
 Yulong Wu

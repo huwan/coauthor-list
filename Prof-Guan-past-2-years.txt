@@ -31,6 +31,7 @@ Jianzhong Liu
 Jinghao Sun
 Jinkyu Lee
 Jinrong Liu
+Jun Wang
 Jun Zhou
 Kai Huang
 Kailu Duan
@@ -122,6 +123,7 @@ Yu Mao
 Yuanhai Zhang
 Yue Tang
 Yufei Chen
+Yufei Cui
 Yuheng Shen
 Yulong Wu
 Yun Huang
