@@ -130,6 +130,7 @@ Wei Zhang
 Weilan Wang
 Weiwei Wu
 Wuguannan Yao
+Xianglong Li
 Xiangyu Liu
 Xianzhang Chen
 Xiao Chen
@@ -149,6 +150,7 @@ Xuehai Zhou
 Xueyong Xu
 Yajuan Du
 Yang Xiang
+Yeqiao Hou
 Yik Hong Cai
 Yina Lv
 Ying Xiong
@@ -173,4 +175,5 @@ Zhiping Jia
 Zhixiong Niu
 Zimeng Zhou
 Ziquan Liu
+Zongpeng Li
 Zongwei Zhu

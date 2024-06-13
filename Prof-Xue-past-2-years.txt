@@ -53,6 +53,7 @@ Jun Wang
 Jun Yang
 Junqiao Qiu
 Kaisheng Ma
+Kaiwei Mo
 Kaiwen Xue
 Keith Winstein
 Kristen Moore
@@ -114,6 +115,7 @@ Wei Zhang
 Weilan Wang
 Weiwei Wu
 Wuguannan Yao
+Xianglong Li
 Xiangyu Liu
 Xianzhang Chen
 Xiaojun Cai
@@ -130,6 +132,7 @@ Xue Han
 Xue Liu
 Xuehai Zhou
 Xueyong Xu
+Yeqiao Hou
 Yik Hong Cai
 Yina Lv
 Ying Xiong
@@ -152,4 +155,5 @@ Zhiping Jia
 Zhixiong Niu
 Zimeng Zhou
 Ziquan Liu
+Zongpeng Li
 Zongwei Zhu
