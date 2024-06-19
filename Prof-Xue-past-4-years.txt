@@ -38,6 +38,7 @@ Fan Wu
 Fei Wu
 Hai (Helen) Li
 Hai Li
+Haibo Hu
 Han Wang
 Haodong Lu
 Haopeng Yan
@@ -54,6 +55,7 @@ Jason Xue
 Jen-Ming Wu
 Jiacheng Huang
 Jiamin Li
+Jianping Wang
 Jianqiang Nie
 Jie Zhang
 Jifeng Wu
@@ -77,6 +79,7 @@ Ke Liu
 Keith Winstein
 Keni Qiu
 Kristen Moore
+Kui Wu
 Kun Lu
 Laurence T. Yang
 Lei Ju
@@ -158,6 +161,7 @@ Xiaoxing Qiu
 Xin Gao
 Xin Shi
 Xinhang Lu
+Xinhong Chen
 Xinyi Zhang
 Xinyue Yu
 Xu Jiang
@@ -184,9 +188,11 @@ Young-ri Choi
 Youtao Zhang
 Yu Liang
 Yu Mao
+Yu-Kai Huang
 Yuchen Lu
 Yufei Cui
 Yun Huang
+Yung-Hui Li
 Yunmo Zhang
 Yunpeng Song
 Zaoxing Liu
@@ -196,6 +202,7 @@ Zheng Wan
 Zhenge Jia
 Zhiping Jia
 Zhixiong Niu
+Zikang Zhou
 Zimeng Zhou
 Ziquan Liu
 Zongpeng Li

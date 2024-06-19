@@ -19,6 +19,7 @@ Dongxiao Yu
 Duo Liu
 Edwin H.-M. Sha
 Fei Wu
+Haibo Hu
 Haodong Lu
 Hong Xu
 Hongchao Du
@@ -30,6 +31,7 @@ Hung-Chih Hsieh
 Jason Xue
 Jen-Ming Wu
 Jiacheng Huang
+Jianping Wang
 Jie Zhang
 Jifeng Wu
 Jinghuan Yu
@@ -44,6 +46,7 @@ Kaisheng Ma
 Kaiwei Mo
 Kaiwen Xue
 Kristen Moore
+Kui Wu
 Lei Ju
 Liang Shi
 Libin Liu
@@ -96,6 +99,7 @@ Xianzhang Chen
 Xiaojun Cai
 Xiaoliu Feng
 Xin Shi
+Xinhong Chen
 Xinyue Yu
 Xu Jiang
 Xuan Sun
@@ -113,9 +117,11 @@ You Zhou
 Young-ri Choi
 Yu Liang
 Yu Mao
+Yu-Kai Huang
 Yuchen Lu
 Yufei Cui
 Yun Huang
+Yung-Hui Li
 Yunmo Zhang
 Yunpeng Song
 Zaoxing Liu
@@ -123,6 +129,7 @@ Zheng Dong
 Zheng Wan
 Zhiping Jia
 Zhixiong Niu
+Zikang Zhou
 Zimeng Zhou
 Ziquan Liu
 Zongpeng Li

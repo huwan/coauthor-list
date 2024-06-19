@@ -26,6 +26,7 @@ Edwin H.-M. Sha
 Fei Wu
 Hai (Helen) Li
 Hai Li
+Haibo Hu
 Haodong Lu
 Haopeng Yan
 Hong Xu
@@ -39,6 +40,7 @@ Jason Xue
 Jen-Ming Wu
 Jiacheng Huang
 Jiamin Li
+Jianping Wang
 Jie Zhang
 Jifeng Wu
 Jinghuan Yu
@@ -57,6 +59,7 @@ Kaiwei Mo
 Kaiwen Xue
 Keith Winstein
 Kristen Moore
+Kui Wu
 Kun Lu
 Lei Ju
 Liang Shi
@@ -124,6 +127,7 @@ Xiaoxing Qiu
 Xin Gao
 Xin Shi
 Xinhang Lu
+Xinhong Chen
 Xinyue Yu
 Xu Jiang
 Xuan Sun
@@ -144,9 +148,11 @@ Young-ri Choi
 Youtao Zhang
 Yu Liang
 Yu Mao
+Yu-Kai Huang
 Yuchen Lu
 Yufei Cui
 Yun Huang
+Yung-Hui Li
 Yunmo Zhang
 Yunpeng Song
 Zaoxing Liu
@@ -154,6 +160,7 @@ Zheng Dong
 Zheng Wan
 Zhiping Jia
 Zhixiong Niu
+Zikang Zhou
 Zimeng Zhou
 Ziquan Liu
 Zongpeng Li
