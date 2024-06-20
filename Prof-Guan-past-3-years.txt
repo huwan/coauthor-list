@@ -57,6 +57,7 @@ Laiwen Li
 Lei Ju
 Lei Qiao
 Lei Yang
+Lianming Huang
 Linbo Long
 Liwei Zhang
 Maolin Yang
@@ -91,6 +92,7 @@ Ruoxiang Li
 Samsil Arefin
 Sebastian Steinhorst
 Seongtae Lee
+Shangyu Wu
 Shaoshan Liu
 Shiqing Li
 Shuai Zhao
@@ -142,6 +144,7 @@ Ye Ma
 Yehan Ma
 Yekai Xue
 Yibo Zhang
+Ying Xiong
 Yiru Xu
 Yiyuan Xie
 Yu Jiang

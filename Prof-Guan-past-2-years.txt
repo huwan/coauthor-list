@@ -43,6 +43,7 @@ Kui Wu
 Laiwen Li
 Lei Ju
 Lei Qiao
+Lianming Huang
 Linbo Long
 Liwei Zhang
 Maolin Yang
@@ -73,6 +74,7 @@ Rong Su
 Ruoxiang Li
 Sebastian Steinhorst
 Seongtae Lee
+Shangyu Wu
 Shaoshan Liu
 Shuai Zhao
 Shuangshuang Chang
@@ -109,6 +111,7 @@ Xisheng Li
 Xu Jiang
 Xuan Huang
 Xuan Sun
+Xue Liu
 Xuemei Peng
 Yan Wang
 Yan Zhuang
@@ -119,6 +122,7 @@ Ye Ma
 Yehan Ma
 Yekai Xue
 Yibo Zhang
+Ying Xiong
 Yiru Xu
 Yiyuan Xie
 Yu Jiang

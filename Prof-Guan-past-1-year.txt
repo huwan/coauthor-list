@@ -29,6 +29,7 @@ Kui Wu
 Laiwen Li
 Lei Ju
 Lei Qiao
+Lianming Huang
 Linbo Long
 Maolin Yang
 Menglong Cui
@@ -47,6 +48,7 @@ Renato Mancuso
 Rong Su
 Ruoxiang Li
 Sebastian Steinhorst
+Shangyu Wu
 Shaoshan Liu
 Shuai Zhao
 Shuhan Bai
@@ -76,6 +78,7 @@ Xiaobo Sharon Hu
 Xinhong Chen
 Xisheng Li
 Xu Jiang
+Xue Liu
 Xuemei Peng
 Yan Wang
 Yang Li
@@ -83,6 +86,7 @@ Yang Wang
 Ye Ma
 Yehan Ma
 Yibo Zhang
+Ying Xiong
 Yiru Xu
 Yu Jiang
 Yu Li
