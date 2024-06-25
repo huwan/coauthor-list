@@ -42,6 +42,7 @@ Jinheng Li
 Jinyang Li
 Jun Wang
 Junqiao Qiu
+Juxin Niu
 Kaisheng Ma
 Kaiwei Mo
 Kaiwen Xue
@@ -94,6 +95,7 @@ Wanlei Zhou
 Wei Li
 Wei Zhang
 Weilan Wang
+Wenjing Xie
 Xianglong Li
 Xiangyu Liu
 Xianzhang Chen
