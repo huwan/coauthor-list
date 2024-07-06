@@ -1,6 +1,7 @@
 André Brinkmann
 Antoni B. Chan
 Benjamin Pick
+Bo Li
 Buzhou Tang
 Changlong Li
 Changsheng Xie
@@ -56,6 +57,7 @@ Libing Wu
 Lihao Dong
 Lina Yao
 Ling Lin
+Linyi Li
 M. Ejaz Ahmed
 Mahathir Almashor
 Mengting Yuan
@@ -85,6 +87,7 @@ Shudeng Wu
 Shuhan Bai
 Shuo Wang
 Shuo Xu
+Siji Chen
 Song Han
 Surya Nepal
 Tei-Wei Kuo
@@ -96,6 +99,7 @@ Wei Li
 Wei Zhang
 Weilan Wang
 Wenjing Xie
+Xi Xiao
 Xianglong Li
 Xiangyu Liu
 Xianzhang Chen
@@ -118,6 +122,7 @@ Yongpan Liu
 Yongqiang Xiong
 You Zhou
 Young-ri Choi
+Youwei Shu
 Yu Liang
 Yu Mao
 Yu-Kai Huang
@@ -127,6 +132,7 @@ Yun Huang
 Yung-Hui Li
 Yunmo Zhang
 Yunpeng Song
+Yuxin Cao
 Zaoxing Liu
 Zheng Dong
 Zheng Wan
