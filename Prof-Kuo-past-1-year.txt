@@ -2,12 +2,16 @@ Antoni B. Chan
 Buzhou Tang
 Changsheng Xie
 Che-Wei Tsao
+Cheng-Jhih Shih
+Chi-Sheng Shih
 Chia-Yin Liu
 Chieh-Lin Tsai
 Chien-Chung Ho
 Chih-Chia Lin
 Chih-Hsuan Yen
 Chih-Ting Lo
+Ching-Wen Chen
+Chiy-Ferng Perng
 Chun Jason Xue
 Chun-Feng Wu
 Cong Wang
@@ -28,6 +32,7 @@ Jingtong Hu
 Lee Chang
 Lianming Huang
 Mario Günzel
+Meng-Chao Kao
 Miguel Rodrigues
 Min Ye
 Ming-Chang Yang
@@ -39,6 +44,7 @@ Qiao Li
 Riwei Pan
 Shangyu Wu
 Shih-Chun Chou
+Shih-Hao Hung
 Shuhan Bai
 Tei-Wei Kuo
 Tianyu Ren

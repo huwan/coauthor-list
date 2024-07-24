@@ -5,6 +5,8 @@ Changlong Li
 Changsheng Xie
 Che-Wei Tsao
 Cheng Yu
+Cheng-Jhih Shih
+Chi-Sheng Shih
 Chi-Yin Chow
 Chia-Lin Yang
 Chia-Ming Hu
@@ -16,6 +18,8 @@ Chih-Chia Lin
 Chih-Hsuan Yen
 Chih-Ting Lo
 Chih-Yuan Lu
+Ching-Wen Chen
+Chiy-Ferng Perng
 Chong-Ying Lee
 Chun Jason Xue
 Chun-Feng Wu
@@ -50,6 +54,7 @@ Kuo-Hsuan Hung
 Lee Chang
 Lianming Huang
 Mario Günzel
+Meng-Chao Kao
 Meng-Fan Chang
 Miguel Rodrigues
 Min Ye
@@ -63,6 +68,7 @@ Rachata Ausavarungnirun
 Riwei Pan
 Shangyu Wu
 Shih-Chun Chou
+Shih-Hao Hung
 Shu-Hsien Liao
 Shuhan Bai
 Shun Deng

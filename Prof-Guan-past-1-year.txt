@@ -22,6 +22,7 @@ Jian-Jia Chen
 Jianping Wang
 Jianzhong Liu
 Jinghao Sun
+Jinkyu Lee
 Jun Wang
 Juxin Niu
 Kai Huang
@@ -91,6 +92,7 @@ Yehan Ma
 Yibo Zhang
 Ying Xiong
 Yiru Xu
+Yongzheng Sun
 Yu Jiang
 Yu Li
 Yu Mao

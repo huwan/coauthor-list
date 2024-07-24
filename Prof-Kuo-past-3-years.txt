@@ -8,6 +8,8 @@ Che-Wei Tsao
 Chenchen Fu
 Cheng Ji
 Cheng Yu
+Cheng-Jhih Shih
+Chi-Sheng Shih
 Chi-Yin Chow
 Chia-Lin Yang
 Chia-Ming Hu
@@ -19,6 +21,8 @@ Chih-Chia Lin
 Chih-Hsuan Yen
 Chih-Ting Lo
 Chih-Yuan Lu
+Ching-Wen Chen
+Chiy-Ferng Perng
 Chong-Ying Lee
 Christian Hakert
 Chun Jason Xue
@@ -58,6 +62,7 @@ Li-Pin Chang
 Liang Shi
 Lianming Huang
 Mario Günzel
+Meng-Chao Kao
 Meng-Fan Chang
 Mi-Yen Yeh
 Miguel Rodrigues
@@ -72,6 +77,7 @@ Rachata Ausavarungnirun
 Riwei Pan
 Shangyu Wu
 Shih-Chun Chou
+Shih-Hao Hung
 Shu-Hsien Liao
 Shuhan Bai
 Shun Deng
