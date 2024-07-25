@@ -6,6 +6,7 @@ Benjamin Pick
 Bo Li
 Bo Zhou
 Buzhou Tang
+Carsten Rudolph
 Changlong Li
 Changsheng Xie
 Chao Wang
@@ -117,6 +118,7 @@ Qiao Li
 Qingan Li
 Qingfeng Zhuge
 Qingxu Deng
+Quan Hong Nguyen
 Rachata Ausavarungnirun
 Raj Gaire
 Ran Shu
@@ -145,7 +147,9 @@ Theocharis Theocharides
 Tianqing Zhu
 Tianyu Ren
 Tianyu Wang
+Tingmin Wu
 Tongda Wu
+Van Nguyen
 Vijaykrishnan Narayanan
 Wanlei Zhou
 Wei Li
@@ -167,6 +171,7 @@ Xiaoqiang Li
 Xiaoxing Qiu
 Xin Gao
 Xin Shi
+Xingliang Yuan
 Xinhang Lu
 Xinhong Chen
 Xinyi Zhang
