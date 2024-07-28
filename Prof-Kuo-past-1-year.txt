@@ -29,6 +29,7 @@ Hung-Chih Hsieh
 Jian-Jia Chen
 Jie Zhang
 Jingtong Hu
+Kam-Yiu Lam
 Lee Chang
 Lianming Huang
 Mario Günzel
@@ -53,6 +54,7 @@ Tsung-Han Kuo
 Tsung-Yen Hsu
 Wei-Chen Wang
 Xiangyu Liu
+Xiaofei Zhao
 Xinyue Yu
 Xuan Sun
 Xue (Steve) Liu
