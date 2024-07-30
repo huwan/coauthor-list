@@ -17,6 +17,7 @@ Chun-Feng Wu
 Cong Wang
 Congming Gao
 Daniel Wen
+Dongdong Tang
 Fei Wu
 Georg von der Brüggen
 Han-Wen Hu
@@ -28,6 +29,7 @@ Hu Wan
 Hung-Chih Hsieh
 Jian-Jia Chen
 Jie Zhang
+Jinghuan Yu
 Jingtong Hu
 Kam-Yiu Lam
 Lee Chang
@@ -53,6 +55,7 @@ Tse-Yuan Wang
 Tsung-Han Kuo
 Tsung-Yen Hsu
 Wei-Chen Wang
+Weilan Wang
 Xiangyu Liu
 Xiaofei Zhao
 Xinyue Yu
