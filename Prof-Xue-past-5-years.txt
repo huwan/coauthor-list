@@ -42,6 +42,7 @@ Edwin Hsing-Mean Sha
 Eric Shiu
 Fan Wu
 Fei Wu
+Flora D. Salim
 Fuyang Li
 Hai (Helen) Li
 Hai Li
@@ -56,6 +57,7 @@ Hongming Huang
 Hongyang Dang
 Hu Wan
 Huafeng Yu
+Huaming Chen
 Huanghe Liu
 Huazhong Yang
 Hung-Chih Hsieh
@@ -67,6 +69,7 @@ Jiacheng Huang
 Jiamin Li
 Jianping Wang
 Jianqiang Nie
+Jiayu Zhang
 Jie Zhang
 Jifeng Wu
 Jihong Kim
@@ -205,6 +208,7 @@ Xin Shi
 Xingliang Yuan
 Xinhang Lu
 Xinhong Chen
+Xinyi Wang
 Xinyi Zhang
 Xinyue Yu
 Xu Jiang
@@ -250,8 +254,10 @@ Zelin Yun
 Zheng Dong
 Zheng Wan
 Zhenge Jia
+Zhibo Jin
 Zhiping Jia
 Zhixiong Niu
+Zhiyu Zhu
 Zikang Zhou
 Zimeng Zhou
 Ziqi Shuai

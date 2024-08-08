@@ -22,6 +22,7 @@ Dongxiao Yu
 Duo Liu
 Edwin H.-M. Sha
 Fei Wu
+Flora D. Salim
 Haibo Hu
 Haodong Lu
 Hong Xu
@@ -29,12 +30,14 @@ Hongchao Du
 Hongming Huang
 Hongyang Dang
 Hu Wan
+Huaming Chen
 Huazhong Yang
 Hung-Chih Hsieh
 Jason Xue
 Jen-Ming Wu
 Jiacheng Huang
 Jianping Wang
+Jiayu Zhang
 Jie Zhang
 Jifeng Wu
 Jinghuan Yu
@@ -113,6 +116,7 @@ Xiaoliu Feng
 Xin Shi
 Xingliang Yuan
 Xinhong Chen
+Xinyi Wang
 Xinyue Yu
 Xu Jiang
 Xuan Sun
@@ -142,8 +146,10 @@ Yuxin Cao
 Zaoxing Liu
 Zheng Dong
 Zheng Wan
+Zhibo Jin
 Zhiping Jia
 Zhixiong Niu
+Zhiyu Zhu
 Zikang Zhou
 Zimeng Zhou
 Ziquan Liu

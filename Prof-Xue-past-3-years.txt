@@ -32,6 +32,7 @@ Dongxiao Yu
 Duo Liu
 Edwin H.-M. Sha
 Fei Wu
+Flora D. Salim
 Hai (Helen) Li
 Hai Li
 Haibo Hu
@@ -43,6 +44,7 @@ Hongchao Du
 Hongming Huang
 Hongyang Dang
 Hu Wan
+Huaming Chen
 Huazhong Yang
 Hung-Chih Hsieh
 Jason Xue
@@ -50,6 +52,7 @@ Jen-Ming Wu
 Jiacheng Huang
 Jiamin Li
 Jianping Wang
+Jiayu Zhang
 Jie Zhang
 Jifeng Wu
 Jinghuan Yu
@@ -156,6 +159,7 @@ Xin Shi
 Xingliang Yuan
 Xinhang Lu
 Xinhong Chen
+Xinyi Wang
 Xinyue Yu
 Xu Jiang
 Xuan Sun
@@ -192,8 +196,10 @@ Zaoxing Liu
 Zelin Yun
 Zheng Dong
 Zheng Wan
+Zhibo Jin
 Zhiping Jia
 Zhixiong Niu
+Zhiyu Zhu
 Zikang Zhou
 Zimeng Zhou
 Ziquan Liu
