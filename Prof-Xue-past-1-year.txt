@@ -3,6 +3,7 @@ Antoni B. Chan
 Benjamin Pick
 Bo Li
 Buzhou Tang
+Can Chen
 Carsten Rudolph
 Changlong Li
 Changsheng Xie
@@ -25,6 +26,7 @@ Fei Wu
 Flora D. Salim
 Haibo Hu
 Haodong Lu
+Haolun Wu
 Hong Xu
 Hongchao Du
 Hongming Huang
@@ -123,6 +125,7 @@ Xuan Sun
 Xue (Steve) Liu
 Xue Liu
 Xuehai Zhou
+Ye Yuan
 Yeqiao Hou
 Yik Hong Cai
 Yina Lv

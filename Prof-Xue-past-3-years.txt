@@ -5,6 +5,7 @@ Benjamin Pick
 Bo Li
 Bo Zhou
 Buzhou Tang
+Can Chen
 Carsten Rudolph
 Changlong Li
 Changsheng Xie
@@ -38,6 +39,7 @@ Hai Li
 Haibo Hu
 Han Wang
 Haodong Lu
+Haolun Wu
 Haopeng Yan
 Hong Xu
 Hongchao Du
@@ -170,6 +172,7 @@ Xuehai Zhou
 Xueyong Xu
 Yajuan Du
 Yang Xiang
+Ye Yuan
 Yeqiao Hou
 Yik Hong Cai
 Yina Lv

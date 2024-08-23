@@ -1,5 +1,6 @@
 Antoni B. Chan
 Buzhou Tang
+Can Chen
 Changsheng Xie
 Che-Wei Tsao
 Cheng-Jhih Shih
@@ -21,6 +22,7 @@ Dongdong Tang
 Fei Wu
 Georg von der Brüggen
 Han-Wen Hu
+Haolun Wu
 Hashan Roshantha Mendis
 Hongchao Du
 Hongyang Dang
@@ -62,6 +64,7 @@ Xinyue Yu
 Xuan Sun
 Xue (Steve) Liu
 Xue Liu
+Ye Yuan
 Yi-Shen Chen
 Yina Lv
 Ying Xiong

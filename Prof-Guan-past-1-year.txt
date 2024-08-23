@@ -1,4 +1,5 @@
 Abdullah Al Arafat
+Can Chen
 Chuancai Gu
 Chun Jason Xue
 Dong Ji
@@ -9,6 +10,7 @@ Guozhen Tan
 Haibo Hu
 Hao Sun
 Haochun Liang
+Haolun Wu
 Hiroshi Yamada
 Hiroyuki Tomiyama
 Hong Xu
@@ -88,6 +90,7 @@ Yan Wang
 Yang Li
 Yang Wang
 Ye Ma
+Ye Yuan
 Yehan Ma
 Yibo Zhang
 Ying Xiong

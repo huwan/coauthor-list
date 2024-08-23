@@ -1,6 +1,7 @@
 Antoni B. Chan
 Bo-Rong Lin
 Buzhou Tang
+Can Chen
 Changlong Li
 Changsheng Xie
 Chao Wu
@@ -38,6 +39,7 @@ Fei Wu
 Georg von der Brüggen
 Han-Sung Chen
 Han-Wen Hu
+Haolun Wu
 Harinath Garudadri
 Hasan Alhasan
 Hashan Roshantha Mendis
@@ -104,6 +106,7 @@ Xuan Sun
 Xue (Steve) Liu
 Xue Liu
 Yajuan Du
+Ye Yuan
 Yen-Po Lin
 Yi-Shen Chen
 Yi-Te Hsu

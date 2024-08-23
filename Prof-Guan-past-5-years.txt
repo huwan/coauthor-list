@@ -7,6 +7,7 @@ Andy J. Wellings
 Arun Vishwanath
 Ashikahmed Bhuiyan
 Caiqi Zhang
+Can Chen
 Chang Shi
 Changqing Xia
 Cheng Fan
@@ -37,6 +38,7 @@ Hang Lei
 Hao Sun
 Hao Yu
 Haochun Liang
+Haolun Wu
 He Du
 Heming Fu
 Hiroshi Yamada
@@ -184,6 +186,7 @@ Yang Wang
 Yaoyao Chi
 Yaoyao Ye
 Ye Ma
+Ye Yuan
 Yehan Ma
 Yekai Xue
 Yi Zhang
