@@ -1,4 +1,5 @@
 Abdullah Al Arafat
+Bingkun Yao
 Can Chen
 Chuancai Gu
 Chun Jason Xue
@@ -23,6 +24,7 @@ Jen-Ming Wu
 Jian-Jia Chen
 Jianping Wang
 Jianzhong Liu
+Jie Zhou
 Jinghao Sun
 Jinkyu Lee
 Jun Wang
@@ -45,6 +47,7 @@ Nan Guan
 Nathan Fisher
 Neil C. Audsley
 Neiwen Ling
+Ning Wang
 Peng Chen
 Qianling Zhang
 Qingqiang He
@@ -77,6 +80,7 @@ Weizhe Zhang
 Wenhong Ma
 Wenjing Xie
 Wenxuan Xing
+Xi Wang
 Xian Shuai
 Xiangzhen Xiao
 Xiantong Luo

@@ -6,6 +6,7 @@ Ameer Hamza Khan
 Andy J. Wellings
 Arun Vishwanath
 Ashikahmed Bhuiyan
+Bingkun Yao
 Caiqi Zhang
 Can Chen
 Chang Shi
@@ -57,6 +58,7 @@ Jianhua Dai
 Jianping Wang
 Jiantong Jiang
 Jianzhong Liu
+Jie Zhou
 Jing He
 Jingchang Sun
 Jinghao Sun
@@ -100,6 +102,7 @@ Neil C. Audsley
 Neiwen Ling
 Nenggan Zheng
 Nikil D. Dutt
+Ning Wang
 Onur Mutlu
 Pan Dong
 Peng Chen
@@ -163,6 +166,7 @@ Wenjing Xie
 Wentao Zhu
 Wenxuan Xing
 Xi Jin
+Xi Wang
 Xi Zhang
 Xian Shuai
 Xiang Long

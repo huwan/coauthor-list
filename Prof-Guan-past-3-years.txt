@@ -4,6 +4,7 @@ Alan Burns
 Andy J. Wellings
 Arun Vishwanath
 Ashikahmed Bhuiyan
+Bingkun Yao
 Caiqi Zhang
 Can Chen
 Changqing Xia
@@ -44,6 +45,7 @@ Jian-Jia Chen
 Jiangshan Yu
 Jianping Wang
 Jianzhong Liu
+Jie Zhou
 Jing He
 Jingchang Sun
 Jinghao Sun
@@ -77,6 +79,7 @@ Nan Zhang
 Nathan Fisher
 Neil C. Audsley
 Neiwen Ling
+Ning Wang
 Pan Dong
 Peng Chen
 Peng Zeng
@@ -126,6 +129,7 @@ Wenhong Ma
 Wenjing Xie
 Wenxuan Xing
 Xi Jin
+Xi Wang
 Xi Zhang
 Xian Shuai
 Xiangzhen Xiao
