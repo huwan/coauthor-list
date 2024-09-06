@@ -41,6 +41,7 @@ Lianming Huang
 Linbo Long
 Maolin Yang
 Menglong Cui
+Minghe Yu
 Mingsong Lv
 Mingsong Lyu
 Nan Guan
@@ -120,5 +121,6 @@ Zhihe Zhao
 Zhishan Guo
 Zijin Xu
 Zikang Zhou
+Zilong Wang
 Zimeng Zhou
 Zonghua Gu
