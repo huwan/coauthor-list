@@ -22,6 +22,7 @@ Chengmo Yang
 Chenyun Yu
 Chia-Lin Yang
 Christopher Lesner
+Chuanhui Yang
 Chuanming Ding
 Chuanwen Wang
 Chun Jason Xue
@@ -91,6 +92,7 @@ Junlong Zhou
 Junqiao Qiu
 Juxin Niu
 Kai Liu
+Kaihuan Lin
 Kaijie Wu
 Kaisheng Ma
 Kaiwei Mo
@@ -143,6 +145,7 @@ Qingfeng Zhuge
 Qingxu Deng
 Qirun Huo
 Quan Hong Nguyen
+Quanqing Xu
 Rachata Ausavarungnirun
 Raj Gaire
 Rajiv Ranjan
@@ -201,6 +204,7 @@ Wuguannan Yao
 Xi Xiao
 Xianglong Li
 Xiangyu Liu
+Xiangyu Yao
 Xianzhang Chen
 Xiao Chen
 Xiaojun Cai
@@ -209,6 +213,7 @@ Xiaoqiang Li
 Xiaoxing Qiu
 Xin Gao
 Xin Shi
+Xinbiao Gan
 Xingliang Yuan
 Xinhang Lu
 Xinhong Chen
@@ -261,6 +266,7 @@ Zheng Wan
 Zhenge Jia
 Zhibo Jin
 Zhiping Jia
+Zhirong Shen
 Zhixiong Niu
 Zhiyu Zhu
 Zikang Zhou

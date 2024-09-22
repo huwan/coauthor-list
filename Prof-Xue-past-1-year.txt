@@ -9,6 +9,7 @@ Changlong Li
 Changsheng Xie
 Chao Wang
 Chenchen Fu
+Chuanhui Yang
 Chun Jason Xue
 Chun Xue
 Cong Wang
@@ -52,6 +53,7 @@ Jun Shen
 Jun Wang
 Junqiao Qiu
 Juxin Niu
+Kaihuan Lin
 Kaisheng Ma
 Kaiwei Mo
 Kaiwen Xue
@@ -81,6 +83,7 @@ Qiao Li
 Qingan Li
 Qingfeng Zhuge
 Quan Hong Nguyen
+Quanqing Xu
 Rachata Ausavarungnirun
 Raj Gaire
 Ran Shu
@@ -114,10 +117,12 @@ Wenjing Xie
 Xi Xiao
 Xianglong Li
 Xiangyu Liu
+Xiangyu Yao
 Xianzhang Chen
 Xiaojun Cai
 Xiaoliu Feng
 Xin Shi
+Xinbiao Gan
 Xingliang Yuan
 Xinhong Chen
 Xinyi Wang
@@ -153,6 +158,7 @@ Zheng Dong
 Zheng Wan
 Zhibo Jin
 Zhiping Jia
+Zhirong Shen
 Zhixiong Niu
 Zhiyu Zhu
 Zikang Zhou
