@@ -22,6 +22,7 @@ Hao Yu
 Haochun Liang
 Haolun Wu
 Heming Fu
+Heyuan Shi
 Hiroshi Yamada
 Hiroyuki Tomiyama
 Hong Xu
@@ -60,6 +61,7 @@ Mengquan Li
 Minghe Yu
 Mingsong Lv
 Mingsong Lyu
+Mingzhe Wang
 Nan Guan
 Nan Zhang
 Nathan Fisher

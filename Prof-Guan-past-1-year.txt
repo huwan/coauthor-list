@@ -12,6 +12,7 @@ Haibo Hu
 Hao Sun
 Haochun Liang
 Haolun Wu
+Heyuan Shi
 Hiroshi Yamada
 Hiroyuki Tomiyama
 Hong Xu
@@ -44,6 +45,7 @@ Menglong Cui
 Minghe Yu
 Mingsong Lv
 Mingsong Lyu
+Mingzhe Wang
 Nan Guan
 Nathan Fisher
 Neil C. Audsley
