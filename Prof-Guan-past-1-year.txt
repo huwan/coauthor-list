@@ -1,6 +1,7 @@
 Abdullah Al Arafat
 Bingkun Yao
 Can Chen
+Chenhao Wu
 Chuancai Gu
 Chun Jason Xue
 Dong Ji
@@ -15,6 +16,7 @@ Haolun Wu
 Heyuan Shi
 Hiroshi Yamada
 Hiroyuki Tomiyama
+Hong Gao
 Hong Xu
 Hongchao Du
 Hongming Huang
@@ -46,6 +48,7 @@ Minghe Yu
 Mingsong Lv
 Mingsong Lyu
 Mingzhe Wang
+Naijun Zhan
 Nan Guan
 Nathan Fisher
 Neil C. Audsley
@@ -56,6 +59,7 @@ Qianling Zhang
 Qingqiang He
 Qingxu Deng
 Qiulin Chen
+Ran Wei
 Renato Mancuso
 Rong Su
 Ruoxiang Li
@@ -88,6 +92,7 @@ Xian Shuai
 Xiangzhen Xiao
 Xiantong Luo
 Xiaobo Sharon Hu
+Xin Si
 Xinhong Chen
 Xisheng Li
 Xu Jiang

@@ -1,18 +1,12 @@
-Alexander Ran
 André Brinkmann
-Anthony Lei
 Antoni B. Chan
-Benjamin Pick
-Bo Li
 Bo Zhou
 Buzhou Tang
 Can Chen
-Carsten Rudolph
 Changlong Li
 Changsheng Xie
 Chao Wang
 Chao Wu
-Chaoran Li
 Chaoshu Yang
 Chen Chen
 Chen Pan
@@ -21,36 +15,28 @@ Cheng Ji
 Chengmo Yang
 Chenyun Yu
 Chia-Lin Yang
-Christopher Lesner
-Chuanhui Yang
 Chuanming Ding
 Chuanwen Wang
 Chun Jason Xue
 Chun Xue
 Clay Patterson
 Cong Wang
-Congcong Zhu
 Congming Gao
 Daniel Wen
-Dayong Ye
-Derui Wang
-Dong Gong
 Dongdong Tang
 Dongsu Han
 Dongxiao Yu
 Duo Liu
 Edwin H.-M. Sha
 Edwin Hsing-Mean Sha
-Eric Shiu
 Fan Wu
 Fei Wu
-Flora D. Salim
 Fuyang Li
+Guoliang Xing
 Hai (Helen) Li
 Hai Li
 Haibo Hu
 Han Wang
-Haodong Lu
 Haolun Wu
 Haopeng Yan
 Heejin Yoon
@@ -60,7 +46,6 @@ Hongming Huang
 Hongyang Dang
 Hu Wan
 Huafeng Yu
-Huaming Chen
 Huanghe Liu
 Huazhong Yang
 Hung-Chih Hsieh
@@ -72,39 +57,35 @@ Jiacheng Huang
 Jiamin Li
 Jianping Wang
 Jianqiang Nie
-Jiayu Zhang
 Jie Zhang
 Jifeng Wu
 Jihong Kim
 Jinghuan Yu
 Jingling Xue
 Jingtong Hu
-Jingxian Liao
 Jingzong Li
 Jinheng Li
 Jinhua Cui
 Jinyang Li
 Jiwu Shu
-Jun Shen
 Jun Wang
 Jun Yang
 Junhui He
 Junlong Zhou
+Junlong Zhu
 Junqiao Qiu
 Juxin Niu
 Kai Liu
-Kaihuan Lin
 Kaijie Wu
 Kaisheng Ma
 Kaiwei Mo
 Kaiwen Xue
+Kan Zhong
 Kang Eun Jeon
 Ke Liu
 Keith Winstein
 Keni Qiu
-Kristen Moore
 Kui Wu
-Kun Lu
 Laurence T. Yang
 Lei Ju
 Li-Pin Chang
@@ -113,14 +94,9 @@ Lianming Huang
 Libin Liu
 Libing Wu
 Lihao Dong
-Lina Yao
 Ling Lin
-Linyi Li
 Longfei Luo
 Lun Wang
-M. Ejaz Ahmed
-Mahathir Almashor
-Marko Rukonic
 Mengting Yuan
 Mengying Zhao
 Miguel Rodrigues
@@ -130,9 +106,9 @@ Min Ye
 Ming Ma
 Mingliang Zhou
 Minming Li
-Muhammad Ejaz Ahmed
 Muhammad Shafique
 Nan Guan
+Neiwen Ling
 Peng Cheng
 Peng Wang
 Peng Wu
@@ -145,56 +121,41 @@ Qingan Li
 Qingfeng Zhuge
 Qingxu Deng
 Qirun Huo
-Quan Hong Nguyen
-Quanqing Xu
 Rachata Ausavarungnirun
-Raj Gaire
 Rajiv Ranjan
 Ran Shu
 Riwei Pan
 Rui Wang
-Ruoxi Sun
 Ruoxiang Li
 Sam H. Noh
 Sang-Ha Kim
 Sangwook Shane Hahn
 Sarana Nutanong
 Schahram Dustdar
-Seyit Camtepe
 Shangyu Wu
 Shaofeng Wu
-Sharif Abuadbba
-Sheng Shen
-Sheng Wen
 Shouzhen Gu
 Shudeng Wu
 Shuhan Bai
 Shun Deng
-Shuo Wang
 Shuo Xu
 Shuo-Han Chen
-Siji Chen
 Siyu Chen
 Song Han
 Soochang Park
 Sujunjie Sun
 Sungjin Lee
-Surya Nepal
+Tao Hu
 Tei-Wei Kuo
 Theocharis Theocharides
-Tianqing Zhu
 Tianyu Ren
 Tianyu Wang
-Tingmin Wu
 Tongda Wu
 Tongquan Wei
-Van Nguyen
 Vijaykrishnan Narayanan
-Wanlei Zhou
 Wei Li
 Wei Lin
 Wei Liu
-Wei Wang
 Wei Zhang
 Weidong Wen
 Weiguang Liu
@@ -203,35 +164,26 @@ Weining Song
 Weiwei Wu
 Wenjing Xie
 Wuguannan Yao
-Xi Xiao
 Xianglong Li
 Xiangyu Liu
-Xiangyu Yao
 Xianzhang Chen
-Xiao Chen
 Xiaojun Cai
 Xiaoliu Feng
 Xiaoqiang Li
 Xiaoxing Qiu
-Xin Gao
 Xin Shi
-Xinbiao Gan
-Xingliang Yuan
 Xinhang Lu
 Xinhong Chen
-Xinyi Wang
 Xinyi Zhang
 Xinyue Yu
 Xu Jiang
 Xuan Sun
 Xue (Steve) Liu
-Xue Han
 Xue Liu
 Xuehai Zhou
 Xueqing Li
 Xueyong Xu
 Yajuan Du
-Yang Xiang
 Yang Zhou
 Yao Zhou
 Ye Yuan
@@ -248,7 +200,6 @@ Yongqiang Xiong
 You Zhou
 Young-ri Choi
 Youtao Zhang
-Youwei Shu
 Yu Liang
 Yu Mao
 Yu-Kai Huang
@@ -260,21 +211,18 @@ Yun Huang
 Yung-Hui Li
 Yunmo Zhang
 Yunpeng Song
-Yuxin Cao
 Zaoxing Liu
 Zelin Yun
 Zheng Dong
 Zheng Wan
 Zhenge Jia
-Zhibo Jin
 Zhiping Jia
-Zhirong Shen
 Zhixiong Niu
-Zhiyu Zhu
 Zikang Zhou
 Zimeng Zhou
 Ziqi Shuai
 Ziquan Liu
 Zongpeng Li
 Zongwei Zhu
+https://ieeexplore.ieee.org/author/
 https://zbmath.org/authors/?q=ai:xue.chun-jason

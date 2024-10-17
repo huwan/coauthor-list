@@ -4,6 +4,7 @@ Bingkun Yao
 Can Chen
 Cheng Fan
 Cheng Zhuo
+Chenhao Wu
 Chuancai Gu
 Chun Jason Xue
 Chunhua Xiao
@@ -25,6 +26,7 @@ Heming Fu
 Heyuan Shi
 Hiroshi Yamada
 Hiroyuki Tomiyama
+Hong Gao
 Hong Xu
 Hongchao Du
 Hongming Huang
@@ -62,6 +64,7 @@ Minghe Yu
 Mingsong Lv
 Mingsong Lyu
 Mingzhe Wang
+Naijun Zhan
 Nan Guan
 Nan Zhang
 Nathan Fisher
@@ -118,6 +121,7 @@ Xiangzhen Xiao
 Xiantong Luo
 Xiaobo Sharon Hu
 Xiaotian Dai
+Xin Si
 Xinhong Chen
 Xisheng Li
 Xu Jiang
