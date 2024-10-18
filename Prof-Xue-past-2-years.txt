@@ -7,6 +7,7 @@ Changsheng Xie
 Chao Wang
 Chenchen Fu
 Chia-Lin Yang
+Chuanhui Yang
 Chuanwen Wang
 Chun Jason Xue
 Chun Xue
@@ -52,6 +53,7 @@ Junhui He
 Junlong Zhu
 Junqiao Qiu
 Juxin Niu
+Kaihuan Lin
 Kaisheng Ma
 Kaiwei Mo
 Kaiwen Xue
@@ -73,6 +75,8 @@ Min Peng
 Min Ye
 Ming Ma
 Mingliang Zhou
+Minhui (Jason) Xue
+Minhui Xue
 Muhammad Shafique
 Nan Guan
 Neiwen Ling
@@ -83,6 +87,7 @@ Qiao Li
 Qingan Li
 Qingfeng Zhuge
 Qingxu Deng
+Quanqing Xu
 Rachata Ausavarungnirun
 Ran Shu
 Riwei Pan
@@ -111,11 +116,13 @@ Wenjing Xie
 Wuguannan Yao
 Xianglong Li
 Xiangyu Liu
+Xiangyu Yao
 Xianzhang Chen
 Xiaojun Cai
 Xiaoliu Feng
 Xiaoxing Qiu
 Xin Shi
+Xinbiao Gan
 Xinhang Lu
 Xinhong Chen
 Xinyue Yu
@@ -149,6 +156,7 @@ Zaoxing Liu
 Zheng Dong
 Zheng Wan
 Zhiping Jia
+Zhirong Shen
 Zhixiong Niu
 Zikang Zhou
 Zimeng Zhou
@@ -156,4 +164,5 @@ Ziquan Liu
 Zongpeng Li
 Zongwei Zhu
 https://ieeexplore.ieee.org/author/
+https://www.scopus.com/authid/detail.uri?authorId=
 https://zbmath.org/authors/?q=ai:xue.chun-jason
