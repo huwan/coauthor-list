@@ -38,6 +38,7 @@ Jian-Jia Chen
 Jiangshan Yu
 Jianping Wang
 Jianzhong Liu
+Jie Fan
 Jie Zhou
 Jinghao Sun
 Jinkyu Lee
@@ -113,6 +114,7 @@ Weichen Liu
 Weilan Wang
 Weizhe Zhang
 Wenhong Ma
+Wenjing Sun
 Wenjing Xie
 Wenxuan Xing
 Xi Wang
@@ -127,6 +129,7 @@ Xisheng Li
 Xu Jiang
 Xuan Huang
 Xuan Sun
+Xudong Zhang
 Xue Liu
 Xuemei Peng
 Yan Wang
@@ -139,6 +142,7 @@ Ye Yuan
 Yehan Ma
 Yekai Xue
 Yibo Zhang
+Yihao Meng
 Ying Xiong
 Yiru Xu
 Yiyuan Xie
@@ -147,6 +151,7 @@ Yu Jiang
 Yu Li
 Yu Mao
 Yu-Kai Huang
+Yuan Zou
 Yuanhai Zhang
 Yue Tang
 Yufei Chen
