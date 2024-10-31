@@ -48,6 +48,7 @@ Jian-Jia Chen
 Jiangshan Yu
 Jianping Wang
 Jianzhong Liu
+Jiarui Wang
 Jie Fan
 Jie Zhou
 Jing He
@@ -77,6 +78,7 @@ Meiling Han
 Menglong Cui
 Mengquan Li
 Minghe Yu
+Mingsong Chen
 Mingsong Lv
 Mingsong Lyu
 Mingzhe Wang
@@ -168,6 +170,7 @@ Yihao Meng
 Ying Xiong
 Yiru Xu
 Yiyuan Xie
+Yong Xie
 Yongzheng Sun
 Yu Jiang
 Yu Li
