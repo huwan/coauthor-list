@@ -17,6 +17,7 @@ Dongxiao Yu
 Duo Liu
 Edwin H.-M. Sha
 Fei Wu
+Guanyu Wu
 Guoliang Xing
 Haibo Hu
 Haolun Wu
@@ -39,6 +40,7 @@ Jingtong Hu
 Jingzong Li
 Jinheng Li
 Jinyang Li
+Jiwu Shu
 Jun Wang
 Junhui He
 Junlong Zhu
@@ -109,6 +111,7 @@ Xuan Sun
 Xue (Steve) Liu
 Xue Liu
 Xuehai Zhou
+Yajuan Du
 Ye Yuan
 Yeqiao Hou
 Yik Hong Cai
@@ -119,6 +122,7 @@ Yongpan Liu
 Yongqiang Xiong
 You Zhou
 Young-ri Choi
+Yu Chen
 Yu Liang
 Yu Mao
 Yu-Kai Huang

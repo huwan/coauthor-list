@@ -25,6 +25,7 @@ Dongxiao Yu
 Duo Liu
 Edwin H.-M. Sha
 Fei Wu
+Guanyu Wu
 Guoliang Xing
 Hai (Helen) Li
 Hai Li
@@ -156,6 +157,7 @@ Yongqiang Xiong
 You Zhou
 Young-ri Choi
 Youtao Zhang
+Yu Chen
 Yu Liang
 Yu Mao
 Yu-Kai Huang
