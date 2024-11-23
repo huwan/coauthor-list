@@ -77,6 +77,7 @@ Mei Tian
 Meiling Han
 Menglong Cui
 Mengquan Li
+Min Ye
 Minghe Yu
 Mingsong Chen
 Mingsong Lv
@@ -93,6 +94,7 @@ Pan Dong
 Peng Chen
 Peng Zeng
 Qianling Zhang
+Qiao Li
 Qingqiang He
 Qingxu Deng
 Qinming Zhang
@@ -124,6 +126,7 @@ Tao Jin
 Tao Yang
 Tei-Wei Kuo
 Tianyi Wang
+Tianyu Ren
 Tianyu Zhang
 Ting He
 Tingtao Li
@@ -167,8 +170,10 @@ Yehan Ma
 Yekai Xue
 Yibo Zhang
 Yihao Meng
+Yina Lv
 Ying Xiong
 Yiru Xu
+Yiyang Zhou
 Yiyuan Xie
 Yong Xie
 Yongzheng Sun

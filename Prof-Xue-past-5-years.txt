@@ -100,6 +100,7 @@ Lihao Dong
 Ling Lin
 Longfei Luo
 Lun Wang
+Menglong Cui
 Mengting Yuan
 Mengying Zhao
 Miguel Rodrigues
@@ -108,6 +109,7 @@ Min Peng
 Min Ye
 Ming Ma
 Mingliang Zhou
+Mingsong Lv
 Minhui (Jason) Xue
 Minhui Xue
 Minming Li
@@ -152,6 +154,7 @@ Soochang Park
 Sujunjie Sun
 Sungjin Lee
 Tao Hu
+Tao Yang
 Tei-Wei Kuo
 Theocharis Theocharides
 Tianyu Ren
@@ -202,6 +205,7 @@ Yina Lv
 Ying Xiong
 Yingchao Zhao
 Yixin Chen
+Yiyang Zhou
 Yong Guan
 Yongpan Liu
 Yongqiang Xiong

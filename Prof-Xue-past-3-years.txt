@@ -76,6 +76,7 @@ Libing Wu
 Lihao Dong
 Ling Lin
 Longfei Luo
+Menglong Cui
 Mengting Yuan
 Mengying Zhao
 Miguel Rodrigues
@@ -83,6 +84,7 @@ Min Peng
 Min Ye
 Ming Ma
 Mingliang Zhou
+Mingsong Lv
 Minhui (Jason) Xue
 Minhui Xue
 Minming Li
@@ -113,6 +115,7 @@ Siyu Chen
 Song Han
 Sujunjie Sun
 Tao Hu
+Tao Yang
 Tei-Wei Kuo
 Theocharis Theocharides
 Tianyu Ren
@@ -152,6 +155,7 @@ Yina Lv
 Ying Xiong
 Yingchao Zhao
 Yixin Chen
+Yiyang Zhou
 Yongpan Liu
 Yongqiang Xiong
 You Zhou

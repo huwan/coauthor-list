@@ -47,6 +47,7 @@ Lianming Huang
 Linbo Long
 Maolin Yang
 Menglong Cui
+Min Ye
 Minghe Yu
 Mingsong Chen
 Mingsong Lv
@@ -60,6 +61,7 @@ Neiwen Ling
 Ning Wang
 Peng Chen
 Qianling Zhang
+Qiao Li
 Qingqiang He
 Qingxu Deng
 Qiulin Chen
@@ -80,6 +82,7 @@ Tao Hu
 Tao Yang
 Tei-Wei Kuo
 Tianyi Wang
+Tianyu Ren
 Tianyu Zhang
 Ting He
 Wang Yi
@@ -112,8 +115,10 @@ Ye Yuan
 Yehan Ma
 Yibo Zhang
 Yihao Meng
+Yina Lv
 Ying Xiong
 Yiru Xu
+Yiyang Zhou
 Yong Xie
 Yongzheng Sun
 Yu Jiang
