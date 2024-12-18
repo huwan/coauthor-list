@@ -65,6 +65,7 @@ Qiao Li
 Qingqiang He
 Qingxu Deng
 Qiulin Chen
+Qixin Wang
 Ran Wei
 Renato Mancuso
 Rong Su
@@ -72,6 +73,7 @@ Ruoxiang Li
 Sebastian Steinhorst
 Shangyu Wu
 Shaoshan Liu
+Shuai Li
 Shuai Zhao
 Shuhan Bai
 Song Han
@@ -106,10 +108,12 @@ Xisheng Li
 Xu Jiang
 Xudong Zhang
 Xue Liu
+Xueli Fan
 Xuemei Peng
 Yan Wang
 Yang Li
 Yang Wang
+Yao Chen
 Ye Ma
 Ye Yuan
 Yehan Ma
@@ -143,6 +147,7 @@ Zhihe Zhao
 Zhishan Guo
 Zijin Xu
 Zikang Zhou
+Zili Shao
 Zilong Wang
 Zimeng Zhou
 Zonghua Gu

@@ -100,6 +100,7 @@ Qingxu Deng
 Qinming Zhang
 Qiong Chen
 Qiulin Chen
+Qixin Wang
 Quan Zhou
 Ran Bi
 Ran Wei
@@ -114,6 +115,7 @@ Seongtae Lee
 Shangyu Wu
 Shaoshan Liu
 Shiqing Li
+Shuai Li
 Shuai Zhao
 Shuangshuang Chang
 Shuhan Bai
@@ -157,12 +159,14 @@ Xuan Huang
 Xuan Sun
 Xudong Zhang
 Xue Liu
+Xueli Fan
 Xuemei Peng
 Yan Wang
 Yan Zhuang
 Yang Bai
 Yang Li
 Yang Wang
+Yao Chen
 Yaoyao Chi
 Ye Ma
 Ye Yuan
@@ -204,6 +208,7 @@ Zhiwei Feng
 Zhixiong Hao
 Zijin Xu
 Zikang Zhou
+Zili Shao
 Zilong Wang
 Zimeng Zhou
 Zimu Zheng

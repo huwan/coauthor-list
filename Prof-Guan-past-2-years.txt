@@ -84,6 +84,7 @@ Qingxu Deng
 Qinming Zhang
 Qiong Chen
 Qiulin Chen
+Qixin Wang
 Quan Zhou
 Ran Bi
 Ran Wei
@@ -95,6 +96,7 @@ Sebastian Steinhorst
 Seongtae Lee
 Shangyu Wu
 Shaoshan Liu
+Shuai Li
 Shuai Zhao
 Shuangshuang Chang
 Shuhan Bai
@@ -136,12 +138,14 @@ Xuan Huang
 Xuan Sun
 Xudong Zhang
 Xue Liu
+Xueli Fan
 Xuemei Peng
 Yan Wang
 Yan Zhuang
 Yang Bai
 Yang Li
 Yang Wang
+Yao Chen
 Ye Ma
 Ye Yuan
 Yehan Ma
@@ -180,6 +184,7 @@ Zhishan Guo
 Zhixiong Hao
 Zijin Xu
 Zikang Zhou
+Zili Shao
 Zilong Wang
 Zimeng Zhou
 Zimu Zheng
