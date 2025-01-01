@@ -34,10 +34,8 @@ Chunjiang Zhu
 Cong Wang
 Congming Gao
 Daniel Wen
-David H. C. Du
 Dongdong Tang
 Fei Wu
-Fenggang Wu
 Georg von der Brüggen
 Han-Sung Chen
 Han-Wen Hu
@@ -85,7 +83,6 @@ Qiao Li
 Rachata Ausavarungnirun
 Riwei Pan
 Shangyu Wu
-Sheng-Wei Cheng
 Shi-Zhe Lin
 Shih-Chun Chou
 Shih-Hao Hung
@@ -125,7 +122,6 @@ Yen-Po Lin
 Yen-Yu Lin
 Yi-Shen Chen
 Yi-Te Hsu
-Yi-Ting Chen
 Yi-Ting Lai
 Yin-Chiuan Chen
 Yina Lv
@@ -137,8 +133,6 @@ Yu Mao
 Yu Tsao
 Yu-Chao Lin
 Yu-Chen Lin
-Yu-Chen Wu
-Yu-Chuan Chang
 Yu-Fang Chen
 Yu-Ming Chang
 Yu-Ming Huang

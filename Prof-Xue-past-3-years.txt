@@ -1,18 +1,13 @@
 André Brinkmann
 Antoni B. Chan
-Bo Zhou
 Buzhou Tang
 Can Chen
 Changlong Li
 Changsheng Xie
 Chao Wang
-Chao Wu
-Chen Chen
 Chenchen Fu
-Cheng Ji
 Chia-Lin Yang
 Chuanhui Yang
-Chuanming Ding
 Chuanwen Wang
 Chun Jason Xue
 Chun Xue
@@ -30,7 +25,6 @@ Guoliang Xing
 Hai (Helen) Li
 Hai Li
 Haibo Hu
-Han Wang
 Haolun Wu
 Haopeng Yan
 Hong Xu
@@ -68,7 +62,6 @@ Kan Zhong
 Keith Winstein
 Kui Wu
 Lei Ju
-Li-Pin Chang
 Liang Shi
 Lianming Huang
 Libin Liu
@@ -87,13 +80,11 @@ Mingliang Zhou
 Mingsong Lv
 Minhui (Jason) Xue
 Minhui Xue
-Minming Li
 Muhammad Shafique
 Nan Guan
 Neiwen Ling
 Peng Cheng
 Peng Wang
-Peng Wu
 Qiang Su
 Qiao Li
 Qingan Li
@@ -111,7 +102,6 @@ Shudeng Wu
 Shuhan Bai
 Shun Deng
 Shuo Xu
-Siyu Chen
 Song Han
 Sujunjie Sun
 Tao Hu
@@ -119,7 +109,6 @@ Tao Yang
 Tei-Wei Kuo
 Theocharis Theocharides
 Tianyu Ren
-Tianyu Wang
 Tongda Wu
 Wei Li
 Wei Lin
@@ -153,7 +142,6 @@ Yeqiao Hou
 Yik Hong Cai
 Yina Lv
 Ying Xiong
-Yingchao Zhao
 Yixin Chen
 Yiyang Zhou
 Yongpan Liu
@@ -172,7 +160,6 @@ Yung-Hui Li
 Yunmo Zhang
 Yunpeng Song
 Zaoxing Liu
-Zelin Yun
 Zheng Dong
 Zheng Wan
 Zhiping Jia

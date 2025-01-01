@@ -10,14 +10,12 @@ Chao Wu
 Chen Chen
 Chenchen Fu
 Cheng Ji
-Chengmo Yang
 Chia-Lin Yang
 Chuanhui Yang
 Chuanming Ding
 Chuanwen Wang
 Chun Jason Xue
 Chun Xue
-Clay Patterson
 Cong Wang
 Congming Gao
 Daniel Wen
@@ -26,7 +24,6 @@ Dongsu Han
 Dongxiao Yu
 Duo Liu
 Edwin H.-M. Sha
-Fan Wu
 Fei Wu
 Guanyu Wu
 Guoliang Xing
@@ -36,13 +33,11 @@ Haibo Hu
 Han Wang
 Haolun Wu
 Haopeng Yan
-Heejin Yoon
 Hong Xu
 Hongchao Du
 Hongming Huang
 Hongyang Dang
 Hu Wan
-Huanghe Liu
 Huazhong Yang
 Hung-Chih Hsieh
 Jason Xue
@@ -50,7 +45,6 @@ Jen-Ming Wu
 Jiacheng Huang
 Jiamin Li
 Jianping Wang
-Jianqiang Nie
 Jie Zhang
 Jifeng Wu
 Jinghuan Yu
@@ -58,7 +52,6 @@ Jingling Xue
 Jingtong Hu
 Jingzong Li
 Jinheng Li
-Jinhua Cui
 Jinyang Li
 Jiwu Shu
 Jun Wang
@@ -67,17 +60,13 @@ Junhui He
 Junlong Zhu
 Junqiao Qiu
 Juxin Niu
-Kai Liu
 Kaihuan Lin
 Kaisheng Ma
 Kaiwei Mo
 Kaiwen Xue
 Kan Zhong
-Ke Liu
 Keith Winstein
-Keni Qiu
 Kui Wu
-Laurence T. Yang
 Lei Ju
 Li-Pin Chang
 Liang Shi
@@ -132,12 +121,10 @@ Theocharis Theocharides
 Tianyu Ren
 Tianyu Wang
 Tongda Wu
-Vijaykrishnan Narayanan
 Wei Li
 Wei Lin
 Wei Zhang
 Weidong Wen
-Weiguang Liu
 Weilan Wang
 Weiwei Wu
 Wenjing Xie
@@ -148,24 +135,20 @@ Xiangyu Yao
 Xianzhang Chen
 Xiaojun Cai
 Xiaoliu Feng
-Xiaoqiang Li
 Xiaoxing Qiu
 Xin Shi
 Xinbiao Gan
 Xinhang Lu
 Xinhong Chen
-Xinyi Zhang
 Xinyue Yu
 Xu Jiang
 Xuan Sun
 Xue (Steve) Liu
 Xue Liu
 Xuehai Zhou
-Xueqing Li
 Xueyong Xu
 Yajuan Du
 Ye Yuan
-Yejia Di
 Yeqiao Hou
 Yik Hong Cai
 Yina Lv
@@ -192,7 +175,6 @@ Zaoxing Liu
 Zelin Yun
 Zheng Dong
 Zheng Wan
-Zhenge Jia
 Zhiping Jia
 Zhirong Shen
 Zhixiong Niu

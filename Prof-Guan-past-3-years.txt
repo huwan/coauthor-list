@@ -1,13 +1,7 @@
 Abdullah Al Arafat
-Abusayeed Saifullah
-Alan Burns
-Andy J. Wellings
 Arun Vishwanath
-Ashikahmed Bhuiyan
 Bingkun Yao
-Caiqi Zhang
 Can Chen
-Changqing Xia
 Cheng Fan
 Cheng Zhuo
 Chenhao Wu
@@ -16,13 +10,10 @@ Chun Jason Xue
 Chunhua Xiao
 Dan Wang
 Dawei Yang
-Di Liu
 Dong Ji
 Dongdong Tang
 Fangming Liu
-Feng Li
 Gang Chen
-Guangyi Xu
 Guoliang Xing
 Guoqi Xie
 Guozhen Tan
@@ -31,7 +22,6 @@ Hao Sun
 Hao Yu
 Haochun Liang
 Haolun Wu
-He Du
 Heming Fu
 Heyuan Shi
 Hiroshi Yamada
@@ -51,14 +41,11 @@ Jianzhong Liu
 Jiarui Wang
 Jie Fan
 Jie Zhou
-Jing He
-Jingchang Sun
 Jinghao Sun
 Jinkyu Lee
 Jinrong Liu
 Jun Wang
 Jun Zhou
-Junjie Yang
 Juxin Niu
 Kai Huang
 Kailu Duan
@@ -68,13 +55,11 @@ Kui Wu
 Laiwen Li
 Lei Ju
 Lei Qiao
-Lei Yang
 Lianming Huang
 Linbo Long
 Liwei Zhang
 Maolin Yang
 Mei Tian
-Meiling Han
 Menglong Cui
 Mengquan Li
 Min Ye
@@ -92,7 +77,6 @@ Neiwen Ling
 Ning Wang
 Pan Dong
 Peng Chen
-Peng Zeng
 Qianling Zhang
 Qiao Li
 Qingqiang He
@@ -107,14 +91,11 @@ Ran Wei
 Renato Mancuso
 Richard Paterson
 Rong Su
-Rongxiao Shi
 Ruoxiang Li
-Samsil Arefin
 Sebastian Steinhorst
 Seongtae Lee
 Shangyu Wu
 Shaoshan Liu
-Shiqing Li
 Shuai Li
 Shuai Zhao
 Shuangshuang Chang
@@ -143,9 +124,7 @@ Wenhong Ma
 Wenjing Sun
 Wenjing Xie
 Wenxuan Xing
-Xi Jin
 Xi Wang
-Xi Zhang
 Xian Shuai
 Xiangzhen Xiao
 Xiantong Luo
@@ -167,7 +146,6 @@ Yang Bai
 Yang Li
 Yang Wang
 Yao Chen
-Yaoyao Chi
 Ye Ma
 Ye Yuan
 Yehan Ma
@@ -190,7 +168,6 @@ Yuanhai Zhang
 Yue Tang
 Yufei Chen
 Yufei Cui
-Yuhan Lin
 Yuheng Shen
 Yulong Wu
 Yun Huang
@@ -204,7 +181,6 @@ Zhenyu Sun
 Zhenyu Yan
 Zhihe Zhao
 Zhishan Guo
-Zhiwei Feng
 Zhixiong Hao
 Zijin Xu
 Zikang Zhou
