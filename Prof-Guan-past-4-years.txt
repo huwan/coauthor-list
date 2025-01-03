@@ -17,6 +17,7 @@ Chunhua Xiao
 Dan Wang
 Dawei Yang
 Di Liu
+Dingrong Pan
 Dong Ji
 Dongdong Tang
 Fangming Liu
@@ -44,6 +45,7 @@ Hui Chen
 Hyoseung Kim
 Insik Shin
 Jen-Ming Wu
+Jialin Sun
 Jian-Jia Chen
 Jiangshan Yu
 Jianping Wang
@@ -58,11 +60,13 @@ Jinkyu Lee
 Jinrong Liu
 Jun Wang
 Jun Zhou
+Junhao Ye
 Junjie Yang
 Juxin Niu
 Kai Huang
 Kailu Duan
 Kaiwei Liu
+Ke Xu
 Kecheng Yang
 Kui Wu
 Laiwen Li
@@ -115,6 +119,7 @@ Seongtae Lee
 Shangyu Wu
 Shaoshan Liu
 Shiqing Li
+Shiyue Zhang
 Shuai Li
 Shuai Zhao
 Shuangshuang Chang
@@ -138,6 +143,7 @@ Wei Mao
 Wei Zhang
 Weichen Liu
 Weilan Wang
+Weiwei Shan
 Weizhe Zhang
 Wenhong Ma
 Wenjing Sun
@@ -153,6 +159,8 @@ Xiaobo Sharon Hu
 Xiaotian Dai
 Xin Si
 Xinhong Chen
+Xinwei Fang
+Xinyao Jiao
 Xisheng Li
 Xu Jiang
 Xuan Huang
@@ -187,6 +195,7 @@ Yu Mao
 Yu-Kai Huang
 Yuan Zou
 Yuanhai Zhang
+Yuchen Hu
 Yue Tang
 Yufei Chen
 Yufei Cui

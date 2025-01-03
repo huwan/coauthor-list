@@ -4,6 +4,7 @@ Can Chen
 Chenhao Wu
 Chuancai Gu
 Chun Jason Xue
+Dingrong Pan
 Dong Ji
 Dongdong Tang
 Gang Chen
@@ -25,6 +26,7 @@ Hui Chen
 Hyoseung Kim
 Insik Shin
 Jen-Ming Wu
+Jialin Sun
 Jian-Jia Chen
 Jianping Wang
 Jianzhong Liu
@@ -34,10 +36,12 @@ Jie Zhou
 Jinghao Sun
 Jinkyu Lee
 Jun Wang
+Junhao Ye
 Juxin Niu
 Kai Huang
 Kailu Duan
 Kaiwei Liu
+Ke Xu
 Kecheng Yang
 Kui Wu
 Laiwen Li
@@ -73,6 +77,7 @@ Ruoxiang Li
 Sebastian Steinhorst
 Shangyu Wu
 Shaoshan Liu
+Shiyue Zhang
 Shuai Li
 Shuai Zhao
 Shuhan Bai
@@ -92,6 +97,7 @@ Wanli Chang
 Wei Zhang
 Weichen Liu
 Weilan Wang
+Weiwei Shan
 Weizhe Zhang
 Wenhong Ma
 Wenjing Sun
@@ -104,6 +110,8 @@ Xiantong Luo
 Xiaobo Sharon Hu
 Xin Si
 Xinhong Chen
+Xinwei Fang
+Xinyao Jiao
 Xisheng Li
 Xu Jiang
 Xudong Zhang
@@ -131,6 +139,7 @@ Yu Mao
 Yu-Kai Huang
 Yuan Zou
 Yuanhai Zhang
+Yuchen Hu
 Yue Tang
 Yufei Cui
 Yuheng Shen
