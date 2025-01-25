@@ -16,6 +16,7 @@ Hong Xu
 Hongchao Du
 Hongming Huang
 Hui Chen
+Jen-Ming Wu
 Jialin Sun
 Jianping Wang
 Jianzhong Liu
@@ -61,6 +62,7 @@ Songran Liu
 Tao Hu
 Tao Yang
 Tei-Wei Kuo
+Tianchi Ren
 Tianyu Ren
 Wang Yi
 Wanli Chang
@@ -106,3 +108,4 @@ Zhishan Guo
 Zikang Zhou
 Zili Shao
 Zilong Wang
+Ziwei Song

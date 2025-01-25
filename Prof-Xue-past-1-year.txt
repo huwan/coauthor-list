@@ -23,6 +23,7 @@ Hongming Huang
 Hongyang Dang
 Hu Wan
 Jason Xue
+Jen-Ming Wu
 Jiacheng Huang
 Jianping Wang
 Jie Zhang
@@ -65,6 +66,7 @@ Shuo Xu
 Tao Hu
 Tao Yang
 Tei-Wei Kuo
+Tianchi Ren
 Tianyu Ren
 Wei Lin
 Wei Zhang
@@ -97,6 +99,7 @@ Zhiping Jia
 Zhirong Shen
 Zhixiong Niu
 Zikang Zhou
+Ziwei Song
 Zongpeng Li
 https://ieeexplore.ieee.org/author/
 https://www.scopus.com/authid/detail.uri?authorId=
