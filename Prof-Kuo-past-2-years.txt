@@ -1,3 +1,4 @@
+Alain Girault
 Antoni B. Chan
 Buzhou Tang
 Can Chen
@@ -21,6 +22,7 @@ Congming Gao
 Daniel Wen
 Dongdong Tang
 Fei Wu
+Frank Mueller
 Georg von der Brüggen
 Han-Wen Hu
 Haolun Wu
