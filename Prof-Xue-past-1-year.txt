@@ -12,6 +12,7 @@ Congming Gao
 Daniel Wen
 Dongdong Tang
 Dongxiao Yu
+Fei Guan
 Fei Wu
 Guanyu Wu
 Guoliang Xing
@@ -30,6 +31,7 @@ Jie Zhang
 Jinghuan Yu
 Jingzong Li
 Jinheng Li
+Jinkyu Lee
 Jiwu Shu
 Jun Wang
 Junhui He

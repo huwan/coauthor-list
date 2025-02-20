@@ -14,6 +14,7 @@ Dingrong Pan
 Dong Ji
 Dongdong Tang
 Fangming Liu
+Fei Guan
 Gang Chen
 Guoliang Xing
 Guoqi Xie
@@ -60,6 +61,7 @@ Laiwen Li
 Lei Ju
 Lei Qiao
 Lianming Huang
+Liming Chen
 Linbo Long
 Liwei Zhang
 Maolin Yang
@@ -183,6 +185,7 @@ Yulong Wu
 Yun Huang
 Yung-Hui Li
 Yunlong Yu
+Yuting Chen
 Yuze He
 Zewei Chen
 Zhe Jiang

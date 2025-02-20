@@ -27,6 +27,7 @@ Dongxiao Yu
 Duo Liu
 Edwin H.-M. Sha
 Fan Wu
+Fei Guan
 Fei Wu
 Guanyu Wu
 Guoliang Xing
@@ -59,6 +60,7 @@ Jingtong Hu
 Jingzong Li
 Jinheng Li
 Jinhua Cui
+Jinkyu Lee
 Jinyang Li
 Jiwu Shu
 Jun Wang

@@ -4,6 +4,7 @@ Chenhao Wu
 Chun Jason Xue
 Dingrong Pan
 Dongdong Tang
+Fei Guan
 Gang Chen
 Guoliang Xing
 Haibo Hu
@@ -33,6 +34,7 @@ Ke Xu
 Kecheng Yang
 Kui Wu
 Lianming Huang
+Liming Chen
 Linbo Long
 Maolin Yang
 Menglong Cui
@@ -84,6 +86,7 @@ Xudong Zhang
 Xue Liu
 Xueli Fan
 Yao Chen
+Ye Ma
 Ye Yuan
 Yihao Meng
 Yina Lv
@@ -102,6 +105,7 @@ Yufei Cui
 Yuheng Shen
 Yung-Hui Li
 Yunlong Yu
+Yuting Chen
 Zhe Jiang
 Zheng Dong
 Zhishan Guo

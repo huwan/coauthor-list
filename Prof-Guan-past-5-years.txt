@@ -26,6 +26,7 @@ Dong Ji
 Dong Li
 Dongdong Tang
 Fangming Liu
+Fei Guan
 Feng Li
 Gang Chen
 Guangyi Xu
@@ -86,6 +87,7 @@ Lei Ju
 Lei Qiao
 Lei Yang
 Lianming Huang
+Liming Chen
 Linbo Long
 Liwei Zhang
 Maolin Yang
@@ -226,6 +228,7 @@ Yulong Wu
 Yun Huang
 Yung-Hui Li
 Yunlong Yu
+Yuting Chen
 Yuze He
 Ze-Wei Chen
 Zeke Wang
