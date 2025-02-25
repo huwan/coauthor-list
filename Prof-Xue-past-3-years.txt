@@ -26,6 +26,7 @@ Guoliang Xing
 Hai (Helen) Li
 Hai Li
 Haibo Hu
+Hanming Sun
 Haolun Wu
 Haopeng Yan
 Hong Xu
@@ -34,16 +35,19 @@ Hongming Huang
 Hongyang Dang
 Hu Wan
 Huazhong Yang
+Huinan Chen
 Hung-Chih Hsieh
 Jason Xue
 Jen-Ming Wu
 Jiacheng Huang
 Jiamin Li
+Jiang Ma
 Jianping Wang
 Jie Zhang
 Jifeng Wu
 Jinghuan Yu
 Jingling Xue
+Jingqin Fu
 Jingtong Hu
 Jingzong Li
 Jinheng Li
@@ -120,6 +124,7 @@ Wei Zhang
 Weidong Wen
 Weilan Wang
 Weiwei Wu
+Wenhan Shang
 Wenjing Xie
 Wuguannan Yao
 Xianglong Li
@@ -164,6 +169,7 @@ Yung-Hui Li
 Yunmo Zhang
 Yunpeng Song
 Zaoxing Liu
+Zhanhao Liang
 Zheng Dong
 Zheng Wan
 Zhiping Jia

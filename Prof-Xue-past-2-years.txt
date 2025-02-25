@@ -21,6 +21,7 @@ Fei Wu
 Guanyu Wu
 Guoliang Xing
 Haibo Hu
+Hanming Sun
 Haolun Wu
 Hong Xu
 Hongchao Du
@@ -28,15 +29,18 @@ Hongming Huang
 Hongyang Dang
 Hu Wan
 Huazhong Yang
+Huinan Chen
 Hung-Chih Hsieh
 Jason Xue
 Jen-Ming Wu
 Jiacheng Huang
+Jiang Ma
 Jianping Wang
 Jie Zhang
 Jifeng Wu
 Jinghuan Yu
 Jingling Xue
+Jingqin Fu
 Jingtong Hu
 Jingzong Li
 Jinheng Li
@@ -103,6 +107,7 @@ Wei Lin
 Wei Zhang
 Weidong Wen
 Weilan Wang
+Wenhan Shang
 Wenjing Xie
 Xianglong Li
 Xiangyu Liu
@@ -142,6 +147,7 @@ Yung-Hui Li
 Yunmo Zhang
 Yunpeng Song
 Zaoxing Liu
+Zhanhao Liang
 Zheng Dong
 Zheng Wan
 Zhiping Jia

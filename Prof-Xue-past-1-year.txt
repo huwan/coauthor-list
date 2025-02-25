@@ -17,18 +17,22 @@ Fei Wu
 Guanyu Wu
 Guoliang Xing
 Haibo Hu
+Hanming Sun
 Haolun Wu
 Hong Xu
 Hongchao Du
 Hongming Huang
 Hongyang Dang
 Hu Wan
+Huinan Chen
 Jason Xue
 Jen-Ming Wu
 Jiacheng Huang
+Jiang Ma
 Jianping Wang
 Jie Zhang
 Jinghuan Yu
+Jingqin Fu
 Jingzong Li
 Jinheng Li
 Jinkyu Lee
@@ -48,6 +52,7 @@ Libin Liu
 Lihao Dong
 Linjing Liu
 Menglong Cui
+Mengting Yuan
 Mengying Zhao
 Min Ye
 Mingsong Lv
@@ -74,6 +79,7 @@ Wei Lin
 Wei Zhang
 Weidong Wen
 Weilan Wang
+Wenhan Shang
 Wenjing Xie
 Xianglong Li
 Xiangyu Yao
@@ -96,6 +102,7 @@ Yu-Kai Huang
 Yufei Cui
 Yung-Hui Li
 Yunmo Zhang
+Zhanhao Liang
 Zheng Wan
 Zhiping Jia
 Zhirong Shen
