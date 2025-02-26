@@ -18,12 +18,14 @@ Hongchao Du
 Hongming Huang
 Hui Chen
 Jen-Ming Wu
+Jiacheng Zuo
 Jialin Sun
 Jianping Wang
 Jianzhong Liu
 Jiarui Wang
 Jie Fan
 Jie Zhou
+Jin Wang
 Jinghao Sun
 Jinkyu Lee
 Jun Wang
@@ -112,4 +114,5 @@ Zhishan Guo
 Zikang Zhou
 Zili Shao
 Zilong Wang
+Ziquan Liu
 Ziwei Song

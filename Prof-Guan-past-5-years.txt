@@ -54,6 +54,7 @@ Huimin Gao
 Hyoseung Kim
 Insik Shin
 Jen-Ming Wu
+Jiacheng Zuo
 Jialin Sun
 Jian-Jia Chen
 Jiangshan Yu
@@ -63,6 +64,7 @@ Jianzhong Liu
 Jiarui Wang
 Jie Fan
 Jie Zhou
+Jin Wang
 Jing He
 Jingchang Sun
 Jinghao Sun
@@ -248,5 +250,6 @@ Zili Shao
 Zilong Wang
 Zimeng Zhou
 Zimu Zheng
+Ziquan Liu
 Ziwei Song
 Zonghua Gu
