@@ -1,5 +1,6 @@
 André Brinkmann
 Antoni B. Chan
+Aofeng Shen
 Buzhou Tang
 Can Chen
 Changlong Li
@@ -26,6 +27,7 @@ Guoliang Xing
 Hai (Helen) Li
 Hai Li
 Haibo Hu
+Haiyu Mao
 Hanming Sun
 Haolun Wu
 Haopeng Yan
@@ -60,6 +62,7 @@ Jun Wang
 Jun Yang
 Junhui He
 Junlong Zhu
+Junna Xing
 Junqiao Qiu
 Juxin Niu
 Kaihuan Lin
@@ -70,6 +73,7 @@ Kan Zhong
 Keith Winstein
 Kui Wu
 Lei Ju
+Lei Li
 Liang Shi
 Lianming Huang
 Libin Liu
@@ -89,20 +93,29 @@ Mingliang Zhou
 Mingsong Lv
 Minhui (Jason) Xue
 Minhui Xue
+Mohammad Sadrosadati
 Muhammad Shafique
 Nan Guan
+Nan Wang
 Neiwen Ling
+Nika Mansouri-Ghiasi
+Onur Mutlu
 Peng Cheng
 Peng Wang
+Peng Zhou
+Qiang Liu
 Qiang Su
 Qiao Li
 Qingan Li
+Qingcai Jiang
 Qingfeng Zhuge
 Qingxu Deng
 Quanqing Xu
 Rachata Ausavarungnirun
+Rakesh Nadig
 Ran Shu
 Riwei Pan
+Rui Xu
 Ruoxiang Li
 Sam H. Noh
 Shangyu Wu
