@@ -4,6 +4,7 @@ Abusayeed Saifullah
 Alan Burns
 Ameer Hamza Khan
 Andy J. Wellings
+Arina Kharlamova
 Arun Vishwanath
 Ashikahmed Bhuiyan
 Bingkun Yao
@@ -214,6 +215,7 @@ Yiyang Zhou
 Yiyuan Xie
 Yong Xie
 Yongzheng Sun
+Youshu Ji
 Yu Jiang
 Yu Li
 Yu Mao
