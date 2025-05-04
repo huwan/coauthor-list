@@ -59,6 +59,7 @@ Qingqiang He
 Qingxu Deng
 Qixin Wang
 Ran Wei
+Rong Su
 Ruoxiang Li
 Shangyu Wu
 Shiyue Zhang
@@ -91,6 +92,7 @@ Xu Jiang
 Xudong Zhang
 Xue Liu
 Xueli Fan
+Yan Wang
 Yang Lou
 Yao Chen
 Ye Ma
@@ -112,11 +114,13 @@ Yue Tang
 Yufei Cui
 Yuheng Shen
 Yung-Hui Li
+Yunjian Xu
 Yunlong Yu
 Yuting Chen
 Zhe Jiang
 Zheng Dong
 Zhishan Guo
+Zhiying Wu
 Zikang Zhou
 Zili Shao
 Zilong Wang

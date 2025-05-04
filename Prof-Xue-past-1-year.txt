@@ -7,6 +7,7 @@ Can Chen
 Changlong Li
 Changsheng Xie
 Chao Wang
+Chenchen Fu
 Chuanhui Yang
 Chun Jason Xue
 Chun Xue
@@ -47,6 +48,7 @@ Junhui He
 Junlong Zhu
 Junna Xing
 Junqiao Qiu
+Junzhou Luo
 Juxin Niu
 Kaihuan Lin
 Kaiwei Mo
@@ -88,20 +90,24 @@ Shangyu Wu
 Shuai Chen
 Shuhan Bai
 Shuo Xu
+Song Han
 Tao Hu
 Tao Yang
 Tei-Wei Kuo
 Tianchi Ren
 Tianyu Ren
+Vincent Chau
 Wei Lin
 Wei Zhang
 Weidong Wen
 Weilan Wang
+Weiwei Wu
 Wenhan Shang
 Wenjing Xie
 Xianglong Li
 Xiangyu Yao
 Xiaojun Cai
+Xiaoxing Qiu
 Xinbiao Gan
 Xinhong Chen
 Xue Liu
@@ -121,6 +127,7 @@ Yu-Kai Huang
 Yufei Cui
 Yung-Hui Li
 Yunmo Zhang
+Zelin Yun
 Zhanhao Liang
 Zheng Wan
 Zhiping Jia

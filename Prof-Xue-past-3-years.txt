@@ -65,6 +65,7 @@ Junhui He
 Junlong Zhu
 Junna Xing
 Junqiao Qiu
+Junzhou Luo
 Juxin Niu
 Kaihuan Lin
 Kaisheng Ma
@@ -135,6 +136,7 @@ Theocharis Theocharides
 Tianchi Ren
 Tianyu Ren
 Tongda Wu
+Vincent Chau
 Wei Li
 Wei Lin
 Wei Zhang
@@ -187,6 +189,7 @@ Yung-Hui Li
 Yunmo Zhang
 Yunpeng Song
 Zaoxing Liu
+Zelin Yun
 Zhanhao Liang
 Zheng Dong
 Zheng Wan

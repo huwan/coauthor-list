@@ -78,6 +78,7 @@ Junhui He
 Junlong Zhu
 Junna Xing
 Junqiao Qiu
+Junzhou Luo
 Juxin Niu
 Kai Liu
 Kaihuan Lin
@@ -158,6 +159,7 @@ Tianyu Ren
 Tianyu Wang
 Tongda Wu
 Vijaykrishnan Narayanan
+Vincent Chau
 Wei Li
 Wei Lin
 Wei Zhang

@@ -57,6 +57,7 @@ Junhui He
 Junlong Zhu
 Junna Xing
 Junqiao Qiu
+Junzhou Luo
 Juxin Niu
 Kaihuan Lin
 Kaisheng Ma
@@ -119,11 +120,13 @@ Tei-Wei Kuo
 Tianchi Ren
 Tianyu Ren
 Tongda Wu
+Vincent Chau
 Wei Li
 Wei Lin
 Wei Zhang
 Weidong Wen
 Weilan Wang
+Weiwei Wu
 Wenhan Shang
 Wenjing Xie
 Xianglong Li
@@ -132,6 +135,7 @@ Xiangyu Yao
 Xianzhang Chen
 Xiaojun Cai
 Xiaoliu Feng
+Xiaoxing Qiu
 Xin Shi
 Xinbiao Gan
 Xinhong Chen
@@ -165,6 +169,7 @@ Yung-Hui Li
 Yunmo Zhang
 Yunpeng Song
 Zaoxing Liu
+Zelin Yun
 Zhanhao Liang
 Zheng Dong
 Zheng Wan
