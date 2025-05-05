@@ -80,6 +80,7 @@ Juxin Niu
 Kai Huang
 Kailu Duan
 Kaiwei Liu
+Kaiwei Mo
 Ke Xu
 Kecheng Yang
 Kexuan Wang
@@ -178,6 +179,7 @@ Xi Wang
 Xi Zhang
 Xian Shuai
 Xiang Long
+Xianglong Li
 Xiangzhen Xiao
 Xiantong Luo
 Xiao Jiang
@@ -208,6 +210,7 @@ Ye Ma
 Ye Yuan
 Yehan Ma
 Yekai Xue
+Yeqiao Hou
 Yibo Zhang
 Yihao Meng
 Yina Lv
@@ -260,3 +263,4 @@ Zimu Zheng
 Ziquan Liu
 Ziwei Song
 Zonghua Gu
+Zongpeng Li
