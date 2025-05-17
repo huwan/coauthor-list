@@ -17,6 +17,7 @@ Haolun Wu
 Hongchao Du
 Hongyang Dang
 Hsiang-Pang Li
+Hu Wan
 Jie Zhang
 Jinghuan Yu
 Kam-Yiu Lam
@@ -35,6 +36,7 @@ Weichen Wang
 Weilan Wang
 Wen-Yi Wang
 Xiaofei Zhao
+Xuan Sun
 Xue Liu
 Ye Yuan
 Yina Lv
@@ -44,5 +46,6 @@ Yu Mao
 Yu-Pang Wang
 Yuan-Hao Chang
 Yufei Cui
+Yun Huang
 Yun-Chih Chen
 Zheng Wan
