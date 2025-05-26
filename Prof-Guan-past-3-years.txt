@@ -2,6 +2,7 @@ Abdullah Al Arafat
 Arina Kharlamova
 Arun Vishwanath
 Bingkun Yao
+Boyang Li
 Can Chen
 Cheng Fan
 Cheng Zhuo
@@ -175,6 +176,7 @@ Yihao Meng
 Yina Lv
 Ying Xiong
 Yiru Xu
+Yiyang Gao
 Yiyang Zhou
 Yiyuan Xie
 Yong Xie
@@ -206,6 +208,7 @@ Zhenyu Yan
 Zhihe Zhao
 Zhishan Guo
 Zhixiong Hao
+Zhiyang Lin
 Zhiying Wu
 Zijin Xu
 Zikang Zhou
