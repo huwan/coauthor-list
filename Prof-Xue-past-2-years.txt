@@ -52,6 +52,7 @@ Jinheng Li
 Jinkyu Lee
 Jinyang Li
 Jiwu Shu
+Joseph Kee-Yin Ng
 Jun Wang
 Junhui He
 Junlong Zhu
@@ -59,10 +60,12 @@ Junna Xing
 Junqiao Qiu
 Junzhou Luo
 Juxin Niu
+Kai Liu
 Kaihuan Lin
 Kaisheng Ma
 Kaiwei Mo
 Kaiwen Xue
+Kam-Yiu Lam
 Kan Zhong
 Kui Wu
 Lei Ju
@@ -127,6 +130,7 @@ Wei Zhang
 Weidong Wen
 Weilan Wang
 Weiwei Wu
+Wendi Nie
 Wenhan Shang
 Wenjing Xie
 Xianglong Li
@@ -136,6 +140,7 @@ Xianzhang Chen
 Xiaojun Cai
 Xiaoliu Feng
 Xiaoxing Qiu
+Xiaoyang Wang
 Xin Shi
 Xinbiao Gan
 Xinhong Chen
@@ -147,6 +152,7 @@ Xue Liu
 Xuehai Zhou
 Yajuan Du
 Yang Lou
+Yaoxin Duan
 Ye Yuan
 Yeqiao Hou
 Yik Hong Cai
@@ -170,6 +176,7 @@ Yunmo Zhang
 Yunpeng Song
 Zaoxing Liu
 Zelin Yun
+Zexing Liu
 Zhanhao Liang
 Zheng Dong
 Zheng Wan

@@ -72,6 +72,7 @@ Jinhua Cui
 Jinkyu Lee
 Jinyang Li
 Jiwu Shu
+Joseph Kee-Yin Ng
 Jun Wang
 Jun Yang
 Junhui He
@@ -85,6 +86,7 @@ Kaihuan Lin
 Kaisheng Ma
 Kaiwei Mo
 Kaiwen Xue
+Kam-Yiu Lam
 Kan Zhong
 Ke Liu
 Keith Winstein
@@ -167,6 +169,7 @@ Weidong Wen
 Weiguang Liu
 Weilan Wang
 Weiwei Wu
+Wendi Nie
 Wenhan Shang
 Wenjing Xie
 Wuguannan Yao
@@ -178,6 +181,7 @@ Xiaojun Cai
 Xiaoliu Feng
 Xiaoqiang Li
 Xiaoxing Qiu
+Xiaoyang Wang
 Xin Shi
 Xinbiao Gan
 Xinhang Lu
@@ -193,6 +197,7 @@ Xueqing Li
 Xueyong Xu
 Yajuan Du
 Yang Lou
+Yaoxin Duan
 Ye Yuan
 Yejia Di
 Yeqiao Hou
@@ -219,6 +224,7 @@ Yunmo Zhang
 Yunpeng Song
 Zaoxing Liu
 Zelin Yun
+Zexing Liu
 Zhanhao Liang
 Zheng Dong
 Zheng Wan
