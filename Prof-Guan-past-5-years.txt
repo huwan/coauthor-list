@@ -57,6 +57,7 @@ Hyoseung Kim
 Insik Shin
 Jen-Ming Wu
 Jiacheng Zuo
+Jiahui Liu
 Jialin Sun
 Jian-Jia Chen
 Jiangshan Yu
@@ -74,6 +75,7 @@ Jinkyu Lee
 Jinrong Liu
 Juan Gómez-Luna
 Jun Wang
+Jun Zhao
 Jun Zhou
 Junhao Ye
 Junjie Yang
@@ -105,8 +107,10 @@ Minghe Yu
 Mingsong Chen
 Mingsong Lv
 Mingsong Lyu
+Mingyang Gong
 Mingzhe Wang
 Minjie Xiang
+Morteza Hashemi Farzaneh
 Naijun Zhan
 Nan Guan
 Nan Zhang
