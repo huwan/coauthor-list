@@ -36,6 +36,7 @@ Jiacheng Huang
 Jiacheng Zuo
 Jiang Ma
 Jianping Wang
+Jiaxun Lu
 Jie Zhang
 Jin Wang
 Jinghuan Yu
@@ -134,6 +135,7 @@ Yu Mao
 Yu-Kai Huang
 Yufei Cui
 Yun Huang
+Yunfeng Shao
 Yung-Hui Li
 Yunmo Zhang
 Zelin Yun

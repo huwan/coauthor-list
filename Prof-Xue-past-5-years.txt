@@ -60,6 +60,7 @@ Jiamin Li
 Jiang Ma
 Jianping Wang
 Jianqiang Nie
+Jiaxun Lu
 Jie Zhang
 Jifeng Wu
 Jin Wang
@@ -220,6 +221,7 @@ Yu-Kai Huang
 Yuchen Lu
 Yufei Cui
 Yun Huang
+Yunfeng Shao
 Yung-Hui Li
 Yunmo Zhang
 Yunpeng Song
