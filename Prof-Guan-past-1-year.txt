@@ -4,6 +4,7 @@ Boyang Li
 Can Chen
 Chenhao Wu
 Chun Jason Xue
+Dan Niu
 Dingrong Pan
 Dongdong Tang
 Fei Guan
@@ -88,6 +89,7 @@ Weiwei Shan
 Wenjing Sun
 Wenjing Xie
 Xi Wang
+Xiangfeng Liu
 Xianglong Li
 Xiantong Luo
 Xiao Jiang

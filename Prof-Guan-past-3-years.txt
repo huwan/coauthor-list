@@ -10,6 +10,7 @@ Chenhao Wu
 Chuancai Gu
 Chun Jason Xue
 Chunhua Xiao
+Dan Niu
 Dan Wang
 Dawei Yang
 Dingrong Pan
@@ -146,6 +147,7 @@ Wenjing Xie
 Wenxuan Xing
 Xi Wang
 Xian Shuai
+Xiangfeng Liu
 Xianglong Li
 Xiangzhen Xiao
 Xiantong Luo

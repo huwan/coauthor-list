@@ -43,6 +43,7 @@ Hanming Sun
 Haolun Wu
 Haopeng Yan
 Heejin Yoon
+Holger Pirk
 Hong Xu
 Hongchao Du
 Hongming Huang
@@ -189,6 +190,7 @@ Xinbiao Gan
 Xinhang Lu
 Xinhong Chen
 Xinyi Zhang
+Xinyue Yi
 Xinyue Yu
 Xu Jiang
 Xuan Sun
@@ -217,6 +219,7 @@ Youtao Zhang
 Yu Chen
 Yu Liang
 Yu Mao
+Yu Wang
 Yu-Kai Huang
 Yuchen Lu
 Yufei Cui

@@ -27,6 +27,7 @@ Haibo Hu
 Haiyu Mao
 Hanming Sun
 Haolun Wu
+Holger Pirk
 Hong Xu
 Hongchao Du
 Hongming Huang
@@ -146,6 +147,7 @@ Xiaoyang Wang
 Xin Shi
 Xinbiao Gan
 Xinhong Chen
+Xinyue Yi
 Xinyue Yu
 Xu Jiang
 Xuan Sun
@@ -169,6 +171,7 @@ Young-ri Choi
 Yu Chen
 Yu Liang
 Yu Mao
+Yu Wang
 Yu-Kai Huang
 Yuchen Lu
 Yufei Cui
