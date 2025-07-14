@@ -4,6 +4,7 @@ Arun Vishwanath
 Bingkun Yao
 Boyang Li
 Can Chen
+Chen Tang
 Cheng Fan
 Cheng Zhuo
 Chenhao Wu
@@ -94,6 +95,7 @@ Neiwen Ling
 Ning Wang
 Pan Dong
 Peng Chen
+Qian Xu
 Qianling Zhang
 Qiao Li
 Qichun Chen
@@ -134,6 +136,7 @@ Tianyu Ren
 Tianyu Zhang
 Ting He
 Tingtao Li
+Tuo Shi
 Wang Yi
 Wanli Chang
 Wei Mao

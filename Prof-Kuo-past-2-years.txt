@@ -1,6 +1,7 @@
 Alain Girault
 Antoni B. Chan
 Buzhou Tang
+Camélia Slimani
 Can Chen
 Changsheng Xie
 Che-Wei Tsao
@@ -33,6 +34,7 @@ Hongyang Dang
 Hsiang-Pang Li
 Hu Wan
 Hung-Chih Hsieh
+Jalil Boukhobza
 Jian-Jia Chen
 Jie Zhang
 Jinghuan Yu
@@ -75,6 +77,7 @@ Xuan Sun
 Xue (Steve) Liu
 Xue Liu
 Ye Yuan
+Yi-Chun Liao
 Yi-Shen Chen
 Yina Lv
 Ying Xiong

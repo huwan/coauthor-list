@@ -2,6 +2,7 @@ Alain Girault
 Antoni B. Chan
 Bo-Rong Lin
 Buzhou Tang
+Camélia Slimani
 Can Chen
 Changlong Li
 Changsheng Xie
@@ -55,6 +56,7 @@ Hu Wan
 Huai-Mu Wang
 Hung-Chih Hsieh
 Hung-Sheng Chang
+Jalil Boukhobza
 Jian-Jia Chen
 Jianqiang Nie
 Jie Zhang
@@ -125,6 +127,7 @@ Yao-Wen Kang
 Ye Yuan
 Yen-Po Lin
 Yen-Yu Lin
+Yi-Chun Liao
 Yi-Shen Chen
 Yi-Te Hsu
 Yi-Ting Lai

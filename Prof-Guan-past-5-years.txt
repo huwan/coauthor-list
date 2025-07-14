@@ -13,6 +13,7 @@ Caiqi Zhang
 Can Chen
 Chang Shi
 Changqing Xia
+Chen Tang
 Cheng Fan
 Cheng Zhuo
 Chenhao Wu
@@ -124,6 +125,7 @@ Onur Mutlu
 Pan Dong
 Peng Chen
 Peng Zeng
+Qian Xu
 Qianling Zhang
 Qiao Li
 Qichun Chen
@@ -168,6 +170,7 @@ Tianyu Ren
 Tianyu Zhang
 Ting He
 Tingtao Li
+Tuo Shi
 Wang Yi
 Wanli Chang
 Wei Mao

@@ -1,5 +1,6 @@
 Alain Girault
 Buzhou Tang
+Camélia Slimani
 Can Chen
 Changsheng Xie
 Chieh-Lin Tsai
@@ -19,6 +20,7 @@ Hongchao Du
 Hongyang Dang
 Hsiang-Pang Li
 Hu Wan
+Jalil Boukhobza
 Jie Zhang
 Jinghuan Yu
 Jingzong Li
@@ -42,6 +44,7 @@ Xiaofei Zhao
 Xuan Sun
 Xue Liu
 Ye Yuan
+Yi-Chun Liao
 Yina Lv
 Ying Xiong
 You Zhou

@@ -8,6 +8,7 @@ Changlong Li
 Changsheng Xie
 Chao Wang
 Chenchen Fu
+Chia-Heng Tu
 Chuanhui Yang
 Chun Jason Xue
 Chun Xue
@@ -90,6 +91,7 @@ Mingsong Lv
 Minhui (Jason) Xue
 Minhui Xue
 Mohammad Sadrosadati
+Mu-Chi Chen
 Nan Guan
 Nan Wang
 Neiwen Ling
@@ -98,6 +100,7 @@ Onur Mutlu
 Peng Cheng
 Peng Wang
 Peng Zhou
+Po-Hsuan Huang
 Qiang Liu
 Qiang Su
 Qiao Li
@@ -110,11 +113,13 @@ Rachata Ausavarungnirun
 Rakesh Nadig
 Ran Shu
 Riwei Pan
+Rongbin Hu
 Rui Xu
 Ruoxiang Li
 Sam H. Noh
 Shangyu Wu
 Shaofeng Wu
+Shih-Hao Hung
 Shuai Chen
 Shudeng Wu
 Shuhan Bai
@@ -137,6 +142,7 @@ Wendi Nie
 Wenhan Shang
 Wenjing Xie
 Xianglong Li
+Xiangrui Ke
 Xiangyu Liu
 Xiangyu Yao
 Xianzhang Chen
@@ -164,6 +170,7 @@ Yina Lv
 Ying Xiong
 Yixin Chen
 Yiyang Zhou
+Yongli Song
 Yongpan Liu
 Yongqiang Xiong
 You Zhou
@@ -173,6 +180,7 @@ Yu Liang
 Yu Mao
 Yu Wang
 Yu-Kai Huang
+Yuanyi Zhang
 Yuchen Lu
 Yufei Cui
 Yun Huang

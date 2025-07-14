@@ -3,6 +3,7 @@ Arina Kharlamova
 Bingkun Yao
 Boyang Li
 Can Chen
+Chen Tang
 Chenhao Wu
 Chuancai Gu
 Chun Jason Xue
@@ -77,6 +78,7 @@ Neil C. Audsley
 Neiwen Ling
 Ning Wang
 Peng Chen
+Qian Xu
 Qianling Zhang
 Qiao Li
 Qichun Chen
@@ -108,6 +110,7 @@ Tianyi Wang
 Tianyu Ren
 Tianyu Zhang
 Ting He
+Tuo Shi
 Wang Yi
 Wanli Chang
 Wei Zhang
