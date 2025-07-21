@@ -43,6 +43,7 @@ Jingzong Li
 Jun Wang
 Kam-Yiu Lam
 Lee Chang
+Lei Li
 Lianming Huang
 Mario Günzel
 Meng-Chao Kao
@@ -83,6 +84,7 @@ Yina Lv
 Ying Xiong
 Yixin Chen
 You Zhou
+Yu Liang
 Yu Mao
 Yu-Fang Chen
 Yu-Ming Chang

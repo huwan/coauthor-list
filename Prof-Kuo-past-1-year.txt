@@ -26,11 +26,13 @@ Jinghuan Yu
 Jingzong Li
 Jun Wang
 Kam-Yiu Lam
+Lei Li
 Lianming Huang
 Min Ye
 Ming-Chang Yang
 Nan Guan
 Qiao Li
+Riwei Pan
 Shangyu Wu
 Shi-Zhe Lin
 Shuai Chen
@@ -48,6 +50,7 @@ Yi-Chun Liao
 Yina Lv
 Ying Xiong
 You Zhou
+Yu Liang
 Yu Mao
 Yu-Pang Wang
 Yuan-Hao Chang
