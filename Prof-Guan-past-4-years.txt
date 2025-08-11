@@ -32,12 +32,14 @@ Guangyi Xu
 Guoliang Xing
 Guoqi Xie
 Guozhen Tan
+Gwok-Waa Wan
 Haibo Hu
 Hao Sun
 Hao Yu
 Haochun Liang
 Haolun Wu
 He Du
+Hefei Feng
 Heming Fu
 Heyuan Shi
 Hiroshi Yamada
@@ -55,6 +57,7 @@ Jiahui Liu
 Jialin Sun
 Jian-Jia Chen
 Jiangshan Yu
+Jianmin Ye
 Jianping Wang
 Jianzhong Liu
 Jiarui Wang
@@ -64,6 +67,7 @@ Jin Wang
 Jing He
 Jingchang Sun
 Jinghao Sun
+Jingyi Zhang
 Jingzong Li
 Jinkyu Lee
 Jinrong Liu
@@ -92,6 +96,7 @@ Maolin Yang
 Mei Tian
 Meiling Han
 Menglong Cui
+Mengnv Xing
 Mengquan Li
 Min Ye
 Minghe Yu
@@ -112,6 +117,7 @@ Pan Dong
 Peng Chen
 Peng Zeng
 Qian Xu
+Qiang Xu
 Qianling Zhang
 Qiao Li
 Qichun Chen
@@ -120,6 +126,7 @@ Qingxu Deng
 Qinming Zhang
 Qiong Chen
 Qiulin Chen
+Qixiang Chen
 Qixin Wang
 Quan Zhou
 Ran Bi
@@ -128,12 +135,15 @@ Renato Mancuso
 Richard Paterson
 Rong Su
 Rongxiao Shi
+Ruihu Wang
 Ruoxiang Li
+Sam-Zaak Wong
 Samsil Arefin
 Sebastian Steinhorst
 Seongtae Lee
 Shangyu Wu
 Shaoshan Liu
+Shengchu Su
 Shiqing Li
 Shiyue Zhang
 Shuai Chen
@@ -147,6 +157,7 @@ Sudharsan Vaidhun
 Tao Gong
 Tao Hu
 Tao Jin
+Tao Ni
 Tao Yang
 Tei-Wei Kuo
 Tianchi Ren
@@ -181,6 +192,7 @@ Xiaobo Sharon Hu
 Xiaotian Dai
 Xin Si
 Xinhong Chen
+Xinlai Wan
 Xinwei Fang
 Xinyao Jiao
 Xisheng Li
@@ -194,6 +206,7 @@ Xuemei Peng
 Yan Wang
 Yan Zhuang
 Yang Bai
+Yang Jun
 Yang Li
 Yang Lou
 Yang Wang
@@ -207,6 +220,7 @@ Yeqiao Hou
 Yibo Zhang
 Yihao Meng
 Yina Lv
+Yinan Zhu
 Ying Xiong
 Yiru Xu
 Yiyang Gao
@@ -221,6 +235,7 @@ Yu Mao
 Yu-Kai Huang
 Yuan Zou
 Yuanhai Zhang
+Yubo Wang
 Yuchen Hu
 Yue Tang
 Yufei Chen

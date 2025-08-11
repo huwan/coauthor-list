@@ -11,10 +11,12 @@ Dongdong Tang
 Fei Guan
 Gang Chen
 Guoliang Xing
+Gwok-Waa Wan
 Haibo Hu
 Hao Sun
 Haochun Liang
 Haolun Wu
+Hefei Feng
 Heyuan Shi
 Hong Gao
 Hong Xu
@@ -25,6 +27,7 @@ Jen-Ming Wu
 Jiacheng Zuo
 Jiahui Liu
 Jialin Sun
+Jianmin Ye
 Jianping Wang
 Jianzhong Liu
 Jiarui Wang
@@ -32,6 +35,7 @@ Jie Fan
 Jie Zhou
 Jin Wang
 Jinghao Sun
+Jingyi Zhang
 Jingzong Li
 Jinkyu Lee
 Jun Wang
@@ -49,6 +53,7 @@ Liming Chen
 Linbo Long
 Maolin Yang
 Menglong Cui
+Mengnv Xing
 Min Ye
 Minghe Yu
 Mingsong Chen
@@ -64,21 +69,27 @@ Neiwen Ling
 Ning Wang
 Peng Chen
 Qian Xu
+Qiang Xu
 Qiao Li
 Qichun Chen
 Qingqiang He
 Qingxu Deng
+Qixiang Chen
 Qixin Wang
 Ran Wei
 Rong Su
+Ruihu Wang
 Ruoxiang Li
+Sam-Zaak Wong
 Shangyu Wu
+Shengchu Su
 Shiyue Zhang
 Shuai Chen
 Shuai Li
 Shuai Zhao
 Songran Liu
 Tao Hu
+Tao Ni
 Tao Yang
 Tei-Wei Kuo
 Tianchi Ren
@@ -99,6 +110,7 @@ Xiantong Luo
 Xiao Jiang
 Xin Si
 Xinhong Chen
+Xinlai Wan
 Xinwei Fang
 Xinyao Jiao
 Xisheng Li
@@ -107,6 +119,7 @@ Xudong Zhang
 Xue Liu
 Xueli Fan
 Yan Wang
+Yang Jun
 Yang Lou
 Yao Chen
 Ye Ma
@@ -114,6 +127,7 @@ Ye Yuan
 Yeqiao Hou
 Yihao Meng
 Yina Lv
+Yinan Zhu
 Ying Xiong
 Yiru Xu
 Yiyang Gao
@@ -125,6 +139,7 @@ Yu Jiang
 Yu Mao
 Yu-Kai Huang
 Yuan Zou
+Yubo Wang
 Yuchen Hu
 Yue Tang
 Yufei Cui

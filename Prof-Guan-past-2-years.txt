@@ -16,10 +16,12 @@ Gang Chen
 Guoliang Xing
 Guoqi Xie
 Guozhen Tan
+Gwok-Waa Wan
 Haibo Hu
 Hao Sun
 Haochun Liang
 Haolun Wu
+Hefei Feng
 Heyuan Shi
 Hiroshi Yamada
 Hiroyuki Tomiyama
@@ -35,6 +37,7 @@ Jiacheng Zuo
 Jiahui Liu
 Jialin Sun
 Jian-Jia Chen
+Jianmin Ye
 Jianping Wang
 Jianzhong Liu
 Jiarui Wang
@@ -42,6 +45,7 @@ Jie Fan
 Jie Zhou
 Jin Wang
 Jinghao Sun
+Jingyi Zhang
 Jingzong Li
 Jinkyu Lee
 Jun Wang
@@ -63,6 +67,7 @@ Liming Chen
 Linbo Long
 Maolin Yang
 Menglong Cui
+Mengnv Xing
 Min Ye
 Minghe Yu
 Mingsong Chen
@@ -79,20 +84,25 @@ Neiwen Ling
 Ning Wang
 Peng Chen
 Qian Xu
+Qiang Xu
 Qianling Zhang
 Qiao Li
 Qichun Chen
 Qingqiang He
 Qingxu Deng
 Qiulin Chen
+Qixiang Chen
 Qixin Wang
 Ran Wei
 Renato Mancuso
 Rong Su
+Ruihu Wang
 Ruoxiang Li
+Sam-Zaak Wong
 Sebastian Steinhorst
 Shangyu Wu
 Shaoshan Liu
+Shengchu Su
 Shiyue Zhang
 Shuai Chen
 Shuai Li
@@ -103,6 +113,7 @@ Songran Liu
 Sudharsan Vaidhun
 Tao Gong
 Tao Hu
+Tao Ni
 Tao Yang
 Tei-Wei Kuo
 Tianchi Ren
@@ -132,6 +143,7 @@ Xiao Jiang
 Xiaobo Sharon Hu
 Xin Si
 Xinhong Chen
+Xinlai Wan
 Xinwei Fang
 Xinyao Jiao
 Xisheng Li
@@ -141,6 +153,7 @@ Xue Liu
 Xueli Fan
 Xuemei Peng
 Yan Wang
+Yang Jun
 Yang Li
 Yang Lou
 Yang Wang
@@ -152,6 +165,7 @@ Yeqiao Hou
 Yibo Zhang
 Yihao Meng
 Yina Lv
+Yinan Zhu
 Ying Xiong
 Yiru Xu
 Yiyang Gao
@@ -165,6 +179,7 @@ Yu Mao
 Yu-Kai Huang
 Yuan Zou
 Yuanhai Zhang
+Yubo Wang
 Yuchen Hu
 Yue Tang
 Yufei Cui
