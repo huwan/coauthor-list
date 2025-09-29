@@ -15,6 +15,7 @@ Fei Wu
 Frank Mueller
 Han-Wen Hu
 Haolun Wu
+Heng-Lin Yen
 Hong Xu
 Hongchao Du
 Hongyang Dang
@@ -31,6 +32,7 @@ Lianming Huang
 Min Ye
 Ming-Chang Yang
 Nan Guan
+Qiang Su
 Qiao Li
 Riwei Pan
 Shangyu Wu
@@ -44,6 +46,7 @@ Weilan Wang
 Wen-Yi Wang
 Xiaofei Zhao
 Xuan Sun
+Xue (Steve) Liu
 Xue Liu
 Ye Yuan
 Yi-Chun Liao

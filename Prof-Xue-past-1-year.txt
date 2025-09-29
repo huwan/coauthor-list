@@ -7,6 +7,7 @@ Can Chen
 Changlong Li
 Changsheng Xie
 Chao Wang
+Chaofan Liu
 Chenchen Fu
 Chia-Heng Tu
 Chuanhui Yang
@@ -14,7 +15,9 @@ Chun Jason Xue
 Chun Xue
 Congming Gao
 Daniel Wen
+Deya Gao
 Dongdong Tang
+Dongsu Han
 Dongxiao Yu
 Fei Guan
 Fei Wu
@@ -25,6 +28,7 @@ Haibo Hu
 Haiyu Mao
 Hanming Sun
 Haolun Wu
+Heng-Lin Yen
 Holger Pirk
 Hong Xu
 Hongchao Du
@@ -82,6 +86,7 @@ Nan Wang
 Neiwen Ling
 Nika Mansouri-Ghiasi
 Onur Mutlu
+Peng Cheng
 Peng Wang
 Peng Zhou
 Po-Hsuan Huang
@@ -94,9 +99,12 @@ Qingxu Deng
 Quanqing Xu
 Rachata Ausavarungnirun
 Rakesh Nadig
+Ran Shu
 Riwei Pan
 Rongbin Hu
 Rui Xu
+Ruoxiang Li
+Sang Hyuk Son
 Shangyu Wu
 Shih-Hao Hung
 Shuai Chen
@@ -108,6 +116,7 @@ Tao Yang
 Tei-Wei Kuo
 Tianchi Ren
 Tianyu Ren
+Victor C. S. Lee
 Vincent Chau
 Wei Lin
 Wei Zhang
@@ -124,9 +133,11 @@ Xiaojun Cai
 Xiaoli Wang
 Xiaoxing Qiu
 Xiaoyang Wang
+Xin He
 Xinbiao Gan
 Xinhong Chen
 Xinyue Yi
+Xizhe Yin
 Xuan Sun
 Xue (Steve) Liu
 Xue Liu
@@ -142,6 +153,7 @@ Ying Xiong
 Yixin Chen
 Yiyang Zhou
 Yongli Song
+Yongqiang Xiong
 You Zhou
 Yu Chen
 Yu Liang

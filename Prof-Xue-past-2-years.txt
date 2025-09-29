@@ -7,6 +7,7 @@ Can Chen
 Changlong Li
 Changsheng Xie
 Chao Wang
+Chaofan Liu
 Chenchen Fu
 Chia-Heng Tu
 Chuanhui Yang
@@ -15,7 +16,9 @@ Chun Xue
 Cong Wang
 Congming Gao
 Daniel Wen
+Deya Gao
 Dongdong Tang
+Dongsu Han
 Dongxiao Yu
 Duo Liu
 Edwin H.-M. Sha
@@ -28,6 +31,7 @@ Haibo Hu
 Haiyu Mao
 Hanming Sun
 Haolun Wu
+Heng-Lin Yen
 Holger Pirk
 Hong Xu
 Hongchao Du
@@ -118,6 +122,7 @@ Rongbin Hu
 Rui Xu
 Ruoxiang Li
 Sam H. Noh
+Sang Hyuk Son
 Shangyu Wu
 Shaofeng Wu
 Shih-Hao Hung
@@ -132,6 +137,7 @@ Tei-Wei Kuo
 Tianchi Ren
 Tianyu Ren
 Tongda Wu
+Victor C. S. Lee
 Vincent Chau
 Wei Li
 Wei Lin
@@ -152,11 +158,13 @@ Xiaoli Wang
 Xiaoliu Feng
 Xiaoxing Qiu
 Xiaoyang Wang
+Xin He
 Xin Shi
 Xinbiao Gan
 Xinhong Chen
 Xinyue Yi
 Xinyue Yu
+Xizhe Yin
 Xu Jiang
 Xuan Sun
 Xue (Steve) Liu

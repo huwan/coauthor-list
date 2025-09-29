@@ -24,6 +24,7 @@ Hao Sun
 Haochun Liang
 Haolun Wu
 Hefei Feng
+Heng-Lin Yen
 Heyuan Shi
 Hiroshi Yamada
 Hiroyuki Tomiyama
@@ -78,6 +79,7 @@ Mingsong Lyu
 Mingyang Gong
 Mingzhe Wang
 Morteza Hashemi Farzaneh
+Mun Choon Chan
 Naijun Zhan
 Nan Guan
 Nathan Fisher
@@ -86,6 +88,7 @@ Neiwen Ling
 Ning Wang
 Peng Chen
 Qian Xu
+Qiang Su
 Qiang Xu
 Qianling Zhang
 Qiao Li
@@ -144,6 +147,7 @@ Xiantong Luo
 Xiao Jiang
 Xiaobo Sharon Hu
 Xiaomeng Han
+Xin He
 Xin Si
 Xinhong Chen
 Xinlai Wan
@@ -197,6 +201,7 @@ Yung-Hui Li
 Yunjian Xu
 Yunlong Yu
 Yuting Chen
+Yuxin Du
 Zewei Chen
 Zhe Jiang
 Zheng Dong
