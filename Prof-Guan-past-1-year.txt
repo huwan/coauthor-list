@@ -44,6 +44,7 @@ Jinkyu Lee
 Jun Wang
 Jun Zhao
 Junhao Ye
+Junyi Liu
 Juxin Niu
 Kailu Duan
 Kaiwei Mo
@@ -153,6 +154,7 @@ Yu Jiang
 Yu Mao
 Yu-Kai Huang
 Yuan Zou
+Yuanzhen Mu
 Yubo Wang
 Yuchen Hu
 Yue Tang

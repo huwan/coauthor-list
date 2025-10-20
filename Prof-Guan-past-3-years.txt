@@ -66,6 +66,7 @@ Jun Wang
 Jun Zhao
 Jun Zhou
 Junhao Ye
+Junyi Liu
 Juxin Niu
 Kai Huang
 Kailu Duan
@@ -224,6 +225,7 @@ Yu Mao
 Yu-Kai Huang
 Yuan Zou
 Yuanhai Zhang
+Yuanzhen Mu
 Yubo Wang
 Yuchen Hu
 Yue Tang
