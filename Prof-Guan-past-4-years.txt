@@ -21,6 +21,7 @@ Chunhua Xiao
 Dan Niu
 Dan Wang
 Dawei Yang
+Dean You
 Di Liu
 Dingrong Pan
 Dong Ji
@@ -52,6 +53,7 @@ Hong Xu
 Hongchao Du
 Hongming Huang
 Hui Chen
+Hui Wang
 Hyoseung Kim
 Insik Shin
 Jen-Ming Wu
@@ -261,6 +263,7 @@ Yun Huang
 Yung-Hui Li
 Yunjian Xu
 Yunlong Yu
+Yushu Du
 Yuting Chen
 Yuxin Du
 Yuze He
