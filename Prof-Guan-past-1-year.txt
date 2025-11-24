@@ -7,7 +7,6 @@ Chen Tang
 Chenhao Wu
 Chun Jason Xue
 Dan Niu
-Dean You
 Dingrong Pan
 Dongdong Tang
 Fei Guan
@@ -27,7 +26,6 @@ Hong Xu
 Hongchao Du
 Hongming Huang
 Hui Chen
-Hui Wang
 Jen-Ming Wu
 Jiacheng Zuo
 Jiahui Liu
@@ -167,7 +165,6 @@ Yun Huang
 Yung-Hui Li
 Yunjian Xu
 Yunlong Yu
-Yushu Du
 Yuting Chen
 Yuxin Du
 Zhe Jiang
