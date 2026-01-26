@@ -10,9 +10,7 @@ Chao Wang
 Chaofan Liu
 Chenchen Fu
 Chia-Heng Tu
-Chia-Lin Yang
 Chuanhui Yang
-Chuanwen Wang
 Chun Jason Xue
 Chun Xue
 Cong Wang
@@ -29,13 +27,10 @@ Fei Wu
 Guan Gui
 Guanyu Wu
 Guoliang Xing
-Hai (Helen) Li
-Hai Li
 Haibo Hu
 Haiyu Mao
 Hanming Sun
 Haolun Wu
-Haopeng Yan
 Heng-Lin Yen
 Holger Pirk
 Hong Xu
@@ -45,14 +40,15 @@ Hongyang Dang
 Hu Wan
 Huazhong Yang
 Huinan Chen
+Humaid Alqasimi
 Hung-Chih Hsieh
 Jason Xue
 Jen-Ming Wu
 Jiacheng Huang
 Jiacheng Zuo
-Jiamin Li
 Jiang Ma
 Jianping Wang
+Jiawen Liu
 Jiaxun Lu
 Jie Zhang
 Jifeng Wu
@@ -69,7 +65,6 @@ Jinyang Li
 Jiwu Shu
 Joseph Kee-Yin Ng
 Jun Wang
-Jun Yang
 Junhui He
 Junlong Zhu
 Junna Xing
@@ -83,7 +78,6 @@ Kaiwei Mo
 Kaiwen Xue
 Kam-Yiu Lam
 Kan Zhong
-Keith Winstein
 Kui Wu
 Lei Ju
 Lei Li
@@ -94,21 +88,17 @@ Libing Wu
 Lihao Dong
 Ling Lin
 Linjing Liu
-Longfei Luo
 Menglong Cui
 Mengting Yuan
 Mengying Zhao
 Miguel Rodrigues
-Min Peng
 Min Ye
-Ming Ma
 Mingliang Zhou
 Mingsong Lv
 Minhui (Jason) Xue
 Minhui Xue
 Mohammad Sadrosadati
 Mu-Chi Chen
-Muhammad Shafique
 Nan Guan
 Nan Wang
 Neiwen Ling
@@ -141,15 +131,13 @@ Shih-Hao Hung
 Shuai Chen
 Shudeng Wu
 Shuhan Bai
-Shun Deng
 Shuo Xu
 Song Han
-Sujunjie Sun
 Tao Hu
 Tao Yang
 Tei-Wei Kuo
-Theocharis Theocharides
 Tianchi Ren
+Tianyi Zhang
 Tianyu Ren
 Tongda Wu
 Victor C. S. Lee
@@ -163,7 +151,6 @@ Weiwei Wu
 Wendi Nie
 Wenhan Shang
 Wenjing Xie
-Wuguannan Yao
 Xianglong Li
 Xiangrui Ke
 Xiangyu Liu
@@ -177,8 +164,8 @@ Xiaoyang Wang
 Xin He
 Xin Shi
 Xinbiao Gan
-Xinhang Lu
 Xinhong Chen
+Xinrui Yang
 Xinyu Wang
 Xinyue Yi
 Xinyue Yu
@@ -188,7 +175,6 @@ Xuan Sun
 Xue (Steve) Liu
 Xue Liu
 Xuehai Zhou
-Xueyong Xu
 Yajuan Du
 Yang Lou
 Yaoxin Duan
@@ -203,8 +189,8 @@ Yongli Song
 Yongpan Liu
 Yongqiang Xiong
 You Zhou
+Youcheng Sun
 Young-ri Choi
-Youtao Zhang
 Yu Chen
 Yu Liang
 Yu Mao

@@ -2,6 +2,7 @@ Anzhen Zhu
 Arina Kharlamova
 Bingkun Yao
 Boyang Li
+Changwen Xing
 Chen Tang
 Chun Jason Xue
 Dan Niu
@@ -26,6 +27,7 @@ Jinghao Sun
 Jingyi Zhang
 Jingzong Li
 Jun Wang
+Jun Yang
 Jun Zhao
 Junhao Ye
 Junyi Liu
@@ -34,7 +36,9 @@ Kaiwei Mo
 Ke Xu
 Kui Wu
 Lei Ju
+Lei Qi
 Lianming Huang
+Mengli Zhang
 Mengnv Xing
 Mingsong Chen
 Mingsong Lv
@@ -57,6 +61,7 @@ Rong Su
 Ruihu Wang
 Ruoxiang Li
 Sam-Zaak Wong
+SamZaak Wong
 Shangyu Wu
 Shengchu Su
 Shuai Chen
@@ -89,6 +94,7 @@ Xu Jiang
 Xudong Zhang
 Xue (Steve) Liu
 Yan Wang
+Yanfeng Lu
 Yang Jun
 Yang Lou
 Yang Wang
@@ -111,7 +117,9 @@ Yung-Hui Li
 Yunjian Xu
 Yunlong Yu
 Yuxin Du
+Zebin Ma
 Zhe Jiang
+Zhengxiong Li
 Zhishan Guo
 Zhiyang Lin
 Zhiying Wu
