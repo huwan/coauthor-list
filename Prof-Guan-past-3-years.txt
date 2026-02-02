@@ -4,6 +4,7 @@ Arina Kharlamova
 Bingkun Yao
 Boyang Li
 Can Chen
+Changwen Xing
 Chen Tang
 Chenhao Wu
 Chuancai Gu
@@ -52,6 +53,7 @@ Jingyi Zhang
 Jingzong Li
 Jinkyu Lee
 Jun Wang
+Jun Yang
 Jun Zhao
 Junhao Ye
 Junyi Liu
@@ -65,11 +67,13 @@ Kecheng Yang
 Kui Wu
 Laiwen Li
 Lei Ju
+Lei Qi
 Lei Qiao
 Lianming Huang
 Liming Chen
 Linbo Long
 Maolin Yang
+Mengli Zhang
 Menglong Cui
 Mengnv Xing
 Min Ye
@@ -105,6 +109,7 @@ Rong Su
 Ruihu Wang
 Ruoxiang Li
 Sam-Zaak Wong
+SamZaak Wong
 Sebastian Steinhorst
 Shangyu Wu
 Shaoshan Liu
@@ -164,6 +169,7 @@ Xueli Fan
 Xuemei Peng
 Ya Wen
 Yan Wang
+Yanfeng Lu
 Yang Jun
 Yang Li
 Yang Lou
@@ -205,9 +211,11 @@ Yunjian Xu
 Yunlong Yu
 Yuting Chen
 Yuxin Du
+Zebin Ma
 Zewei Chen
 Zhe Jiang
 Zheng Dong
+Zhengxiong Li
 Zhenyu Sun
 Zhenyu Yan
 Zhihe Zhao
