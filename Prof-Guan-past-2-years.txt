@@ -4,6 +4,7 @@ Bingkun Yao
 Boyang Li
 Can Chen
 Changwen Xing
+Chaohai Yu
 Chen Tang
 Chenhao Wu
 Chun Jason Xue
@@ -41,6 +42,7 @@ Jin Wang
 Jinghao Sun
 Jingyi Zhang
 Jingzong Li
+Jinjing Shi
 Jinkyu Lee
 Jun Wang
 Jun Yang
@@ -93,8 +95,12 @@ Ruihu Wang
 Ruoxiang Li
 Sam-Zaak Wong
 SamZaak Wong
+Seongtae Lee
 Shangyu Wu
+Shaoshuai Zhang
 Shengchu Su
+Shichao Zhang
+Shining Sun
 Shiyue Zhang
 Shuai Chen
 Shuai Li
@@ -113,9 +119,11 @@ Wanli Chang
 Wei Zhang
 Weichen Liu
 Weilan Wang
+Weipeng Jing
 Weiwei Shan
 Wenjing Sun
 Wenjing Xie
+Wenxuan Wang
 Xi Wang
 Xiangfeng Liu
 Xianglong Li
@@ -135,6 +143,7 @@ Xudong Zhang
 Xue (Steve) Liu
 Xue Liu
 Xueli Fan
+Xuelong Li
 Ya Wen
 Yan Wang
 Yanfeng Lu
@@ -146,6 +155,7 @@ Ye Ma
 Ye Yuan
 Yeqiao Hou
 Yi Wang
+Yichen Liu
 Yihao Meng
 Yina Lv
 Yinan Zhu
