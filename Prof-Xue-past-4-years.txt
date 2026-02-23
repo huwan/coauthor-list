@@ -13,6 +13,7 @@ Chia-Heng Tu
 Chia-Lin Yang
 Chuanhui Yang
 Chuanwen Wang
+Chun Hu
 Chun Jason Xue
 Chun Xue
 Cong Wang
@@ -33,6 +34,7 @@ Hai (Helen) Li
 Hai Li
 Haibo Hu
 Haiyu Mao
+Hancong Duan
 Hanming Sun
 Haolun Wu
 Haopeng Yan
@@ -59,6 +61,7 @@ Jiaxun Lu
 Jie Zhang
 Jifeng Wu
 Jin Wang
+Jing Zou
 Jinghuan Yu
 Jingling Xue
 Jingqin Fu
@@ -223,6 +226,7 @@ Yunfeng Shao
 Yung-Hui Li
 Yunmo Zhang
 Yunpeng Song
+Yuxin He
 Zaoxing Liu
 Zelin Yun
 Zexing Liu

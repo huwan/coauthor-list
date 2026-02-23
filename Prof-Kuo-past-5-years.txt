@@ -1,4 +1,5 @@
 Alain Girault
+Andy D. Pimentel
 Antoni B. Chan
 Bo-Rong Lin
 Buzhou Tang
@@ -42,7 +43,6 @@ Frank Mueller
 Georg von der Brüggen
 Han-Sung Chen
 Han-Wen Hu
-Han-Yi Lin
 Haolun Wu
 Harinath Garudadri
 Hasan Alhasan
@@ -56,15 +56,13 @@ Hsiang-Yun Cheng
 Hu Wan
 Huai-Mu Wang
 Hung-Chih Hsieh
-Hung-Sheng Chang
 Jalil Boukhobza
+Jen-Wei Hsieh
 Jian-Jia Chen
-Jianqiang Nie
 Jie Zhang
 Jinghuan Yu
 Jingtong Hu
 Jingzong Li
-Jinheng Li
 Jun Wang
 Kam-Yiu Lam
 Kam-yiu Lam
@@ -75,9 +73,11 @@ Lee Chang
 Lei Li
 Li-Pin Chang
 Liang Shi
+Liang-Chi Chen
 Lianming Huang
 Mario Günzel
 Meng-Chao Kao
+Meng-Chia Lee
 Meng-Fan Chang
 Mi-Yen Yeh
 Miguel Rodrigues
@@ -96,7 +96,6 @@ Shi-Zhe Lin
 Shih-Chun Chou
 Shih-Hao Hung
 Shu-Hsien Liao
-Shu-Yin Ho
 Shuai Chen
 Shuhan Bai
 Shun Deng
@@ -117,20 +116,16 @@ Weichen Wang
 Weilan Wang
 Wen Sheng Lim
 Wen-Yi Wang
-Wuguannan Yao
 Xiangyu Liu
 Xianzhang Chen
 Xiaofei Zhao
-Xiaoqiang Li
 Xinyue Yu
 Xuan Sun
 Xue (Steve) Liu
 Xue Liu
 Yajuan Du
-Yao-Wen Kang
 Ye Yuan
 Yen-Po Lin
-Yen-Yu Lin
 Yi-Chun Liao
 Yi-Shen Chen
 Yi-Te Hsu
@@ -152,7 +147,6 @@ Yu-Ming Huang
 Yu-Pang Wang
 Yuan-Hao Chang
 Yuchen Lu
-Yueh-Han Wu
 Yufei Cui
 Yun Huang
 Yun-Chih Chen
@@ -163,4 +157,3 @@ Zheng-Wei Wu
 Zhenge Jia
 Zhu-Mu Chen
 Ziquan Liu
-Zongwei Zhu

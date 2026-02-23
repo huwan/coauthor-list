@@ -1,33 +1,23 @@
 Alain Girault
+Andy D. Pimentel
 Antoni B. Chan
-Bo-Rong Lin
 Buzhou Tang
 Camélia Slimani
 Can Chen
-Changlong Li
 Changsheng Xie
 Che-Wei Tsao
-Cheng Yu
 Cheng-Jhih Shih
 Chi-Sheng Shih
-Chi-Yin Chow
-Chia-Lin Yang
-Chia-Ming Hu
 Chia-Yin Liu
 Chieh-Lin Tsai
 Chien-Chung Ho
-Chih-Chang Hsieh
 Chih-Chia Lin
 Chih-Hsuan Yen
 Chih-Ting Lo
-Chih-Yuan Lu
 Ching-Wen Chen
 Chiy-Ferng Perng
-Chong-Ying Lee
 Chun Jason Xue
 Chun-Feng Wu
-Chun-Hsiung Hung
-Chung Kuang Chen
 Chunjiang Zhu
 Cong Wang
 Congming Gao
@@ -36,11 +26,8 @@ Dongdong Tang
 Fei Wu
 Frank Mueller
 Georg von der Brüggen
-Han-Sung Chen
 Han-Wen Hu
 Haolun Wu
-Harinath Garudadri
-Hasan Alhasan
 Hashan Roshantha Mendis
 Heng-Lin Yen
 Hong Xu
@@ -48,9 +35,9 @@ Hongchao Du
 Hongyang Dang
 Hsiang-Pang Li
 Hu Wan
-Huai-Mu Wang
 Hung-Chih Hsieh
 Jalil Boukhobza
+Jen-Wei Hsieh
 Jian-Jia Chen
 Jie Zhang
 Jinghuan Yu
@@ -58,15 +45,13 @@ Jingtong Hu
 Jingzong Li
 Jun Wang
 Kam-Yiu Lam
-Kam-yiu Lam
-Keh-Chung Wang
-Kuo-Hsuan Hung
 Lee Chang
 Lei Li
+Liang-Chi Chen
 Lianming Huang
 Mario Günzel
 Meng-Chao Kao
-Meng-Fan Chang
+Meng-Chia Lee
 Miguel Rodrigues
 Min Ye
 Ming-Chang Yang
@@ -76,58 +61,41 @@ Pi-Cheng Hsiu
 Ping-Xiang Chen
 Qiang Su
 Qiao Li
-Rachata Ausavarungnirun
 Riwei Pan
 Shangyu Wu
 Shi-Zhe Lin
 Shih-Chun Chou
 Shih-Hao Hung
-Shu-Hsien Liao
 Shuai Chen
 Shuhan Bai
-Shun Deng
-Szu-Wei Fu
 Tei-Wei Kuo
 Tianyu Ren
 Tse-Yuan Wang
-Tsun-An Hsieh
 Tsung-Han Kuo
 Tsung-Yen Hsu
-Tzu-Hsiang Su
-Wei-Che Tsai
 Wei-Chen Wang
-Wei-Ming Chen
 Weichen Wang
 Weilan Wang
 Wen Sheng Lim
 Wen-Yi Wang
 Xiangyu Liu
-Xianzhang Chen
 Xiaofei Zhao
 Xinyue Yu
 Xuan Sun
 Xue (Steve) Liu
 Xue Liu
 Ye Yuan
-Yen-Po Lin
 Yi-Chun Liao
 Yi-Shen Chen
-Yi-Te Hsu
-Yi-Ting Lai
-Yin-Chiuan Chen
 Yina Lv
 Ying Xiong
 Yixin Chen
 You Zhou
 Yu Liang
 Yu Mao
-Yu Tsao
-Yu-Chao Lin
-Yu-Chen Lin
 Yu-Fang Chen
 Yu-Hong Lai
 Yu-Ming Chang
-Yu-Ming Huang
 Yu-Pang Wang
 Yuan-Hao Chang
 Yuchen Lu
@@ -135,7 +103,6 @@ Yufei Cui
 Yun Huang
 Yun-Chih Chen
 Yung-Chun Lee
-Yunmo Zhang
 Zheng Wan
 Zheng-Wei Wu
 Zhenge Jia

@@ -1,8 +1,6 @@
-Aamir Khan
 Abdullah Al Arafat
 Abusayeed Saifullah
 Alan Burns
-Ameer Hamza Khan
 Andy J. Wellings
 Anzhen Zhu
 Arina Kharlamova
@@ -12,13 +10,13 @@ Bingkun Yao
 Boyang Li
 Caiqi Zhang
 Can Chen
-Chang Shi
 Changqing Xia
+Changwen Xing
+Chaohai Yu
 Chen Tang
 Cheng Fan
 Cheng Zhuo
 Chenhao Wu
-Chi Xu
 Chuancai Gu
 Chun Jason Xue
 Chunhua Xiao
@@ -28,7 +26,6 @@ Dawei Yang
 Di Liu
 Dingrong Pan
 Dong Ji
-Dong Li
 Dongdong Tang
 Fangming Liu
 Fei Guan
@@ -41,8 +38,6 @@ Guoqi Xie
 Guozhen Tan
 Gwok-Waa Wan
 Haibo Hu
-Han Wan
-Hang Lei
 Hao Sun
 Hao Yu
 Haochun Liang
@@ -59,7 +54,6 @@ Hong Xu
 Hongchao Du
 Hongming Huang
 Hui Chen
-Huimin Gao
 Hyoseung Kim
 Insik Shin
 Jen-Ming Wu
@@ -70,7 +64,6 @@ Jian-Jia Chen
 Jiangshan Yu
 Jianmin Ye
 Jianping Wang
-Jiantong Jiang
 Jianzhong Liu
 Jiarui Wang
 Jie Fan
@@ -81,10 +74,11 @@ Jingchang Sun
 Jinghao Sun
 Jingyi Zhang
 Jingzong Li
+Jinjing Shi
 Jinkyu Lee
 Jinrong Liu
-Juan Gómez-Luna
 Jun Wang
+Jun Yang
 Jun Zhao
 Jun Zhou
 Junhao Ye
@@ -97,11 +91,10 @@ Kaiwei Liu
 Kaiwei Mo
 Ke Xu
 Kecheng Yang
-Kexuan Wang
 Kui Wu
 Laiwen Li
-Lei Cao
 Lei Ju
+Lei Qi
 Lei Qiao
 Lei Yang
 Lianming Huang
@@ -111,6 +104,7 @@ Liwei Zhang
 Maolin Yang
 Mei Tian
 Meiling Han
+Mengli Zhang
 Menglong Cui
 Mengnv Xing
 Mengquan Li
@@ -121,7 +115,6 @@ Mingsong Lv
 Mingsong Lyu
 Mingyang Gong
 Mingzhe Wang
-Minjie Xiang
 Morteza Hashemi Farzaneh
 Mun Choon Chan
 Naijun Zhan
@@ -131,7 +124,6 @@ Nathan Fisher
 Neil C. Audsley
 Neiwen Ling
 Ning Wang
-Onur Mutlu
 Pan Dong
 Peng Chen
 Peng Zeng
@@ -158,12 +150,16 @@ Rongxiao Shi
 Ruihu Wang
 Ruoxiang Li
 Sam-Zaak Wong
+SamZaak Wong
 Samsil Arefin
 Sebastian Steinhorst
 Seongtae Lee
 Shangyu Wu
 Shaoshan Liu
+Shaoshuai Zhang
 Shengchu Su
+Shichao Zhang
+Shining Sun
 Shiqing Li
 Shiyue Zhang
 Shuai Chen
@@ -181,7 +177,6 @@ Tao Ni
 Tao Yang
 Tei-Wei Kuo
 Tianchi Ren
-Tianfei Xu
 Tianyi Wang
 Tianyu Ren
 Tianyu Zhang
@@ -194,19 +189,18 @@ Wei Mao
 Wei Zhang
 Weichen Liu
 Weilan Wang
+Weipeng Jing
 Weiwei Shan
 Weizhe Zhang
-Wenchen Liu
 Wenhong Ma
 Wenjing Sun
 Wenjing Xie
-Wentao Zhu
+Wenxuan Wang
 Wenxuan Xing
 Xi Jin
 Xi Wang
 Xi Zhang
 Xian Shuai
-Xiang Long
 Xiangfeng Liu
 Xianglong Li
 Xiangzhen Xiao
@@ -230,10 +224,12 @@ Xudong Zhang
 Xue (Steve) Liu
 Xue Liu
 Xueli Fan
+Xuelong Li
 Xuemei Peng
 Ya Wen
 Yan Wang
 Yan Zhuang
+Yanfeng Lu
 Yang Bai
 Yang Jun
 Yang Li
@@ -241,7 +237,6 @@ Yang Lou
 Yang Wang
 Yao Chen
 Yaoyao Chi
-Yaoyao Ye
 Ye Ma
 Ye Yuan
 Yehan Ma
@@ -249,6 +244,7 @@ Yekai Xue
 Yeqiao Hou
 Yi Wang
 Yibo Zhang
+Yichen Liu
 Yihao Meng
 Yina Lv
 Yinan Zhu
@@ -271,7 +267,6 @@ Yuanzhen Mu
 Yubo Wang
 Yuchen Hu
 Yue Tang
-Yue Yin
 Yufei Chen
 Yufei Cui
 Yuhan Lin
@@ -284,15 +279,14 @@ Yunlong Yu
 Yuting Chen
 Yuxin Du
 Yuze He
-Ze-Wei Chen
-Zeke Wang
+Zebin Ma
 Zewei Chen
 Zhe Jiang
 Zheng Dong
+Zhengxiong Li
 Zhenyu Sun
 Zhenyu Yan
 Zhihe Zhao
-Zhiping Jia
 Zhishan Guo
 Zhiwei Feng
 Zhixiong Hao

@@ -1,4 +1,5 @@
 Alain Girault
+Andy D. Pimentel
 Antoni B. Chan
 Bo-Rong Lin
 Buzhou Tang
@@ -6,10 +7,7 @@ Camélia Slimani
 Can Chen
 Changlong Li
 Changsheng Xie
-Chao Wu
 Che-Wei Tsao
-Chenchen Fu
-Cheng Ji
 Cheng Yu
 Cheng-Jhih Shih
 Chi-Sheng Shih
@@ -27,7 +25,6 @@ Chih-Yuan Lu
 Ching-Wen Chen
 Chiy-Ferng Perng
 Chong-Ying Lee
-Christian Hakert
 Chun Jason Xue
 Chun-Feng Wu
 Chun-Hsiung Hung
@@ -51,11 +48,11 @@ Hong Xu
 Hongchao Du
 Hongyang Dang
 Hsiang-Pang Li
-Hsiang-Yun Cheng
 Hu Wan
 Huai-Mu Wang
 Hung-Chih Hsieh
 Jalil Boukhobza
+Jen-Wei Hsieh
 Jian-Jia Chen
 Jie Zhang
 Jinghuan Yu
@@ -65,17 +62,15 @@ Jun Wang
 Kam-Yiu Lam
 Kam-yiu Lam
 Keh-Chung Wang
-Kuan-Hsun Chen
 Kuo-Hsuan Hung
 Lee Chang
 Lei Li
-Li-Pin Chang
-Liang Shi
+Liang-Chi Chen
 Lianming Huang
 Mario Günzel
 Meng-Chao Kao
+Meng-Chia Lee
 Meng-Fan Chang
-Mi-Yen Yeh
 Miguel Rodrigues
 Min Ye
 Ming-Chang Yang
@@ -95,11 +90,9 @@ Shu-Hsien Liao
 Shuai Chen
 Shuhan Bai
 Shun Deng
-Siyu Chen
 Szu-Wei Fu
 Tei-Wei Kuo
 Tianyu Ren
-Ting-Shan Lo
 Tse-Yuan Wang
 Tsun-An Hsieh
 Tsung-Han Kuo
@@ -119,7 +112,6 @@ Xinyue Yu
 Xuan Sun
 Xue (Steve) Liu
 Xue Liu
-Yajuan Du
 Ye Yuan
 Yen-Po Lin
 Yi-Chun Liao
@@ -151,5 +143,4 @@ Yunmo Zhang
 Zheng Wan
 Zheng-Wei Wu
 Zhenge Jia
-Zhu-Mu Chen
 Ziquan Liu
