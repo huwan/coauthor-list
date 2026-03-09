@@ -94,6 +94,7 @@ Kecheng Yang
 Kui Wu
 Laiwen Li
 Lei Ju
+Lei Li
 Lei Qi
 Lei Qiao
 Lei Yang
@@ -145,10 +146,12 @@ Ran Bi
 Ran Wei
 Renato Mancuso
 Richard Paterson
+Riwei Pan
 Rong Su
 Rongxiao Shi
 Ruihu Wang
 Ruoxiang Li
+Sam H. Noh
 Sam-Zaak Wong
 SamZaak Wong
 Samsil Arefin
@@ -259,6 +262,7 @@ Yongzheng Sun
 Youshu Ji
 Yu Jiang
 Yu Li
+Yu Liang
 Yu Mao
 Yu-Kai Huang
 Yuan Zou

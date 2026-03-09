@@ -11,6 +11,7 @@ Congming Gao
 Deya Gao
 Dongdong Tang
 Dongsu Han
+Eric Xing
 Guan Gui
 Haibo Hu
 Haiyu Mao
@@ -21,6 +22,7 @@ Holger Pirk
 Hong Xu
 Hongchao Du
 Hu Wan
+Huaxiu Yao
 Huinan Chen
 Humaid Alqasimi
 Jason Xue
@@ -29,6 +31,7 @@ Jiacheng Huang
 Jiacheng Zuo
 Jiang Ma
 Jianping Wang
+Jianshu She
 Jiawen Liu
 Jiaxun Lu
 Jie Zhang
@@ -68,6 +71,7 @@ Qiang Su
 Qiao Li
 Qingan Li
 Qingcai Jiang
+Qirong Ho
 Quanqing Xu
 Rachata Ausavarungnirun
 Rakesh Nadig
@@ -75,6 +79,7 @@ Ran Shu
 Riwei Pan
 Rui Xu
 Ruoxiang Li
+Sam H. Noh
 Sang Hyuk Son
 Shangyu Wu
 Shih-Hao Hung
@@ -89,6 +94,7 @@ Wei Lin
 Weilan Wang
 Wendi Nie
 Wenhan Shang
+Wenhao Zheng
 Wenjing Xie
 Xiangrui Ke
 Xiaoli Wang
@@ -122,10 +128,12 @@ Yunmo Zhang
 Yuxin He
 Zexing Liu
 Zhanhao Liang
+Zhengzhong Liu
 Zhixiong Niu
 Zikang Zhou
 Ziquan Liu
 Ziwei Song
+Zonghang Li
 Zongwei Zhu
 https://ieeexplore.ieee.org/author/
 https://www.scopus.com/authid/detail.uri?authorId=

@@ -56,6 +56,7 @@ Ke Xu
 Kecheng Yang
 Kui Wu
 Lei Ju
+Lei Li
 Lei Qi
 Lianming Huang
 Liming Chen
@@ -90,9 +91,11 @@ Qingxu Deng
 Qixiang Chen
 Qixin Wang
 Ran Wei
+Riwei Pan
 Rong Su
 Ruihu Wang
 Ruoxiang Li
+Sam H. Noh
 Sam-Zaak Wong
 SamZaak Wong
 Seongtae Lee
@@ -168,6 +171,7 @@ Yong Xie
 Yongzheng Sun
 Youshu Ji
 Yu Jiang
+Yu Liang
 Yu Mao
 Yu-Kai Huang
 Yuan Zou

@@ -40,9 +40,11 @@ Kaiwei Mo
 Ke Xu
 Kui Wu
 Lei Ju
+Lei Li
 Lei Qi
 Lianming Huang
 Mengli Zhang
+Menglong Cui
 Mengnv Xing
 Mingsong Chen
 Mingsong Lv
@@ -61,9 +63,11 @@ Qichun Chen
 Qingqiang He
 Qingxu Deng
 Qixiang Chen
+Riwei Pan
 Rong Su
 Ruihu Wang
 Ruoxiang Li
+Sam H. Noh
 Sam-Zaak Wong
 SamZaak Wong
 Seongtae Lee
@@ -76,7 +80,9 @@ Shuai Chen
 Shuai Zhao
 Shuhan Bai
 Songran Liu
+Tao Hu
 Tao Ni
+Tao Yang
 Tei-Wei Kuo
 Tianchi Ren
 Tuo Shi
@@ -117,7 +123,9 @@ Yinan Zhu
 Ying Xiong
 Yixin Chen
 Yiyang Gao
+Yiyang Zhou
 Youshu Ji
+Yu Liang
 Yu Mao
 Yuan Zou
 Yuanzhen Mu

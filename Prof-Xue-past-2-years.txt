@@ -20,6 +20,7 @@ Deya Gao
 Dongdong Tang
 Dongsu Han
 Dongxiao Yu
+Eric Xing
 Fei Guan
 Fei Wu
 Guan Gui
@@ -37,6 +38,7 @@ Hongchao Du
 Hongming Huang
 Hongyang Dang
 Hu Wan
+Huaxiu Yao
 Huinan Chen
 Humaid Alqasimi
 Jason Xue
@@ -45,6 +47,7 @@ Jiacheng Huang
 Jiacheng Zuo
 Jiang Ma
 Jianping Wang
+Jianshu She
 Jiawen Liu
 Jiaxun Lu
 Jie Zhang
@@ -101,6 +104,7 @@ Qiao Li
 Qingan Li
 Qingcai Jiang
 Qingxu Deng
+Qirong Ho
 Quanqing Xu
 Rachata Ausavarungnirun
 Rakesh Nadig
@@ -109,6 +113,7 @@ Riwei Pan
 Rongbin Hu
 Rui Xu
 Ruoxiang Li
+Sam H. Noh
 Sang Hyuk Son
 Shangyu Wu
 Shih-Hao Hung
@@ -131,6 +136,7 @@ Weilan Wang
 Weiwei Wu
 Wendi Nie
 Wenhan Shang
+Wenhao Zheng
 Wenjing Xie
 Xianglong Li
 Xiangrui Ke
@@ -180,12 +186,14 @@ Zelin Yun
 Zexing Liu
 Zhanhao Liang
 Zheng Wan
+Zhengzhong Liu
 Zhiping Jia
 Zhirong Shen
 Zhixiong Niu
 Zikang Zhou
 Ziquan Liu
 Ziwei Song
+Zonghang Li
 Zongpeng Li
 Zongwei Zhu
 https://ieeexplore.ieee.org/author/

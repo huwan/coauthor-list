@@ -30,6 +30,7 @@ Dongsu Han
 Dongxiao Yu
 Duo Liu
 Edwin H.-M. Sha
+Eric Xing
 Fei Guan
 Fei Wu
 Guan Gui
@@ -51,6 +52,7 @@ Hongchao Du
 Hongming Huang
 Hongyang Dang
 Hu Wan
+Huaxiu Yao
 Huazhong Yang
 Huinan Chen
 Humaid Alqasimi
@@ -62,6 +64,7 @@ Jiacheng Zuo
 Jiamin Li
 Jiang Ma
 Jianping Wang
+Jianshu She
 Jiawen Liu
 Jiaxun Lu
 Jie Zhang
@@ -139,6 +142,7 @@ Qingan Li
 Qingcai Jiang
 Qingfeng Zhuge
 Qingxu Deng
+Qirong Ho
 Quanqing Xu
 Rachata Ausavarungnirun
 Rakesh Nadig
@@ -179,6 +183,7 @@ Weilan Wang
 Weiwei Wu
 Wendi Nie
 Wenhan Shang
+Wenhao Zheng
 Wenjing Xie
 Wuguannan Yao
 Xianglong Li
@@ -245,6 +250,7 @@ Zexing Liu
 Zhanhao Liang
 Zheng Dong
 Zheng Wan
+Zhengzhong Liu
 Zhiping Jia
 Zhirong Shen
 Zhixiong Niu
@@ -252,6 +258,7 @@ Zikang Zhou
 Zimeng Zhou
 Ziquan Liu
 Ziwei Song
+Zonghang Li
 Zongpeng Li
 Zongwei Zhu
 https://ieeexplore.ieee.org/author/
