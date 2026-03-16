@@ -23,6 +23,7 @@ Dongxiao Yu
 Eric Xing
 Fei Guan
 Fei Wu
+Futeng Yang
 Guan Gui
 Guanyu Wu
 Guoliang Xing
@@ -36,6 +37,7 @@ Holger Pirk
 Hong Xu
 Hongchao Du
 Hongming Huang
+Hongtao Wu
 Hongyang Dang
 Hu Wan
 Huaxiu Yao
@@ -46,6 +48,7 @@ Jen-Ming Wu
 Jiacheng Huang
 Jiacheng Zuo
 Jiang Ma
+Jianming Fu
 Jianping Wang
 Jianshu She
 Jiawen Liu
@@ -62,6 +65,7 @@ Jinkyu Lee
 Jiwu Shu
 Joseph Kee-Yin Ng
 Jun Wang
+Jun Yan
 Junhui He
 Junlong Zhu
 Junna Xing
@@ -80,6 +84,7 @@ Lianming Huang
 Libin Liu
 Lihao Dong
 Linjing Liu
+Mengfei Xie
 Menglong Cui
 Mengting Yuan
 Mengying Zhao
