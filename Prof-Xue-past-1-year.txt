@@ -12,6 +12,7 @@ Deya Gao
 Dongdong Tang
 Dongsu Han
 Eric Xing
+Futeng Yang
 Guan Gui
 Haibo Hu
 Haiyu Mao
@@ -21,6 +22,7 @@ Heng-Lin Yen
 Holger Pirk
 Hong Xu
 Hongchao Du
+Hongtao Wu
 Hu Wan
 Huaxiu Yao
 Huinan Chen
@@ -30,6 +32,7 @@ Jen-Ming Wu
 Jiacheng Huang
 Jiacheng Zuo
 Jiang Ma
+Jianming Fu
 Jianping Wang
 Jianshu She
 Jiawen Liu
@@ -42,6 +45,7 @@ Jingzong Li
 Jinhua Cui
 Joseph Kee-Yin Ng
 Jun Wang
+Jun Yan
 Junhui He
 Junna Xing
 Junqiao Qiu
@@ -53,6 +57,7 @@ Lei Li
 Liang Shi
 Lianming Huang
 Libin Liu
+Mengfei Xie
 Mengting Yuan
 Mingsong Lv
 Minhui (Jason) Xue
@@ -117,6 +122,7 @@ Ying Xiong
 Yixin Chen
 Yongqiang Xiong
 Youcheng Sun
+Yu Chen
 Yu Liang
 Yu Mao
 Yu Wang
