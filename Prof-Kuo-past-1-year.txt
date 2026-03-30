@@ -22,6 +22,7 @@ Kam-Yiu Lam
 Lei Li
 Liang-Chi Chen
 Meng-Chia Lee
+Ming-Feng Wei
 Nan Guan
 Pi-Cheng Hsiu
 Qiang Su
@@ -43,3 +44,4 @@ Yu Mao
 Yu-Hong Lai
 Yuan-Hao Chang
 Yun Huang
+Yun-Chih Chen

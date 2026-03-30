@@ -21,6 +21,7 @@ Hongchao Du
 Jen-Ming Wu
 Jiacheng Zuo
 Jiahui Liu
+Jialin Sun
 Jianmin Ye
 Jianping Wang
 Jie Zhou
@@ -76,6 +77,7 @@ Shaoshuai Zhang
 Shengchu Su
 Shichao Zhang
 Shining Sun
+Shiyue Zhang
 Shuai Chen
 Shuai Zhao
 Shuhan Bai
@@ -91,12 +93,14 @@ Wei Zhang
 Weichen Liu
 Weilan Wang
 Weipeng Jing
+Weiwei Shan
 Wenjing Sun
 Wenjing Xie
 Wenxuan Wang
 Xi Wang
 Xiangfeng Liu
 Xianglong Li
+Xiangrui Ke
 Xiantong Luo
 Xiao Jiang
 Xiaomeng Han

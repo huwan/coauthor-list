@@ -1,3 +1,4 @@
+Antoni B. Chan
 Aofeng Shen
 Arina Kharlamova
 Changlong Li
@@ -29,6 +30,7 @@ Huinan Chen
 Humaid Alqasimi
 Jason Xue
 Jen-Ming Wu
+Jiabiao Ding
 Jiacheng Huang
 Jiacheng Zuo
 Jiang Ma
@@ -42,6 +44,7 @@ Jin Wang
 Jing Zou
 Jingqin Fu
 Jingzong Li
+Jinheng Li
 Jinhua Cui
 Joseph Kee-Yin Ng
 Jun Wang
@@ -57,6 +60,7 @@ Lei Li
 Liang Shi
 Lianming Huang
 Libin Liu
+Linjing Liu
 Mengfei Xie
 Mengting Yuan
 Mingsong Lv
@@ -112,6 +116,7 @@ Xinyue Yi
 Xizhe Yin
 Xuan Sun
 Xue (Steve) Liu
+Xue Liu
 Xuehai Zhou
 Yajuan Du
 Yang Lou
@@ -135,6 +140,7 @@ Yuxin He
 Zexing Liu
 Zhanhao Liang
 Zhengzhong Liu
+Zhirong Shen
 Zhixiong Niu
 Zikang Zhou
 Ziquan Liu
