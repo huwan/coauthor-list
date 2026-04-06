@@ -9,6 +9,7 @@ Chun Hu
 Chun Jason Xue
 Chun Xue
 Congming Gao
+Dawei Wu
 Deya Gao
 Dongdong Tang
 Dongsu Han
@@ -54,6 +55,7 @@ Junna Xing
 Junqiao Qiu
 Juxin Niu
 Kai Liu
+Kaihuan Lin
 Kaiwei Mo
 Kam-Yiu Lam
 Lei Li
@@ -63,6 +65,7 @@ Libin Liu
 Linjing Liu
 Mengfei Xie
 Mengting Yuan
+Min Ye
 Mingsong Lv
 Minhui (Jason) Xue
 Minhui Xue
@@ -98,6 +101,7 @@ Tei-Wei Kuo
 Tianchi Ren
 Tianyi Zhang
 Tianyu Ren
+Ting Luo
 Victor C. S. Lee
 Wei Lin
 Weilan Wang
@@ -106,6 +110,7 @@ Wenhan Shang
 Wenhao Zheng
 Wenjing Xie
 Xiangrui Ke
+Xianzhang Chen
 Xiaoli Wang
 Xiaoyang Wang
 Xin He
@@ -122,6 +127,7 @@ Yajuan Du
 Yang Lou
 Yaoxin Duan
 Yik Hong Cai
+Yin Lin
 Yina Lv
 Ying Xiong
 Yixin Chen

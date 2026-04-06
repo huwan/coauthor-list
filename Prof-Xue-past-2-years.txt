@@ -16,6 +16,7 @@ Chun Jason Xue
 Chun Xue
 Congming Gao
 Daniel Wen
+Dawei Wu
 Deya Gao
 Dongdong Tang
 Dongsu Han
@@ -133,6 +134,7 @@ Tei-Wei Kuo
 Tianchi Ren
 Tianyi Zhang
 Tianyu Ren
+Ting Luo
 Victor C. S. Lee
 Vincent Chau
 Wei Lin
@@ -147,6 +149,7 @@ Wenjing Xie
 Xianglong Li
 Xiangrui Ke
 Xiangyu Yao
+Xianzhang Chen
 Xiaojun Cai
 Xiaoli Wang
 Xiaoxing Qiu
@@ -168,6 +171,7 @@ Yaoxin Duan
 Ye Yuan
 Yeqiao Hou
 Yik Hong Cai
+Yin Lin
 Yina Lv
 Ying Xiong
 Yixin Chen

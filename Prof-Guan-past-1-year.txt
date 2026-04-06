@@ -47,6 +47,7 @@ Lianming Huang
 Mengli Zhang
 Menglong Cui
 Mengnv Xing
+Min Ye
 Mingsong Chen
 Mingsong Lv
 Mingsong Lyu
@@ -87,6 +88,7 @@ Tao Ni
 Tao Yang
 Tei-Wei Kuo
 Tianchi Ren
+Tianyu Ren
 Tuo Shi
 Wang Yi
 Wei Zhang
@@ -102,6 +104,7 @@ Xiangfeng Liu
 Xianglong Li
 Xiangrui Ke
 Xiantong Luo
+Xianzhang Chen
 Xiao Jiang
 Xiaomeng Han
 Xin He
@@ -123,6 +126,7 @@ Yang Wang
 Yeqiao Hou
 Yi Wang
 Yichen Liu
+Yina Lv
 Yinan Zhu
 Ying Xiong
 Yixin Chen
