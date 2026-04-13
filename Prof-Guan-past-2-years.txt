@@ -126,6 +126,7 @@ Weipeng Jing
 Weiwei Shan
 Wenjing Sun
 Wenjing Xie
+Wenrui Lu
 Wenxuan Wang
 Xi Wang
 Xiangfeng Liu
@@ -144,6 +145,7 @@ Xinyao Jiao
 Xinyu Wang
 Xisheng Li
 Xu Jiang
+Xuan Huang
 Xudong Zhang
 Xue (Steve) Liu
 Xue Liu
@@ -193,6 +195,8 @@ Zebin Ma
 Zhe Jiang
 Zheng Dong
 Zhengxiong Li
+Zhenyu Yan
+Zhihe Zhao
 Zhishan Guo
 Zhiyang Lin
 Zhiying Wu

@@ -10,6 +10,7 @@ Dan Niu
 Dingrong Pan
 Dongdong Tang
 Fei Guan
+Guoliang Xing
 Gwok-Waa Wan
 Haibo Hu
 Haochun Liang
@@ -56,6 +57,7 @@ Morteza Hashemi Farzaneh
 Mun Choon Chan
 Naijun Zhan
 Nan Guan
+Neiwen Ling
 Ning Wang
 Qian Xu
 Qiang Su
@@ -98,6 +100,7 @@ Weipeng Jing
 Weiwei Shan
 Wenjing Sun
 Wenjing Xie
+Wenrui Lu
 Wenxuan Wang
 Xi Wang
 Xiangfeng Liu
@@ -115,6 +118,7 @@ Xinyao Jiao
 Xinyu Wang
 Xisheng Li
 Xu Jiang
+Xuan Huang
 Xudong Zhang
 Xue (Steve) Liu
 Xuelong Li
@@ -149,6 +153,8 @@ Yuxin Du
 Zebin Ma
 Zhe Jiang
 Zhengxiong Li
+Zhenyu Yan
+Zhihe Zhao
 Zhishan Guo
 Zhiyang Lin
 Zhiying Wu
