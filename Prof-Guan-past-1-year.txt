@@ -5,6 +5,7 @@ Boyang Li
 Changwen Xing
 Chaohai Yu
 Chen Tang
+Chenxu Niu
 Chun Jason Xue
 Dan Niu
 Dingrong Pan
@@ -69,6 +70,7 @@ Qingxu Deng
 Qixiang Chen
 Riwei Pan
 Rong Su
+Rongchang Song
 Ruihu Wang
 Ruoxiang Li
 Sam H. Noh
@@ -136,6 +138,7 @@ Ying Xiong
 Yixin Chen
 Yiyang Gao
 Yiyang Zhou
+Yong Chen
 Youshu Ji
 Yu Liang
 Yu Mao

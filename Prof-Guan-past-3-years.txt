@@ -8,6 +8,7 @@ Changwen Xing
 Chaohai Yu
 Chen Tang
 Chenhao Wu
+Chenxu Niu
 Chuancai Gu
 Chun Jason Xue
 Dan Niu
@@ -110,6 +111,7 @@ Ran Wei
 Renato Mancuso
 Riwei Pan
 Rong Su
+Rongchang Song
 Ruihu Wang
 Ruoxiang Li
 Sam H. Noh
@@ -206,6 +208,7 @@ Yiru Xu
 Yixin Chen
 Yiyang Gao
 Yiyang Zhou
+Yong Chen
 Yong Xie
 Yongzheng Sun
 Youshu Ji
