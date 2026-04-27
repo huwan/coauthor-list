@@ -17,6 +17,7 @@ Chen Tang
 Cheng Fan
 Cheng Zhuo
 Chenhao Wu
+Chenxu Niu
 Chuancai Gu
 Chun Jason Xue
 Chunhua Xiao
@@ -148,6 +149,7 @@ Renato Mancuso
 Richard Paterson
 Riwei Pan
 Rong Su
+Rongchang Song
 Rongxiao Shi
 Ruihu Wang
 Ruoxiang Li
@@ -198,6 +200,7 @@ Weizhe Zhang
 Wenhong Ma
 Wenjing Sun
 Wenjing Xie
+Wenrui Lu
 Wenxuan Wang
 Wenxuan Xing
 Xi Jin
@@ -259,6 +262,7 @@ Yixin Chen
 Yiyang Gao
 Yiyang Zhou
 Yiyuan Xie
+Yong Chen
 Yong Xie
 Yongzheng Sun
 Youshu Ji
