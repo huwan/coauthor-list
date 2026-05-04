@@ -19,6 +19,7 @@ Chun Xue
 Cong Wang
 Congming Gao
 Daniel Wen
+Dawei Wu
 Deya Gao
 Dongdong Tang
 Dongsu Han
@@ -55,6 +56,7 @@ Humaid Alqasimi
 Hung-Chih Hsieh
 Jason Xue
 Jen-Ming Wu
+Jiabiao Ding
 Jiacheng Huang
 Jiacheng Zuo
 Jiamin Li
@@ -166,6 +168,7 @@ Theocharis Theocharides
 Tianchi Ren
 Tianyi Zhang
 Tianyu Ren
+Ting Luo
 Tongda Wu
 Victor C. S. Lee
 Vincent Chau
@@ -212,6 +215,7 @@ Yaoxin Duan
 Ye Yuan
 Yeqiao Hou
 Yik Hong Cai
+Yin Lin
 Yina Lv
 Ying Xiong
 Yixin Chen
