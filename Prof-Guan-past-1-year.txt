@@ -20,7 +20,9 @@ Heng-Lin Yen
 Hong Gao
 Hong Xu
 Hongchao Du
+Hugo Jiang
 Jen-Ming Wu
+Jia Xiong
 Jiacheng Zuo
 Jiahui Liu
 Jialin Sun
@@ -46,6 +48,7 @@ Lei Ju
 Lei Li
 Lei Qi
 Lianming Huang
+Lik Tung Fu
 Mengli Zhang
 Menglong Cui
 Mengnv Xing
@@ -78,6 +81,7 @@ Sam-Zaak Wong
 SamZaak Wong
 Seongtae Lee
 Shangyu Wu
+Shaokai Ren
 Shaoshuai Zhang
 Shengchu Su
 Shichao Zhang
