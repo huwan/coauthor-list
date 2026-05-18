@@ -54,10 +54,12 @@ Hong Gao
 Hong Xu
 Hongchao Du
 Hongming Huang
+Hugo Jiang
 Hui Chen
 Hyoseung Kim
 Insik Shin
 Jen-Ming Wu
+Jia Xiong
 Jiacheng Zuo
 Jiahui Liu
 Jialin Sun
@@ -100,6 +102,7 @@ Lei Qi
 Lei Qiao
 Lei Yang
 Lianming Huang
+Lik Tung Fu
 Liming Chen
 Linbo Long
 Liwei Zhang
@@ -160,6 +163,7 @@ Samsil Arefin
 Sebastian Steinhorst
 Seongtae Lee
 Shangyu Wu
+Shaokai Ren
 Shaoshan Liu
 Shaoshuai Zhang
 Shengchu Su

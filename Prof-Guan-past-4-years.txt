@@ -11,6 +11,7 @@ Chen Tang
 Cheng Fan
 Cheng Zhuo
 Chenhao Wu
+Chenxu Niu
 Chuancai Gu
 Chun Jason Xue
 Chunhua Xiao
@@ -43,10 +44,12 @@ Hong Gao
 Hong Xu
 Hongchao Du
 Hongming Huang
+Hugo Jiang
 Hui Chen
 Hyoseung Kim
 Insik Shin
 Jen-Ming Wu
+Jia Xiong
 Jiacheng Zuo
 Jiahui Liu
 Jialin Sun
@@ -85,6 +88,7 @@ Lei Li
 Lei Qi
 Lei Qiao
 Lianming Huang
+Lik Tung Fu
 Liming Chen
 Linbo Long
 Liwei Zhang
@@ -132,6 +136,7 @@ Renato Mancuso
 Richard Paterson
 Riwei Pan
 Rong Su
+Rongchang Song
 Ruihu Wang
 Ruoxiang Li
 Sam H. Noh
@@ -140,6 +145,7 @@ SamZaak Wong
 Sebastian Steinhorst
 Seongtae Lee
 Shangyu Wu
+Shaokai Ren
 Shaoshan Liu
 Shaoshuai Zhang
 Shengchu Su
@@ -179,14 +185,17 @@ Weizhe Zhang
 Wenhong Ma
 Wenjing Sun
 Wenjing Xie
+Wenrui Lu
 Wenxuan Wang
 Wenxuan Xing
 Xi Wang
 Xian Shuai
 Xiangfeng Liu
 Xianglong Li
+Xiangrui Ke
 Xiangzhen Xiao
 Xiantong Luo
+Xianzhang Chen
 Xiao Jiang
 Xiaobo Sharon Hu
 Xiaomeng Han
@@ -235,6 +244,7 @@ Yixin Chen
 Yiyang Gao
 Yiyang Zhou
 Yiyuan Xie
+Yong Chen
 Yong Xie
 Yongzheng Sun
 Youshu Ji
