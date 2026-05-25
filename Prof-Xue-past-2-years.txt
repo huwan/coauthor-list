@@ -32,6 +32,7 @@ Haibo Hu
 Haiyu Mao
 Hancong Duan
 Hanming Sun
+Haochen Liu
 Haolun Wu
 Heng-Lin Yen
 Holger Pirk
@@ -118,9 +119,11 @@ Rakesh Nadig
 Ran Shu
 Riwei Pan
 Rongbin Hu
+Rui Song
 Rui Xu
 Ruoxiang Li
 Sam H. Noh
+Sam Nallaperuma
 Sang Hyuk Son
 Shangyu Wu
 Shih-Hao Hung
@@ -140,6 +143,7 @@ Vincent Chau
 Wei Lin
 Wei Zhang
 Weidong Wen
+Weien Li
 Weilan Wang
 Weiwei Wu
 Wendi Nie
@@ -150,6 +154,7 @@ Xianglong Li
 Xiangrui Ke
 Xiangyu Yao
 Xianzhang Chen
+Xiao-Yang Liu
 Xiaojun Cai
 Xiaoli Wang
 Xiaoxing Qiu
@@ -194,6 +199,7 @@ Yunmo Zhang
 Yuxin He
 Zelin Yun
 Zexing Liu
+Zeyu Li
 Zhanhao Liang
 Zheng Wan
 Zhengzhong Liu
