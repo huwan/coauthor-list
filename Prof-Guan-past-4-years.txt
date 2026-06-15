@@ -9,6 +9,7 @@ Changwen Xing
 Chaohai Yu
 Chen Tang
 Cheng Fan
+Cheng Ni
 Cheng Zhuo
 Chenhao Wu
 Chenxu Niu
@@ -35,6 +36,7 @@ Hao Sun
 Hao Yu
 Haochun Liang
 Haolun Wu
+Haowen Fang
 Hefei Feng
 Heming Fu
 Heng-Lin Yen
@@ -62,6 +64,7 @@ Jianzhong Liu
 Jiarui Wang
 Jie Fan
 Jie Zhou
+Jieran Cui
 Jin Wang
 Jinghao Sun
 Jingyi Zhang
@@ -100,6 +103,7 @@ Menglong Cui
 Mengnv Xing
 Mengquan Li
 Min Ye
+Mingchi Zhang
 Minghe Yu
 Mingsong Chen
 Mingsong Lv
@@ -236,6 +240,7 @@ Yeqiao Hou
 Yi Wang
 Yibo Zhang
 Yichen Liu
+Yifan Zhang
 Yihao Meng
 Yina Lv
 Yinan Zhu
@@ -275,6 +280,7 @@ Zebin Ma
 Zewei Chen
 Zhe Jiang
 Zheng Dong
+Zhengkai Wen
 Zhengxiong Li
 Zhenyu Sun
 Zhenyu Yan

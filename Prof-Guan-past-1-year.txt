@@ -5,6 +5,7 @@ Boyang Li
 Changwen Xing
 Chaohai Yu
 Chen Tang
+Cheng Ni
 Chenxu Niu
 Chun Jason Xue
 Dan Niu
@@ -16,6 +17,7 @@ Gwok-Waa Wan
 Haibo Hu
 Hanyuan Liu
 Haochun Liang
+Haowen Fang
 Hefei Feng
 Heng-Lin Yen
 Hong Gao
@@ -30,6 +32,7 @@ Jialin Sun
 Jianmin Ye
 Jianping Wang
 Jie Zhou
+Jieran Cui
 Jin Wang
 Jinghao Sun
 Jingyi Zhang
@@ -54,6 +57,7 @@ Mengli Zhang
 Menglong Cui
 Mengnv Xing
 Min Ye
+Mingchi Zhang
 Mingsong Chen
 Mingsong Lv
 Mingsong Lyu
@@ -137,6 +141,7 @@ Yang Wang
 Yeqiao Hou
 Yi Wang
 Yichen Liu
+Yifan Zhang
 Yina Lv
 Yinan Zhu
 Ying Xiong
@@ -160,6 +165,7 @@ Yunlong Yu
 Yuxin Du
 Zebin Ma
 Zhe Jiang
+Zhengkai Wen
 Zhengxiong Li
 Zhenyu Yan
 Zhihe Zhao

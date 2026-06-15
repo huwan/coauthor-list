@@ -23,6 +23,7 @@ Chun Jason Xue
 Chun Xue
 Cong Wang
 Congming Gao
+Daniel Kroening
 Daniel Wen
 Dawei Wu
 Deya Gao
@@ -165,6 +166,7 @@ Sam Nallaperuma
 Sang Hyuk Son
 Shangyu Wu
 Shaofeng Wu
+Shaohua Wan
 Shih-Hao Hung
 Shuai Chen
 Shudeng Wu
@@ -230,6 +232,7 @@ Yang Lou
 Yaoxin Duan
 Ye Yuan
 Yeqiao Hou
+Yifan Zhang
 Yik Hong Cai
 Yin Lin
 Yina Lv
@@ -259,6 +262,7 @@ Yunmo Zhang
 Yunpeng Song
 Yuxin He
 Zaoxing Liu
+Zehui Xiong
 Zelin Yun
 Zexing Liu
 Zeyu Li
@@ -273,7 +277,9 @@ Zikang Zhou
 Zimeng Zhou
 Ziquan Liu
 Ziwei Song
+Ziyang Shen
 Zonghang Li
+Zonghua Gu
 Zongpeng Li
 Zongwei Zhu
 https://ieeexplore.ieee.org/author/
