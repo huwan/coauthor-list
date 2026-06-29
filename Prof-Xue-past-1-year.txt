@@ -9,6 +9,7 @@ Chun Hu
 Chun Jason Xue
 Chun Xue
 Congming Gao
+Daniel Kroening
 Dawei Wu
 Deya Gao
 Dongdong Tang
@@ -20,6 +21,7 @@ Haibo Hu
 Haiyu Mao
 Hancong Duan
 Hanming Sun
+Haochen Liu
 Heng-Lin Yen
 Holger Pirk
 Hong Xu
@@ -89,14 +91,18 @@ Rachata Ausavarungnirun
 Rakesh Nadig
 Ran Shu
 Riwei Pan
+Rui Song
 Rui Xu
 Ruoxiang Li
 Sam H. Noh
+Sam Nallaperuma
 Sang Hyuk Son
 Shangyu Wu
+Shaohua Wan
 Shih-Hao Hung
 Shuai Chen
 Shuhan Bai
+Tao Hu
 Tei-Wei Kuo
 Tianchi Ren
 Tianyi Zhang
@@ -104,6 +110,7 @@ Tianyu Ren
 Ting Luo
 Victor C. S. Lee
 Wei Lin
+Weien Li
 Weilan Wang
 Wendi Nie
 Wenhan Shang
@@ -111,6 +118,7 @@ Wenhao Zheng
 Wenjing Xie
 Xiangrui Ke
 Xianzhang Chen
+Xiao-Yang Liu
 Xiaoli Wang
 Xiaoyang Wang
 Xin He
@@ -126,6 +134,8 @@ Xuehai Zhou
 Yajuan Du
 Yang Lou
 Yaoxin Duan
+Ye Yuan
+Yifan Zhang
 Yik Hong Cai
 Yin Lin
 Yina Lv
@@ -143,15 +153,20 @@ Yunfeng Shao
 Yung-Hui Li
 Yunmo Zhang
 Yuxin He
+Zehui Xiong
 Zexing Liu
+Zeyu Li
 Zhanhao Liang
+Zheng Wan
 Zhengzhong Liu
 Zhirong Shen
 Zhixiong Niu
 Zikang Zhou
 Ziquan Liu
 Ziwei Song
+Ziyang Shen
 Zonghang Li
+Zonghua Gu
 Zongwei Zhu
 https://ieeexplore.ieee.org/author/
 https://www.scopus.com/authid/detail.uri?authorId=
